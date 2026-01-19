@@ -2,7 +2,7 @@
 
 **Carpeta:** `01-investigacion-datos-brutos/`  
 **Propósito:** Raw data de investigación de mercado y planificación  
-**Estado:** 70% completo (datos verificados disponibles, faltan datos de campo)  
+**Estado:** Research data 70% complete - CRITICAL: Mystery shopping needed for pricing validation  
 **Última actualización:** 18 Enero 2026
 
 ---

@@ -1,3 +1,13 @@
+# 📋 PROJECT SUMMARY - FOR DEVELOPERS & CONSULTANTS
+
+> **👤 WHO IS THIS FOR?** Developers, consultants, technical team  
+> **📌 Purpose:** Understand HOW the project was built  
+> **⏱️ Time:** 30 minutes  
+> **📍 When:** If you're contributing to the project or auditing the work  
+> **⚠️ NOT FOR MIKE:** Mike should read `referencias/00-resumen-ejecutivo.md` instead
+
+---
+
 # 00 - PLAN MAESTRO: PROYECTO CONSULTORIO DE FISIOTERAPIA MIKE
 
 **Cliente:** Mike  

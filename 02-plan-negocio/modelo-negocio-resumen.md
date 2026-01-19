@@ -1,4 +1,10 @@
-# 🏢 RESUMEN EJECUTIVO: Modelo de Negocio
+# 🏢 BUSINESS MODEL SUMMARY
+
+> **👤 WHO IS THIS FOR?** Mike (business owner)  
+> **📌 Purpose:** Business model canvas in executable format  
+> **⏱️ Time:** 15 minutes  
+> **📍 When:** AFTER reading `referencias/00-resumen-ejecutivo.md`  
+> **🔗 Relationship:** This is a DETAILED breakdown of the business model mentioned in the executive summary
 
 **Para:** Mike González  
 **Propósito:** Tu business model en formato ejecutable  

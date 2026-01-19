@@ -1,5 +1,10 @@
 # 🎯 RESUMEN EJECUTIVO - CONSULTORIO FISIOTERAPIA MIKE
 
+> **👤 WHO IS THIS FOR?** Mike (business owner) - READ THIS FIRST  
+> **📌 Purpose:** GO/NO-GO decision in 5 pages  
+> **⏱️ Time:** 10 minutes  
+> **📍 When:** Before reading ANY other document
+
 **Para:** Mike González - Kinesiólogo  
 **Fecha:** 19 Enero 2026  
 **Propósito:** Decisión GO/NO-GO en 5 páginas (reemplaza plan de 180 páginas)  

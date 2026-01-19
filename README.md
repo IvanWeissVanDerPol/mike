@@ -21,6 +21,20 @@ Este repositorio contiene **tu plan de negocio completo**:
 
 ---
 
+## 📚 CONFUSED BY MULTIPLE "SUMMARIES"? READ THIS
+
+**This repo has 3 different summary documents. Here's which one to read:**
+
+| Document | For Who? | When? | Purpose |
+|----------|----------|-------|---------|
+| 📄 [`referencias/00-resumen-ejecutivo.md`](referencias/00-resumen-ejecutivo.md) | **Mike (YOU)** | **READ FIRST** | GO/NO-GO decision (10 min) |
+| 📄 [`02-plan-negocio/modelo-negocio-resumen.md`](02-plan-negocio/modelo-negocio-resumen.md) | Mike | After executive summary | Business model details (15 min) |
+| 📄 [`docs/project-summary-DEVELOPERS.md`](docs/project-summary-DEVELOPERS.md) | Developers/consultants | If contributing to project | How the project was built (30 min) |
+
+**→ If you're Mike and just starting: ONLY read the first one.**
+
+---
+
 ## 🚀 CÓMO EMPEZAR (3 PASOS)
 
 ### **PASO 1: Lee el Resumen Ejecutivo** (5 minutos)
@@ -365,7 +379,7 @@ El 2% restante es personalizarlo a TU situación específica:
 
 | Métrica | Valor |
 |---------|-------|
-| **Completitud** | 98% (falta cuestionario) |
+| **Completitud** | 98% (pendiente: FASE-00 + mystery shopping) |
 | **Calidad** | 9.8/10 (TOP 1%) |
 | **Documentos** | 13 archivos (~190 páginas) |
 | **Datos verificados** | 200+ puntos |
