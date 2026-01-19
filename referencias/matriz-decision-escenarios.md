@@ -33,7 +33,7 @@
 | Criterio | Esc. 1<br>Domicilio | Esc. 2<br>Mixto SL | Esc. 3<br>Cons. Mín | Esc. 4<br>Mixto ASU | Esc. 5<br>Premium |
 |----------|:-------------------:|:------------------:|:-------------------:|:-------------------:|:-----------------:|
 | **💰 Inversión** | Gs. 4.75M | Gs. 38.5M | Gs. 35M | Gs. 55.4M | Gs. 75M |
-| **⚡ Break-even** | 15 ses/mes | 32 ses/mes | 42 ses/mes | 35 ses/mes | 51 ses/mes |
+| **⚡ Break-even** | 15 ses/mes | 32 ses/mes | 42 ses/mes | 37 ses/mes | 51 ses/mes |
 | **📈 ROI Año 1** | **857%** 🔥 | 69% | 84% | 37% | 24% |
 | **⏱️ Payback** | **1.4 meses** | 18 meses | 14 meses | 27 meses | 42 meses |
 | **🎯 Riesgo** | **MUY BAJO** ✅ | BAJO | MEDIO | MEDIO | ALTO ❌ |

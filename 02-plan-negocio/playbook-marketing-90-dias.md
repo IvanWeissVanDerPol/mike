@@ -1,7 +1,7 @@
 # 🚀 PLAYBOOK MARKETING & ADQUISICIÓN - Primeros 90 Días
 
 **Propósito:** Plan táctico semana-por-semana para conseguir primeros 40-60 pacientes  
-**Objetivo:** Alcanzar break-even (35 sesiones/mes) en Mes 3-4  
+**Objetivo:** Alcanzar break-even (37 sesiones/mes) en Mes 3-4  
 **Filosofía:** Ejecución > Perfección. HACER, medir, ajustar.  
 **Fecha:** Enero 2026
 
@@ -9,12 +9,12 @@
 
 ## 🎯 OBJETIVO GENERAL: PRIMEROS 90 DÍAS
 
-**Meta principal:** **Break-even mes 4** (35 sesiones/mes)  
+**Meta principal:** **Break-even mes 4** (37 sesiones/mes)  
 **Submetas:**
 - Mes 1: 15-25 sesiones (validación)
 - Mes 2: 25-35 sesiones (tracción)
-- Mes 3: 35-45 sesiones (break-even alcanzado)
-- **Mes 4:** 45-55 sesiones (rentable)
+- Mes 3: 37-47 sesiones (break-even alcanzado)
+- **Mes 4:** 47-57 sesiones (rentable)
 
 **Métricas clave:**
 - 40-50 pacientes activos (base recurrente)
@@ -260,7 +260,7 @@ Lic. Fisioterapia - Reg. MSPBS [Número]
 
 #### **SEMANA 9-12: SOSTENIBILIDAD** (Días 61-90)
 
-**Objetivo:** Break-even (35 sesiones/mes) alcanzado y sostenido
+**Objetivo:** Break-even (37 sesiones/mes) alcanzado y sostenido
 
 **Foco principal:** **RETENCIÓN > ADQUISICIÓN**
 
@@ -665,7 +665,7 @@ Lic. Fisioterapia - Reg. [Número]
 | **Ingresos** | Gs. 3-3.75M | Gs. 4.5-5.25M | Gs. 6-7.5M | **Gs. 6-7.5M** ✅ |
 | **CAC** | Gs. 100-200K | Gs. 80-120K | Gs. 60-100K | **< Gs. 100K** ✅ |
 
-**Break-even:** Alcanzado Mes 3-4 (35 sesiones/mes × Gs. 150K = Gs. 5.25M > Costos fijos Gs. 5.53M)
+**Break-even:** Alcanzado Mes 3-4 (37 sesiones/mes × Gs. 150K = Gs. 5.55M > Costos fijos Gs. 5.53M)
 
 ---
 

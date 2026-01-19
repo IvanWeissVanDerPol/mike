@@ -13,8 +13,8 @@
 | **1. DOMICILIO PURO** | Gs. 4,750,000 | Solo domicilio | Gs. 3,400,000/mes | **857%** | **1.4 meses** | 15 sesiones/mes | **MUY BAJO** |
 | **2. MIXTO BÁSICO (SL)** | Gs. 38,500,000 | Consultorio SL + domicilio | Gs. 3,200,000/mes | 99.8% | 12 meses | 32 sesiones/mes | BAJO |
 | **3. CONSULTORIO MÍNIMO** | Gs. 35,000,000 | Solo consultorio básico | Gs. 2,400,000/mes | 82.3% | 14.6 meses | 42 sesiones/mes | MEDIO |
-| **4. MIXTO COMPLETO (ASU)** | Gs. 54,449,850 | Consultorio ASU + domicilio | Gs. 3,850,000/mes | 84.8% | 14.1 meses | 35 sesiones/mes | MEDIO |
-| **5. CONSULTORIO ÓPTIMO** | Gs. 75,000,000 | Solo consultorio premium | Gs. 4,200,000/mes | 67.2% | 17.9 meses | 35 sesiones/mes | MEDIO-ALTO |
+| **4. MIXTO COMPLETO (ASU)** | Gs. 54,449,850 | Consultorio ASU + domicilio | Gs. 3,850,000/mes | 84.8% | 14.1 meses | 37 sesiones/mes | MEDIO |
+| **5. CONSULTORIO ÓPTIMO** | Gs. 75,000,000 | Solo consultorio premium | Gs. 4,200,000/mes | 67.2% | 17.9 meses | 51 sesiones/mes | MEDIO-ALTO |
 
 **🎯 RECOMENDACIÓN GENERAL:**
 - **Poco capital (< Gs. 10M):** Escenario 1 (Domicilio Puro)
@@ -557,7 +557,7 @@ Si Mike tiene contactos o hace buen marketing inicial:
 | Métrica | Valor (Conservador) | Valor (Optimista) |
 |---------|---------------------|-------------------|
 | **Inversión inicial** | Gs. 55,399,850 | Gs. 55,399,850 |
-| **Break-even** | **35 sesiones/mes** | **35 sesiones/mes** |
+| **Break-even** | **37 sesiones/mes** | **37 sesiones/mes** |
 | **ROI año 1** | **36.5%** | **56.0%** |
 | **Payback** | **27 meses** | **18 meses** |
 | **Margen neto** | **23.3%** | **32.3%** |
@@ -577,12 +577,12 @@ Si Mike tiene contactos o hace buen marketing inicial:
 ### **DESVENTAJAS:**
 ❌ **Inversión alta** - Gs. 55.4M  
 ❌ **Commute 30-45 min** desde San Lorenzo  
-❌ **Break-even moderado** - 35 sesiones/mes (alcanzable pero no inmediato)  
+❌ **Break-even moderado** - 37 sesiones/mes (alcanzable pero no inmediato)  
 ❌ **Mayor complejidad operativa** - Manejar dos calendarios
 
 ### **RIESGOS:**
 ⚠️ **MEDIO** - Gs. 55.4M en riesgo  
-⚠️ Si no llega a 35 sesiones/mes meses 4-6, evaluar pivotar solo domicilio  
+⚠️ Si no llega a 37 sesiones/mes meses 4-6, evaluar pivotar solo domicilio  
 ⚠️ Dependencia de domicilio los primeros 3-6 meses para cubrir costos fijos
 
 ---
@@ -690,7 +690,7 @@ Consultorio premium en Villa Morra/Carmelitas. Equipamiento completo, ambientaci
 |----------|----------------|----------|-----------------|-----------|---------------------|
 | **Inversión** | Gs. 4.75M | Gs. 38.5M | Gs. 35M | Gs. 55.4M | Gs. 75M |
 | **Costos fijos/mes** | Gs. 160K | Gs. 2.1M | Gs. 3.4M | Gs. 3.7M | Gs. 9.2M |
-| **Break-even** | 15 ses/mes | 32 ses/mes | 42 ses/mes | 35 ses/mes | 51 ses/mes |
+| **Break-even** | 15 ses/mes | 32 ses/mes | 42 ses/mes | 37 ses/mes | 51 ses/mes |
 | **Precio promedio** | Gs. 160K | Gs. 138K | Gs. 145K | Gs. 160K | Gs. 185K |
 | **ROI año 1** | **857%** | 69% | 84% | 37% | 24% |
 | **Payback** | **1.4 meses** | 18 meses | 14 meses | 27 meses | 42 meses |
@@ -775,7 +775,7 @@ Consultorio premium en Villa Morra/Carmelitas. Equipamiento completo, ambientaci
 ### **Escenario 5 (Premium):**
 ✅ **ÉXITO:** 51+ sesiones/mes mes 6  
 ⚠️ **ALERTA:** 35-50 sesiones mes 6  
-❌ **FRACASO:** < 35 sesiones mes 9
+❌ **FRACASO:** < 37 sesiones mes 9
 
 ---
 

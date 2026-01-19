@@ -57,7 +57,7 @@
 
 ---
 
-### **OPCIÓN B: CONSULTORIO ASUNCIÓN - Gs. 54.4M (~USD $7,260)**
+### **OPCIÓN B: CONSULTORIO ASUNCIÓN - Gs. 55.4M (~USD $7,395)**
 
 **Para quién:** Capital moderado, quiere escalar, imagen profesional.
 
@@ -87,11 +87,11 @@
 
 ---
 
-### **OPCIÓN C: MIXTO COMPLETO - Gs. 54.4M + domicilio**
+### **OPCIÓN C: MIXTO COMPLETO - Gs. 55.4M + domicilio**
 
 **Para quién:** Quiere lo mejor de ambos mundos.
 
-**Inversión:** Igual que Opción B (Gs. 54.4M)
+**Inversión:** Igual que Opción B (Gs. 55.4M)
 
 **Modelo:**
 - Consultorio lunes-viernes 8am-6pm (80% sesiones)
@@ -104,7 +104,7 @@
 - Ganancia neta: Gs. 46.2M
 - **ROI: 84.8%** | **Payback: 14.1 meses**
 
-**Break-even:** 35 sesiones/mes (mix 28 consultorio + 7 domicilio)
+**Break-even:** 37 sesiones/mes (mix 30 consultorio + 7 domicilio)
 
 ✅ **Ventajas:** Ingresos máximos, flexibilidad, captura todos los segmentos  
 ❌ **Desventajas:** Mayor complejidad operativa, más horas trabajo
@@ -115,10 +115,10 @@
 
 | Métrica | Domicilio Puro | Consultorio ASU | Mixto Completo |
 |---------|----------------|-----------------|----------------|
-| **Inversión** | Gs. 4.75M | Gs. 54.4M | Gs. 54.4M |
+| **Inversión** | Gs. 4.75M | Gs. 55.4M | Gs. 55.4M |
 | **ROI Año 1** | 857% 🔥 | 61.5% | 84.8% |
 | **Payback** | 1.4 meses | 19.5 meses | 14.1 meses |
-| **Break-even** | 15 ses/mes | 37 ses/mes | 35 ses/mes |
+| **Break-even** | 15 ses/mes | 37 ses/mes | 37 ses/mes |
 | **Riesgo** | Muy Bajo ✅ | Medio | Medio |
 | **Capacidad máx** | 60 ses/mes | 120 ses/mes | 140+ ses/mes |
 | **Ingresos Año 1** | Gs. 59.8M | Gs. 87.4M | Gs. 89.6M |

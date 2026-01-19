@@ -54,7 +54,7 @@ Cuando recibas los datos de FASE-00, busca y reemplaza:
 - **Costos operativos:** Gs. 66,356,000
 - **Ganancia neta:** Gs. 20,184,000
 - **ROI:** `[ROI_ESCENARIO]`% 
-- **Break-even:** 35 sesiones/mes (alcanzado mes 4)
+- **Break-even:** 37 sesiones/mes (alcanzado mes 4)
 - **Payback:** 18-20 meses
 
 **Recomendación:** `[ESCENARIO_ELEGIDO]` es la opción óptima dado:
@@ -76,7 +76,7 @@ Cuando recibas los datos de FASE-00, busca y reemplaza:
 | **1** | Domicilio Puro | Gs. 4.75M | 15 ses/mes | 857% | Gs. 5.1M | MUY BAJO |
 | **2** | Mixto SL | Gs. 38.5M | 32 ses/mes | 69% | Gs. 3.3M | BAJO |
 | **3** | Consultorio Mín | Gs. 35M | 42 ses/mes | 84% | Gs. 2.4M | MEDIO |
-| **4** | Mixto ASU | Gs. 55.4M | 35 ses/mes | 37% | Gs. 3.3M | MEDIO |
+| **4** | Mixto ASU | Gs. 55.4M | 37 ses/mes | 37% | Gs. 3.3M | MEDIO |
 | **5** | Consultorio Premium | Gs. 75M | 51 ses/mes | 24% | Gs. 3.5M | ALTO |
 
 ### DECISIÓN:

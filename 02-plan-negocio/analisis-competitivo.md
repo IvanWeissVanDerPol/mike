@@ -232,7 +232,7 @@ BAJO PRECIO ────┼──── ALTO PRECIO
 - Mes 12-18: Contratar 2do fisio si demanda excede capacidad
 - Enfoque calidad sobre volumen año 1
 
-**Capacidad:** 50-60 sesiones/mes máximo año 1 (suficiente para break-even 35 ses/mes)
+**Capacidad:** 50-60 sesiones/mes máximo año 1 (suficiente para break-even 37 ses/mes)
 
 ---
 
