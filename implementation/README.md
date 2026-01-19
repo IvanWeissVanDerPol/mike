@@ -6,7 +6,7 @@
 
 ---
 
-## 📁 CONTENIDO (4 archivos)
+## 📁 CONTENIDO (5 guías de implementación + 1 pendiente)
 
 ### **1. plan-accion-30-dias.md** ⭐ (19KB, ~530 líneas)
 
@@ -66,14 +66,46 @@
 
 ---
 
-### **4. Guías pendientes** ⚠️
+### **4. guia-dnit-resimple.md** ⭐ (15KB, ~400 líneas) ✅ CREADO
 
-**PENDIENTES DE CREAR:**
-- `guia-dnit-resimple.md` - Setup impuestos IRE RESIMPLE
-- `guia-redes-sociales.md` - Configurar Facebook/Instagram
-- `template-contabilidad-simple.xlsx` - Plantilla registro ingresos/gastos
+**Para qué:** Guía completa para registrarte en DNIT (impuestos IRE RESIMPLE)
 
-**Estado:** Próximamente (marcadas en plan-accion-30-dias.md)
+**Lo que cubre:**
+- Paso a paso registro RUC profesional
+- Setup IRE RESIMPLE (Gs. 20-80K/mes)
+- Facturación electrónica
+- Compliance mensual
+- Plantillas y checklists
+
+**Tiempo:** 2-3 horas (trámite completo)
+
+**Cuándo usar:** Día 1-2 del plan 30 días.
+
+---
+
+### **5. template-contabilidad-simple.md** ⭐ (12KB, ~330 líneas) ✅ CREADO
+
+**Para qué:** Sistema simple de contabilidad para Año 1
+
+**Lo que cubre:**
+- Registro ingresos/egresos mensual
+- Cálculo impuestos RESIMPLE
+- Control flujo caja
+- Plantilla Google Sheets convertible
+- Compliance tributario mensual
+
+**Tiempo:** 15 min setup inicial, 30 min/mes mantenimiento
+
+**Cuándo usar:** Desde Día 1 (trackear todo desde inicio).
+
+---
+
+### **6. Guía pendiente** ⚠️
+
+**PENDIENTE DE CREAR:**
+- `guia-redes-sociales.md` - Configurar Facebook/Instagram (opcional, prioridad baja)
+
+**Estado:** Creación futura si Mike solicita. Google Business + WhatsApp son suficientes para Año 1.
 
 ---
 

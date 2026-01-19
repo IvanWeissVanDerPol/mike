@@ -1,8 +1,7 @@
 # 🏢 RESUMEN EJECUTIVO: Modelo de Negocio
 
 **Para:** Mike González  
-**Propósito:** Tu business model en 1 página (sin 1,536 líneas de Canvas completo)  
-**Documento completo:** `02-MODELO-NEGOCIO-DRAFT.md`  
+**Propósito:** Tu business model en formato ejecutable  
 **Fecha:** 18 Enero 2026
 
 ---
@@ -540,9 +539,9 @@ Gs. 150,000 (precio) - Gs. 10,200 (costo variable) = **Gs. 139,800 (93%)**
 ## 📞 PRÓXIMOS PASOS
 
 1. **Completar cuestionario:** `00-CUESTIONARIO-MIKE-CRITICO.html` (2 horas)
-2. **Definir escenario:** Ver `analisis-financiero-RESUMEN.md`
-3. **Ver plan legal:** `marco-legal-RESUMEN.md`
-4. **Ejecutar Semana 1:** `implementation/semana-1-plan.md`
+2. **Definir escenario:** Ver `../05-modelos-financieros/escenarios-financieros.md`
+3. **Ver plan legal:** `../referencias/marco-legal.md`
+4. **Ejecutar lanzamiento:** `../implementation/plan-accion-30-dias.md`
 
 ---
 
@@ -556,16 +555,14 @@ Gs. 150,000 (precio) - Gs. 10,200 (costo variable) = **Gs. 139,800 (93%)**
 
 ## ⚠️ NOTA FINAL
 
-**Este resumen es para ESTRATEGIA:**
-- ¿Qué vendo y a quién?
-- ¿Cómo llego a clientes?
-- ¿Cómo gano dinero?
-- ¿Cuáles son mis alianzas clave?
+**Este documento cubre ESTRATEGIA completa:**
+- ✅ Qué vendo y a quién
+- ✅ Cómo llego a clientes
+- ✅ Cómo gano dinero
+- ✅ Cuáles son mis alianzas clave
 
-**El documento completo (`02-MODELO-NEGOCIO-DRAFT.md`) es para DETALLE:**
-- Business Model Canvas completo
-- Análisis por escenario (5 variantes)
-- Validación paso a paso
-- Métricas específicas
+**Para detalle financiero de cada escenario:**
+- Ver `../05-modelos-financieros/escenarios-financieros.md`
 
-**Usa este resumen para decidir tu estrategia. Consulta el documento completo para validación detallada.** 🎯
+**Para plan de ejecución:**
+- Ver `../implementation/plan-accion-30-dias.md`

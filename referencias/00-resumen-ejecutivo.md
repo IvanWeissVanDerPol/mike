@@ -342,7 +342,7 @@
 → `02-plan-negocio/03-plan-financiero.md` (30 páginas detalle financiero)  
 → `01-investigacion/investigacion-nichos-resumen.md` (10 min, segmentos detallados)  
 → `referencias/datos-paraguay-2025.md` (todos los datos verificados)  
-→ `implementation/semana-1-plan.md` (plan hora-por-hora primera semana)
+→ `implementation/plan-accion-30-dias.md` (plan día por día, incluye Semana 1 hora-por-hora)
 
 **Opción 3: Listo para empezar YA**  
 → `plan-accion-30-dias.md` (checklist ejecutable)  

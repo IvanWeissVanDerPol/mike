@@ -162,7 +162,7 @@
   - **Instagram:** @[tunombre]fisioterapia
   - **Facebook:** Página profesional "Consultorio [Tu Nombre]"
   - Completar: Bio, foto perfil, foto portada, info contacto
-  - **Guía:** Ver `implementation/guia-redes-sociales.md` (próximamente)
+  - **Opcional:** Redes sociales son secundarias vs Google Business para Año 1
 
 - [ ] **11:30-13:00** | Crear primeros 5 posts (calendario semana 2)
   - Post 1: "Apertura próximamente" (foto consultorio/equipo)
@@ -525,8 +525,9 @@
 3. Buscar en `01-investigacion/` datos específicos
 
 **Siguientes pasos post-día 30:**
-- Ver `plan-accion-90-dias.md` (próximamente)
+- Continuar ejecutando Playbook Marketing 90 Días (`../02-plan-negocio/playbook-marketing-90-dias.md`)
 - Escalar a 77 sesiones/mes (objetivo año 1)
+- Ajustar estrategia basándote en resultados reales Mes 1
 
 ---
 

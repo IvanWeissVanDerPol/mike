@@ -512,4 +512,4 @@ entender qué pasó para mejorar. ¿Podemos hablar por privado?
 **ÚLTIMA ACTUALIZACIÓN:** 19 Enero 2026  
 **VERSIÓN:** 1.0  
 **TIEMPO TOTAL:** 30 min setup + 15 min/semana mantenimiento  
-**SIGUIENTE PASO:** Configurar redes sociales (`guia-redes-sociales.md`)
+**SIGUIENTE PASO:** Ejecutar playbook marketing 90 días (`../02-plan-negocio/playbook-marketing-90-dias.md`)

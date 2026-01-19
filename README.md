@@ -69,8 +69,7 @@ Una vez completado el cuestionario, este plan te dirá **día por día** qué ha
 | 📄 [`EMPIEZA-AQUI.md`](EMPIEZA-AQUI.md) | Punto de entrada alternativo (3 opciones) | 2 min |
 | 📄 [`referencias/00-resumen-ejecutivo.md`](referencias/00-resumen-ejecutivo.md) | Decisión GO/NO-GO | 10 min |
 | 📄 [`00-CUESTIONARIO-MIKE-GOOGLE-DOCS.md`](00-CUESTIONARIO-MIKE-GOOGLE-DOCS.md) | **CRÍTICO:** Complétalo para personalizar el plan | 45 min |
-| 📄 [`implementation/plan-accion-30-dias.md`](implementation/plan-accion-30-dias.md) | Qué hacer día por día | 15 min |
-| 📄 [`implementation/semana-1-plan.md`](implementation/semana-1-plan.md) | Plan detallado Semana 1 | 10 min |
+| 📄 [`implementation/plan-accion-30-dias.md`](implementation/plan-accion-30-dias.md) | Qué hacer día por día (incluye Semana 1 detallada) | 15 min |
 
 ---
 
@@ -113,8 +112,7 @@ Una vez completado el cuestionario, este plan te dirá **día por día** qué ha
 
 | Documento | Qué Contiene |
 |-----------|--------------|
-| [`plan-accion-30-dias.md`](implementation/plan-accion-30-dias.md) | **⭐ EMPIEZA AQUÍ:** Qué hacer día por día |
-| [`semana-1-plan.md`](implementation/semana-1-plan.md) | Plan hora por hora Semana 1 |
+| [`plan-accion-30-dias.md`](implementation/plan-accion-30-dias.md) | **⭐ EMPIEZA AQUÍ:** Qué hacer día por día (incluye Semana 1 hora por hora) |
 | [`guia-dnit-resimple.md`](implementation/guia-dnit-resimple.md) | Cómo registrarte en DNIT (impuestos) |
 | [`template-contabilidad-simple.md`](implementation/template-contabilidad-simple.md) | Plantilla de contabilidad simple |
 | [`guia-google-business.md`](implementation/guia-google-business.md) | Cómo crear tu Google Business Profile |
