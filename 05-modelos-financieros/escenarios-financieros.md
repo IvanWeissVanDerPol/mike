@@ -367,7 +367,14 @@ Consultorio básico en Asunción (zona media), sin electroterapia año 1. Valida
 
 ### **INVERSIÓN INICIAL: Gs. 35,000,000**
 
-*(Desglose similar al ya documentado en TODO_SOBRE_MIKE.md líneas 204-226)*
+**Desglose:**
+- Alquiler + garantía (2 meses): Gs. 5,000,000
+- Equipamiento básico (camilla, bandas, termoterapia): Gs. 15,500,000
+- Mobiliario consultorio: Gs. 3,500,000
+- Insumos 6 meses: Gs. 3,600,000
+- Legal/admin/seguros: Gs. 1,750,000
+- Marketing: Gs. 1,500,000
+- Capital trabajo (3 meses): Gs. 4,150,000
 
 **Características:**
 - Ubicación: Bernardino Caballero o San Pablo (zona media)
@@ -587,7 +594,15 @@ Consultorio premium en Villa Morra/Carmelitas. Equipamiento completo, ambientaci
 
 ### **INVERSIÓN INICIAL: Gs. 75,000,000**
 
-*(Desglose en TODO_SOBRE_MIKE.md líneas 260-278)*
+**Desglose:**
+- Alquiler + garantía (2 meses): Gs. 12,000,000
+- Equipamiento premium completo (ultrasonido, láser, TENS, electroestimulación): Gs. 42,000,000
+- Mobiliario premium: Gs. 7,500,000
+- Ambientación profesional (pintura, decoración, señalética): Gs. 3,000,000
+- Insumos 6 meses: Gs. 4,000,000
+- Legal/admin/seguros premium: Gs. 2,500,000
+- Marketing agresivo: Gs. 3,000,000
+- Capital trabajo (3 meses): Gs. 1,000,000
 
 **Características:**
 - Ubicación: Villa Morra, Carmelitas, Manorá

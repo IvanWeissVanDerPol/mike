@@ -177,13 +177,13 @@ Ese archivo tiene 3 opciones claras:
 
 ## 📖 DOCUMENTACIÓN PRINCIPAL
 
-| Documento                                                                    | Descripción            | Estado      |
-| ---------------------------------------------------------------------------- | ---------------------- | ----------- |
-| [00-PLAN-MAESTRO.md](00-PLAN-MAESTRO.md)                                     | Overview proyecto      | ⏳ Creando  |
-| [01-ESTRUCTURA-PROYECTO.md](01-ESTRUCTURA-PROYECTO.md)                       | Organización carpetas  | ✅ Completo |
-| [02-CRONOGRAMA-GENERAL.md](02-CRONOGRAMA-GENERAL.md)                         | Timeline 23 semanas    | ⏳ Creando  |
-| [03-PRESUPUESTO-PROYECTO.md](03-PRESUPUESTO-PROYECTO.md)                     | Budget investigación   | ⏳ Creando  |
-| [DATOS-REALES-PARAGUAY-CONSOLIDADO.md](DATOS-REALES-PARAGUAY-CONSOLIDADO.md) | 200+ datos verificados | ✅ Completo |
+| Documento                                                   | Descripción                          | Estado       |
+| ----------------------------------------------------------- | ------------------------------------ | ------------ |
+| [EMPIEZA-AQUI.md](EMPIEZA-AQUI.md)                           | Punto de entrada principal           | ✅ Completo  |
+| [referencias/00-resumen-ejecutivo.md](referencias/00-resumen-ejecutivo.md) | Decisión GO/NO-GO (5 páginas) | ✅ Completo  |
+| [referencias/datos-paraguay-2025.md](referencias/datos-paraguay-2025.md) | 200+ datos verificados        | ✅ Completo  |
+| [implementation/plan-accion-30-dias.md](implementation/plan-accion-30-dias.md) | Roadmap ejecución     | ✅ Completo  |
+| [docs/resumen-proyecto.md](docs/resumen-proyecto.md)       | Overview general del proyecto        | ✅ Completo  |
 
 ---
 
