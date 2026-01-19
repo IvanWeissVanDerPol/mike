@@ -9,34 +9,27 @@
 ## ✅ Opción 1: Quiero EMPEZAR MI NEGOCIO Esta Semana
 
 **Perfecto para:** Mike listo para tomar acción AHORA  
-**Tiempo necesario:** Seguir por 5-7 días  
+**Tiempo necesario:** 30 días para lanzamiento completo  
 **Qué harás:** Comprar productos, visitar gimnasios, ver primeros pacientes
 
-👉 **ABRIR:** `implementation/inicio-rapido.md`
-
-Luego seguir: `implementation/semana-1-plan.md`
+👉 **ABRIR:** `implementation/plan-accion-30-dias.md` (plan completo día por día)
 
 ---
 
 ## 📊 Opción 2: Quiero LEER el Plan de Negocio
 
 **Perfecto para:** Entender la estrategia completa antes de empezar  
-**Tiempo necesario:** 2-3 horas (completo) o 52 minutos (resúmenes)  
-**Qué obtendrás:** Plan de negocio completo (8 documentos)
+**Tiempo necesario:** 10-15 minutos (resumen ejecutivo)  
+**Qué obtendrás:** Decisión GO/NO-GO, escenarios financieros, próximos pasos
 
-👉 **ABRIR:** carpeta `02-plan-negocio/`
+👉 **ABRIR:** `docs/00-resumen-ejecutivo.md` (⭐ EMPIEZA AQUÍ - 5 páginas)
 
-**⚡ RESÚMENES EJECUTIVOS (52 min lectura):**
+**⚡ DOCUMENTOS DE REFERENCIA:**
 - Nichos y productos: `01-investigacion/investigacion-nichos-resumen.md` (10 min)
 - Análisis financiero: `docs/analisis-financiero-resumen.md` (15 min)
 - Marco legal: `docs/marco-legal-resumen.md` (15 min)
 - Modelo de negocio: `02-plan-negocio/modelo-negocio-resumen.md` (12 min)
-
-**Enlaces documentos completos:**
-- Análisis de mercado: `02-plan-negocio/01-analisis-mercado.md`
-- Escenarios financieros: `02-plan-negocio/03-plan-financiero.md`
-- Estrategia marketing: `02-plan-negocio/06-plan-marketing.md`
-- Requisitos legales: `docs/marco-legal.md`
+- Todos los datos verificados: `docs/datos-paraguay-2025.md`
 
 ---
 
@@ -66,8 +59,8 @@ Luego seguir: `implementation/semana-1-plan.md`
 **¿Necesitas escenarios financieros?**
 → `05-modelos-financieros/escenarios-financieros.md` (5 opciones inversión)
 
-**¿Quieres plan semana 1?**
-→ `implementation/semana-1-plan.md` (guía hora por hora)
+**¿Quieres plan de lanzamiento?**
+→ `implementation/plan-accion-30-dias.md` (30 días completos, día por día)
 
 ---
 
@@ -76,18 +69,17 @@ Luego seguir: `implementation/semana-1-plan.md`
 ```
 mike/
 ├── empieza-aqui.md (¡estás aquí!)
-├── leeme.md (resumen proyecto)
+├── README.md (resumen proyecto)
 ├── cuestionario-mike.html (IMPORTANTE - completar!)
 │
 ├── implementation/ (🚀 Planes acción para empezar negocio)
 ├── 01-investigacion/ (📚 Datos mercado, competidores, investigación)
-├── 02-plan-negocio/ (📊 8 documentos estrategia comprehensiva)
-├── 03-bases-datos/ (💾 Guías configuración Google Sheets)
+├── 02-plan-negocio/ (📊 Plan financiero a completar post-FASE-00)
+├── 03-bases-datos/ (💾 CSV data + Guías Google Sheets)
 ├── 04-plantillas/ (📝 Formularios en blanco pacientes)
 ├── 05-modelos-financieros/ (💰 Calculadoras escenarios)
-├── 06-archivo/ (📋 Anexos y documentos extra)
-├── docs/ (📖 Documentación proyecto & datos Paraguay)
-└── archivo-viejo/ (🗄️ Versiones antiguas & notas sesiones)
+├── archive/ (📋 Prompts marketing, versiones antiguas)
+└── docs/ (📖 Resumen ejecutivo, datos Paraguay, changelog)
 ```
 
 ---
@@ -109,10 +101,10 @@ Este cuestionario está **pre-llenado con datos** de nuestras conversaciones.
 ## ❓ ¿Todavía Confundido?
 
 **Ruta simple:**
-1. Abre `implementation/inicio-rapido.md` (lectura 5 minutos)
-2. Decide si estás listo para empezar esta semana
-3. Si sí: Sigue plan Semana 1
-4. Si no: Lee plan de negocio primero
+1. Abre `docs/00-resumen-ejecutivo.md` (lectura 10 minutos)
+2. Decide si estás listo para empezar
+3. Si sí: Completa cuestionario-mike.html, luego sigue plan 30 días
+4. Si no: Revisa docs/ para más información
 
 **No lo pienses demasiado.** Elige Opción 1, 2 o 3 arriba y empieza ahí.
 
