@@ -207,10 +207,13 @@ mike/
 │   ├── marco-legal-resumen.md
 │   └── resumen-proyecto.md
 │
-└── implementation/ (3 files, was 6) ⚡ CLEANED
-    ├── plan-accion-30-dias.md ⭐ (new)
-    ├── guia-google-business.md ⭐ (new)
-    └── lista-compras.md
+└── implementation/ (6 files: 5 guides + README)
+    ├── plan-accion-30-dias.md ⭐
+    ├── guia-google-business.md ⭐
+    ├── guia-dnit-resimple.md ⭐ (added post-restructure)
+    ├── template-contabilidad-simple.md ⭐ (added post-restructure)
+    ├── lista-compras.md
+    └── README.md
 ```
 
 ---
@@ -235,12 +238,18 @@ mike/
 
 **Reason:** Superseded by new, cleaner versions.
 
-### From implementation/ (3 files):
+### From implementation/ (deleted 3 files, then added 3 new):
+**Deleted:**
 - `leeme.md` (duplicate)
-- `inicio-rapido.md` (superseded)
-- `semana-1-plan.md` (superseded)
+- `inicio-rapido.md` (superseded by plan-accion-30-dias.md)
+- `semana-1-plan.md` (superseded by plan-accion-30-dias.md)
 
-**Reason:** Redundant with plan-accion-30-dias.md.
+**Added post-restructure:**
+- `guia-dnit-resimple.md` (tax registration guide)
+- `template-contabilidad-simple.md` (bookkeeping template)
+- `README.md` (folder index)
+
+**Current status:** 6 files (5 implementation guides + README)
 
 ### From archive/ (3 files):
 - `todo-sobre-mike.md`
@@ -290,7 +299,7 @@ mike/
 ✅ Consistent lowercase naming  
 ✅ docs/ clearly for documentation, 02-plan-negocio/ minimal  
 ✅ Root clean (5 files)  
-✅ implementation/ focused (3 essential files)  
+✅ implementation/ focused (6 files: 5 guides + README, updated post-restructure)  
 ✅ archive/ clearly for old content  
 ✅ LICENSE added (MIT)
 
