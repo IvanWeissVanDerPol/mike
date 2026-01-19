@@ -243,7 +243,7 @@
 
 **Tiempo:** 2 horas  
 **Costo:** Gs. 50,000 (llamadas)  
-**Template:** Usar `01-investigacion/mystery-shopping-script.md` (próximamente)
+**Template:** Usar `01-investigacion/mystery-shopping-script.md`
 
 **Resultado:** Ajustas pricing strategy con datos reales (no supuestos).
 

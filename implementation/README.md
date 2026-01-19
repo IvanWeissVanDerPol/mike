@@ -300,7 +300,7 @@
 - Costo adquisición cliente (Gs.)
 - Tasa retención (%)
 
-**Archivo:** Usar `template-contabilidad-simple.xlsx` (próximamente)
+**Archivo:** Usar `template-contabilidad-simple.md` (convertible a Google Sheets)
 
 ---
 

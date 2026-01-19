@@ -121,7 +121,7 @@
   - Portal: https://marangatudigital.set.gov.py/
   - Ingresar con RUC + contraseña
   - Elegir: IRE RESIMPLE (régimen simplificado)
-  - **Guía detallada:** Ver `implementation/guia-dnit-resimple.md` (próximamente)
+  - **Guía detallada:** Ver `implementation/guia-dnit-resimple.md`
 
 - [ ] **12:00-13:00** | Banco - Abrir cuenta comercial/profesional (opcional año 1)
   - **Bancos sugeridos:** Banco Continental, Visión Banco, BBVA
@@ -155,7 +155,7 @@
   - Ir a: https://www.google.com/business/
   - Registrar negocio: "Consultorio de Fisioterapia [Tu Nombre]"
   - Agregar: Dirección, teléfono, horario, fotos
-  - **Guía:** Ver `implementation/guia-google-business.md` (próximamente)
+  - **Guía:** Ver `implementation/guia-google-business.md`
   - **Verificación:** Google envía código por correo (3-5 días)
 
 - [ ] **10:00-11:30** | Configurar redes sociales
@@ -210,7 +210,7 @@
 - [ ] **11:00-12:00** | Crear sistema facturación simple
   - Excel: "Facturacion-2026.xlsx"
   - Hojas: Ingresos | Egresos | Pacientes | Resumen Mensual
-  - **Template:** Ver `implementation/template-contabilidad-simple.xlsx` (próximamente)
+  - **Template:** Ver `implementation/template-contabilidad-simple.md` (convertible a Google Sheets)
 
 - [ ] **12:00-13:00** | Preparar consultorio final
   - Limpiar todo
