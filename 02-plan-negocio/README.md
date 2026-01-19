@@ -26,7 +26,7 @@
 ## 📊 DOCUMENTOS A CREAR (SOLO 2)
 
 ### **✅ #1: RESUMEN EJECUTIVO** (5 páginas)
-**Archivo:** `docs/00-resumen-ejecutivo.md` ← **YA CREADO**  
+**Archivo:** `referencias/00-resumen-ejecutivo.md` ← **YA CREADO**  
 **Tiempo:** ✅ Completado  
 **Prioridad:** 🔴 CRÍTICA  
 **Para qué:** GO/NO-GO decision + presentación banco
@@ -63,7 +63,7 @@
 ## 🚫 DOCUMENTOS QUE NO CREAREMOS (Y POR QUÉ)
 
 ### **❌ Análisis de Mercado** (Razón: Datos ya existen)
-- **¿Dónde están los datos?** `docs/datos-paraguay-2025.md` (200+ datos verificados)
+- **¿Dónde están los datos?** `referencias/datos-paraguay-2025.md` (200+ datos verificados)
 - **¿Por qué skip?** Mike no necesita 30 páginas teóricas. Datos ya validados.
 - **Si banco pide:** Enviar `datos-paraguay-2025.md` (7 páginas, directo)
 
@@ -101,13 +101,13 @@
 
 | Necesitas... | Archivo |
 |--------------|---------|
-| Datos demográficos | `docs/datos-paraguay-2025.md` |
+| Datos demográficos | `referencias/datos-paraguay-2025.md` |
 | Datos financieros | `05-modelos-financieros/escenarios-financieros.md` |
 | Plan acción | `implementation/plan-accion-30-dias.md` |
-| Decisión GO/NO-GO | `docs/00-resumen-ejecutivo.md` |
+| Decisión GO/NO-GO | `referencias/00-resumen-ejecutivo.md` |
 | Plan financiero banco | `02-plan-negocio/03-plan-financiero.md` (personalizar) |
 | Investigación competencia | `01-investigacion/competidores-identificados.md` |
-| Marco legal | `docs/marco-legal.md` |
+| Marco legal | `referencias/marco-legal.md` |
 
 ---
 
@@ -151,7 +151,7 @@
 ## 📊 FUENTES DE DATOS
 
 Todos los documentos usan datos REALES:
-- ✅ `docs/datos-paraguay-2025.md` (200+ datos verificados)
+- ✅ `referencias/datos-paraguay-2025.md` (200+ datos verificados)
 - ✅ `05-modelos-financieros/escenarios-financieros.md` (5 escenarios calculados)
 - ⏸️ Mystery shopping (precios competencia) - Mike ejecuta
 - ⏸️ FASE-00 (preferencias Mike) - Pendiente completar

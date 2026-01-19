@@ -226,7 +226,7 @@
 - ¿Cuándo quieres abrir? (En 1 mes / 3 meses / 6 meses)
 - ¿Qué modelo prefieres? (Solo consultorio / Solo domicilio / Mixto)
 
-**Acción:** Abrir `cuestionario-mike.html`, responder 10 preguntas (30 minutos).
+**Acción:** Abrir `00-CUESTIONARIO-MIKE-CRITICO.html`, responder 10 preguntas (30 minutos).
 
 **Resultado:** Personaliza escenarios financieros, zona, timeline → plan ejecutable.
 
@@ -335,12 +335,13 @@
 ## 📞 SIGUIENTE PASO INMEDIATO
 
 **Opción 1: Tienes 30 minutos AHORA**  
-→ Abre `cuestionario-mike.html` y completa FASE-00  
+→ Abre `00-CUESTIONARIO-MIKE-CRITICO.html` y completa FASE-00  
 → Mañana recibe plan personalizado
 
 **Opción 2: Quieres leer más primero**  
 → `02-plan-negocio/03-plan-financiero.md` (30 páginas detalle financiero)  
 → `01-investigacion/investigacion-nichos-resumen.md` (10 min, segmentos detallados)  
+→ `referencias/datos-paraguay-2025.md` (todos los datos verificados)  
 → `implementation/semana-1-plan.md` (plan hora-por-hora primera semana)
 
 **Opción 3: Listo para empezar YA**  
@@ -358,6 +359,7 @@
 ---
 
 **¿Preguntas? Consulta:**
-- `leeme.md` → Overview completo proyecto
-- `empieza-aqui.md` → 3 rutas según tu objetivo
-- `docs/datos-paraguay-2025.md` → Todos los datos verificados
+- `README.md` → Overview completo proyecto
+- `EMPIEZA-AQUI.md` → 3 rutas según tu objetivo
+- `referencias/datos-paraguay-2025.md` → Todos los datos verificados
+- `referencias/matriz-decision-escenarios.md` → Herramienta decisión escenario

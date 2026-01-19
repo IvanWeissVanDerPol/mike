@@ -539,7 +539,7 @@ Gs. 150,000 (precio) - Gs. 10,200 (costo variable) = **Gs. 139,800 (93%)**
 
 ## 📞 PRÓXIMOS PASOS
 
-1. **Completar cuestionario:** `cuestionario-mike.html` (2 horas)
+1. **Completar cuestionario:** `00-CUESTIONARIO-MIKE-CRITICO.html` (2 horas)
 2. **Definir escenario:** Ver `analisis-financiero-RESUMEN.md`
 3. **Ver plan legal:** `marco-legal-RESUMEN.md`
 4. **Ejecutar Semana 1:** `implementation/semana-1-plan.md`

@@ -26,9 +26,9 @@ Crear un **plan de negocio completo y profesional** para la apertura de un consu
 
 ```
 📂 mike/
-├── 📄 empieza-aqui.md → ¡TU PUNTO DE INICIO!
-├── 📄 leeme.md (este archivo)
-├── 📄 cuestionario-mike.html → Perfil cliente (completar)
+├── 📄 EMPIEZA-AQUI.md → ¡TU PUNTO DE INICIO!
+├── 📄 README.md (este archivo)
+├── 📄 00-CUESTIONARIO-MIKE-CRITICO.html → Perfil cliente (completar)
 │
 ├── 📁 implementation/ → 🚀 PLANES ACCIÓN (empieza aquí)
 │   ├── inicio-rapido.md
@@ -40,17 +40,12 @@ Crear un **plan de negocio completo y profesional** para la apertura de un consu
 ├── 📁 03-bases-datos/ → 💾 Google Sheets database
 ├── 📁 04-plantillas/ → 📝 Formularios pacientes
 ├── 📁 05-modelos-financieros/ → 💰 Calculadoras financieras
-├── 📁 06-archivo/ → 📋 Anexos documentos extra
-├── 📁 docs/ → 📖 Documentación & datos Paraguay
-│   ├── datos-paraguay-2025.md → 200+ datos verificados
-│   ├── marco-legal.md → Requisitos legales
-│   ├── analisis-financiero.md → Escenarios inversión
-│   └── resumen-proyecto.md → Overview completo
-│
-└── 📁 archivo-viejo/ → 🗄️ Versiones antiguas & notas
+├── 📁 referencias/ → 📋 Documentos operativos (resumen ejecutivo, datos, marco legal)
+├── 📁 marketing/ → 🎨 Prompts IA para contenido
+└── 📁 docs/ → 📖 Documentación del proyecto (meta-docs, changelog)
 ```
 
-**👉 Para empezar:** Abre `empieza-aqui.md`
+**👉 Para empezar:** Abre `EMPIEZA-AQUI.md`
 
 ---
 
@@ -96,7 +91,7 @@ Crear un **plan de negocio completo y profesional** para la apertura de un consu
 
 ### Para Mike (propietario negocio):
 
-👉 **Abre:** `empieza-aqui.md`
+👉 **Abre:** `EMPIEZA-AQUI.md`
 
 Ese archivo tiene 3 opciones claras:
 1. **Empezar negocio esta semana** → `implementation/semana-1-plan.md`

@@ -22,14 +22,14 @@
 **Tiempo necesario:** 10-15 minutos (resumen ejecutivo)  
 **Qué obtendrás:** Decisión GO/NO-GO, escenarios financieros, próximos pasos
 
-👉 **ABRIR:** `docs/00-resumen-ejecutivo.md` (⭐ EMPIEZA AQUÍ - 5 páginas)
+👉 **ABRIR:** `referencias/00-resumen-ejecutivo.md` (⭐ EMPIEZA AQUÍ - 5 páginas)
 
 **⚡ DOCUMENTOS DE REFERENCIA:**
 - Nichos y productos: `01-investigacion/investigacion-nichos-resumen.md` (10 min)
-- Análisis financiero: `docs/analisis-financiero-resumen.md` (15 min)
-- Marco legal: `docs/marco-legal-resumen.md` (15 min)
 - Modelo de negocio: `02-plan-negocio/modelo-negocio-resumen.md` (12 min)
-- Todos los datos verificados: `docs/datos-paraguay-2025.md`
+- Marco legal completo: `referencias/marco-legal.md` (detallado)
+- Todos los datos verificados: `referencias/datos-paraguay-2025.md`
+- Matriz de decisión escenarios: `referencias/matriz-decision-escenarios.md`
 
 ---
 
@@ -42,7 +42,7 @@
 👉 **ABRIR:** `docs/resumen-proyecto.md`
 
 **Fuentes de datos:**
-- Todos los datos verificados Paraguay: `docs/datos-paraguay-2025.md`
+- Todos los datos verificados Paraguay: `referencias/datos-paraguay-2025.md`
 - Investigación mercado: `01-investigacion/investigacion-nichos-productos.md`
 - Análisis competencia: `01-investigacion/competidores-identificados.md`
 
@@ -68,9 +68,9 @@
 
 ```
 mike/
-├── empieza-aqui.md (¡estás aquí!)
+├── EMPIEZA-AQUI.md (¡estás aquí!)
 ├── README.md (resumen proyecto)
-├── cuestionario-mike.html (IMPORTANTE - completar!)
+├── 00-CUESTIONARIO-MIKE-CRITICO.html (IMPORTANTE - completar!)
 │
 ├── implementation/ (🚀 Planes acción para empezar negocio)
 ├── 01-investigacion/ (📚 Datos mercado, competidores, investigación)
@@ -78,15 +78,16 @@ mike/
 ├── 03-bases-datos/ (💾 CSV data + Guías Google Sheets)
 ├── 04-plantillas/ (📝 Formularios en blanco pacientes)
 ├── 05-modelos-financieros/ (💰 Calculadoras escenarios)
-├── archive/ (📋 Prompts marketing, versiones antiguas)
-└── docs/ (📖 Resumen ejecutivo, datos Paraguay, changelog)
+├── referencias/ (📋 Resumen ejecutivo, datos Paraguay, marco legal)
+├── marketing/ (🎨 Prompts AI para contenido)
+└── docs/ (📖 Documentación del proyecto, changelog)
 ```
 
 ---
 
 ## ⚠️ CRÍTICO: ¡Completa el Cuestionario!
 
-**Archivo:** `cuestionario-mike.html`
+**Archivo:** `00-CUESTIONARIO-MIKE-CRITICO.html`
 
 Este cuestionario está **pre-llenado con datos** de nuestras conversaciones.
 
@@ -101,10 +102,10 @@ Este cuestionario está **pre-llenado con datos** de nuestras conversaciones.
 ## ❓ ¿Todavía Confundido?
 
 **Ruta simple:**
-1. Abre `docs/00-resumen-ejecutivo.md` (lectura 10 minutos)
+1. Abre `referencias/00-resumen-ejecutivo.md` (lectura 10 minutos)
 2. Decide si estás listo para empezar
-3. Si sí: Completa cuestionario-mike.html, luego sigue plan 30 días
-4. Si no: Revisa docs/ para más información
+3. Si sí: Completa 00-CUESTIONARIO-MIKE-CRITICO.html, luego sigue plan 30 días
+4. Si no: Revisa referencias/ y docs/ para más información
 
 **No lo pienses demasiado.** Elige Opción 1, 2 o 3 arriba y empieza ahí.
 

@@ -211,7 +211,7 @@ Próximo paso: _______________________________
 
 - [ ] Confirmé cuánto capital tengo DISPONIBLE (no proyectado)
 - [ ] Revisé los 5 escenarios en `05-modelos-financieros/escenarios-financieros.md`
-- [ ] Leí el resumen ejecutivo `docs/00-resumen-ejecutivo.md`
+- [ ] Leí el resumen ejecutivo `referencias/00-resumen-ejecutivo.md`
 - [ ] Entiendo el break-even de mi escenario elegido
 - [ ] Sé cuánto tardaré en recuperar inversión (payback)
 - [ ] Estoy OK con el nivel de riesgo de mi escenario
@@ -226,7 +226,7 @@ Próximo paso: _______________________________
 
 **Una vez decidas escenario:**
 
-1. Completa `cuestionario-mike.html` (sección capital y modelo)
+1. Completa `00-CUESTIONARIO-MIKE-CRITICO.html` (sección capital y modelo)
 2. Claude personalizará `02-plan-negocio/03-plan-financiero.md` con tu escenario
 3. Revisa plan financiero final (15 min)
 4. Decisión GO/NO-GO
