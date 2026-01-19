@@ -6,26 +6,56 @@
 
 ---
 
-## 📊 CONTENIDO (1 archivo principal)
+## 📊 CONTENIDO (4 herramientas financieras)
 
-### **escenarios-financieros.md** ⭐ (29KB, ~850 líneas)
+### **ANÁLISIS ESTRATÉGICO:**
 
-**Para qué:** Análisis exhaustivo de 5 opciones de inversión para abrir el consultorio
+### **1. escenarios-financieros.md** ⭐ (29KB, 850 líneas)
+**Para qué:** Análisis exhaustivo de 5 opciones de inversión
 
-**Lo que contiene:**
+**Escenarios:**
 - **Escenario 1:** Domicilio Puro (Gs. 4.75M) - ROI 857%, riesgo muy bajo
-- **Escenario 2:** Mixto San Lorenzo (Gs. 38.5M) - ROI 69%, riesgo bajo
-- **Escenario 3:** Consultorio Mínimo (Gs. 35M) - ROI 84%, riesgo medio
-- **Escenario 4:** Mixto Asunción (Gs. 55.4M) - ROI 37-61%, riesgo medio
+- **Escenario 2:** Mixto San Lorenzo (Gs. 38.5M) - ROI 100%, riesgo bajo
+- **Escenario 3:** Consultorio Mínimo (Gs. 35M) - ROI 82%, riesgo medio
+- **Escenario 4:** Mixto Asunción (Gs. 55.4M) - ROI 27-37%, riesgo medio ⭐ RECOMENDADO
 - **Escenario 5:** Consultorio Premium (Gs. 75M) - ROI 24%, riesgo alto
 
-**Nivel de detalle:**
-- ✅ Inversión inicial desglosada (equipamiento, alquiler, mobiliario, etc.)
-- ✅ Costos fijos mensuales
-- ✅ Proyecciones mes a mes año 1
-- ✅ Análisis sensibilidad (best case, worst case, conservative, optimistic)
-- ✅ Break-even analysis
-- ✅ ROI y payback period
+**Contenido:** Inversión inicial, costos fijos, proyecciones año 1, análisis sensibilidad, break-even, ROI
+
+---
+
+### **HERRAMIENTAS EJECUTABLES:**
+
+### **2. calculadora-break-even.md** ⭐ NUEVO (14KB, 450 líneas)
+**Para qué:** Calcular cuántas sesiones/mes necesitas para cubrir costos
+
+**Lo que hace:**
+- ✅ Fórmula break-even interactiva (personalizable)
+- ✅ Ejemplos los 5 escenarios
+- ✅ Análisis sensibilidad (precio, costos fijos, costos variables)
+- ✅ Target realista por mes
+- ✅ Convertible a Google Sheets
+
+**Cuándo usar:** ANTES de invertir (validar viabilidad) + revisión mensual
+
+**Key insight:** Escenario 4 necesita 37 sesiones/mes (1.7/día) para break-even - MUY alcanzable Mes 3-4.
+
+---
+
+### **3. proyecciones-mensuales-12-meses.md** ⭐ NUEVO (17KB, 500 líneas)
+**Para qué:** Saber qué esperar mes por mes (ingresos, costos, ganancia)
+
+**Lo que contiene:**
+- ✅ Escenario 4 mes a mes DETALLADO (meses 1-12)
+- ✅ Escenarios 1-3, 5 resumidos
+- ✅ Cash flow proyectado
+- ✅ Tabla tracking Real vs Proyectado
+- ✅ Señales de alerta (cuándo preocuparse)
+- ✅ Tips para alcanzar proyecciones
+
+**Cuándo usar:** Planificación cash flow + tracking mensual
+
+**Key insight:** Escenario 4 rentable desde Mes 3 (+Gs. 1.22M), estable Mes 7+ (~Gs. 2.5M/mes ganancias).
 
 ---
 
@@ -207,7 +237,42 @@ Para ver los números lado a lado:
 
 ---
 
-**Última actualización:** 19 Enero 2026, 02:40  
-**Archivo principal:** escenarios-financieros.md (850 líneas)  
-**Escenarios:** 5 (desde Gs. 4.75M hasta Gs. 75M)  
-**Recomendación default:** Escenario 4 (Mixto Asunción) si tienes Gs. 50-60M
+---
+
+## 📈 VALOR AGREGADO DE ESTAS HERRAMIENTAS
+
+**Mike ahora tiene:**
+- ✅ **5 escenarios comparados** (desde Gs. 4.75M hasta Gs. 75M)
+- ✅ **Break-even calculator** (saber cuántas sesiones necesita sobrevivir)
+- ✅ **Proyecciones mes por mes** (planificar cash flow 12 meses)
+- ✅ **Herramientas interactivas** (personalizables con sus números)
+
+**vs Fisioterapeuta típico Paraguay:**
+- ❌ Lanza sin proyecciones
+- ❌ No sabe su break-even
+- ❌ "Espera y ve qué pasa"
+- ❌ No planifica cash flow
+
+**Mike está en el TOP 1% preparación financiera.**
+
+---
+
+## 🔗 COMPLEMENTA CON:
+
+**Plan de negocio:**
+- `../02-plan-negocio/estrategia-pricing.md` - Cómo definir precio óptimo
+- `../02-plan-negocio/playbook-marketing-90-dias.md` - Cómo alcanzar break-even Mes 3-4
+
+**Base de datos:**
+- `../03-bases-datos/01-escenarios-comparacion.csv` - Tabla comparativa 5 escenarios
+
+**Ejecución:**
+- `../implementation/plan-accion-30-dias.md` - Roadmap día por día
+
+---
+
+**Última actualización:** 19 Enero 2026, 06:00  
+**Archivos:** 4 (escenarios + calculadora + proyecciones + README)  
+**Total:** ~60KB herramientas financieras ejecutables  
+**Recomendación:** Escenario 4 (Mixto Asunción) si tienes Gs. 50-60M  
+**Estado:** ✅ 100% COMPLETO Y LISTO PARA USAR
