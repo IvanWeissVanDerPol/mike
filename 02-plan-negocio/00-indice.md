@@ -1,371 +1,265 @@
-# 📚 ÍNDICE DE DOCUMENTOS FINALES - PLAN DE NEGOCIO
+# 📚 ÍNDICE DE DOCUMENTOS - PLAN DE NEGOCIO
 
-**Carpeta:** `03-documentos-finales/`  
-**Propósito:** 8 documentos profesionales que forman el plan de negocio completo  
-**Estado:** ESTRUCTURAS creadas, contenido bloqueado hasta FASE-00  
-**Audiencia:** Mike, bancos, inversores, socios potenciales
-
----
-
-## 🎯 PROPÓSITO DE ESTOS DOCUMENTOS
-
-Estos NO son documentos operacionales. Son el **plan de negocio formal** que Mike usará para:
-- 🏦 Solicitar préstamos bancarios
-- 👥 Atraer socios/inversores
-- 📊 Validar viabilidad del negocio
-- 🗺️ Tener roadmap claro de implementación
-- ✅ Demostrar profesionalismo
-
-**Extensión total:** ~180 páginas  
-**Tiempo de creación:** 15-20 horas (con datos de FASE-00)  
-**Calidad:** Nivel consultoría empresarial (A)
+**Carpeta:** `02-plan-negocio/`  
+**Propósito:** **2 documentos clave** que forman el plan de negocio ejecutable  
+**Estado:** Templates listos, esperando FASE-00 para personalización  
+**Audiencia:** Mike (primario), bancos (secundario)
 
 ---
 
-## 📊 DOCUMENTOS PRIORITARIOS (ALTA URGENCIA)
+## 🎯 NUEVO ENFOQUE: MENOS PÁGINAS, MÁS ACCIÓN
 
-### **🔴 #1: ANÁLISIS DE MERCADO** (25-30 páginas)
-**Archivo:** `01-ANALISIS-MERCADO-FISIOTERAPIA-ASUNCION.md`  
-**Tiempo:** 4-5 horas  
+**CAMBIO ESTRATÉGICO:** De 8 documentos (180 páginas) a **2 documentos (20 páginas)**
+
+**¿Por qué?**
+- ✅ Mike ejecutará, no archivará
+- ✅ Bancos leen 10-15 páginas, no 180
+- ✅ Plan de acción > Investigación teórica
+- ✅ Validación con clientes reales > Proyecciones perfectas
+
+**Extensión total:** ~20 páginas  
+**Tiempo de creación:** 3-4 horas (con datos de FASE-00)  
+**Calidad:** Ejecutable, no decorativo
+
+---
+
+## 📊 DOCUMENTOS A CREAR (SOLO 2)
+
+### **✅ #1: RESUMEN EJECUTIVO** (5 páginas)
+**Archivo:** `docs/00-resumen-ejecutivo.md` ← **YA CREADO**  
+**Tiempo:** ✅ Completado  
+**Prioridad:** 🔴 CRÍTICA  
+**Para qué:** GO/NO-GO decision + presentación banco
+
+**Contenido:**
+- ✅ 3 escenarios inversión comparados
+- ✅ Break-even análisis
+- ✅ ROI proyecciones
+- ✅ Próximos 5 pasos concretos
+- ✅ Decisión: ¿Cuál escenario elegir?
+
+**Estado:** Listo, esperando FASE-00 para personalizar escenario final
+
+---
+
+### **⏸️ #2: PLAN FINANCIERO DETALLADO** (15-20 páginas)
+**Archivo:** `03-plan-financiero.md` ← **TEMPLATE LISTO**  
+**Tiempo:** 2-3 horas (personalización)  
 **Prioridad:** 🔴 ALTA  
-**Para qué:** Demostrar que hay demanda suficiente
+**Para qué:** Presentación banco, decisión inversión
 
 **Contenido:**
-- Datos demográficos Asunción (464,185 habitantes)
-- Segmentación de mercado objetivo (316,631 personas 20-65+)
-- Análisis de 9-15 competidores identificados
-- Tendencias del sector salud en Paraguay
-- Oportunidades y amenazas
-- Tamaño del mercado disponible
-- Proyección de demanda
+- ⏸️ Escenario seleccionado (1 de 5)
+- ⏸️ Inversión inicial detallada
+- ⏸️ Proyecciones mes a mes (año 1)
+- ⏸️ Estados financieros
+- ⏸️ Análisis sensibilidad
+- ⏸️ Plan financiamiento
 
-**Datos necesarios de FASE-00:**
-- Zona geográfica definida (Asunción vs San Lorenzo)
-- Público objetivo preferido de Mike
+**Estado:** Template 100% listo con 5 escenarios. Solo falta elegir 1 basado en FASE-00.
 
 ---
 
-### **🔴 #2: PLAN FINANCIERO** (25-30 páginas)
-**Archivo:** `03-PLAN-FINANCIERO-DETALLADO.md`  
-**Tiempo:** 4-5 horas  
-**Prioridad:** 🔴 ALTA  
-**Para qué:** Demostrar que el negocio es rentable
+## 🚫 DOCUMENTOS QUE NO CREAREMOS (Y POR QUÉ)
 
-**Contenido:**
-- Inversión inicial detallada (Gs. 35M / 54M / 75M según escenario)
-- Costos fijos mensuales (alquiler, servicios, insumos)
-- Costos variables por sesión
-- Proyecciones de ingresos mes a mes (año 1-3)
-- Punto de equilibrio (37 sesiones/mes)
-- Flujo de caja
-- Estado de resultados proyectado
-- ROI y payback period
-- Análisis de sensibilidad
-- Escenarios: conservador, moderado, optimista
+### **❌ Análisis de Mercado** (Razón: Datos ya existen)
+- **¿Dónde están los datos?** `docs/datos-paraguay-2025.md` (200+ datos verificados)
+- **¿Por qué skip?** Mike no necesita 30 páginas teóricas. Datos ya validados.
+- **Si banco pide:** Enviar `datos-paraguay-2025.md` (7 páginas, directo)
 
-**Datos necesarios de FASE-00:**
-- Capital disponible real de Mike
-- Zona (determina alquiler)
-- Precio por sesión que quiere cobrar
-- Modelo (solo consultorio, consultorio+domicilio, etc.)
+### **❌ Plan de Marketing** (Razón: Cubierto por plan de acción)
+- **¿Dónde está?** `implementation/plan-accion-30-dias.md`
+- **¿Por qué skip?** Marketing = HACER (día 8-14), no TEORIZAR
+- **Qué hacer:** Ejecutar plan 30 días, ajustar con resultados reales
 
----
+### **❌ Estrategia Operativa** (Razón: Learn by doing)
+- **¿Por qué skip?** Procesos se aprenden haciendo, no leyendo
+- **Mejor enfoque:** Semana 1 → documento procesos que realmente usa
+- **Plantillas listas:** `04-plantillas/` tiene formatos clínicos
 
-### **🔴 #3: PLAN DE MARKETING** (20-25 páginas)
-**Archivo:** `06-PLAN-MARKETING-CAPTACION-PACIENTES.md`  
-**Tiempo:** 3-4 horas  
-**Prioridad:** 🔴 ALTA  
-**Para qué:** Demostrar cómo conseguirá pacientes
+### **❌ Recursos Humanos** (Razón: Mike trabaja solo año 1)
+- **¿Por qué skip?** No contrata a nadie hasta mes 18-24
+- **Cuándo crear:** Año 2, cuando necesite contratar
 
-**Contenido:**
-- Propuesta de valor diferenciada
-- Estrategia de precios (Gs. 150,000 vs Gs. 170,000 AKYFPY)
-- Canales de captación:
-  - Alianzas con gimnasios (Smart Fit, Exen, etc.)
-  - Alianzas con médicos traumatólogos
-  - Presencia digital (web, Instagram, Facebook)
-  - Google My Business
-  - Referidos de pacientes
-- Plan de lanzamiento (primeros 90 días)
-- Promociones iniciales
-- Presupuesto marketing año 1
-- Métricas de éxito (CAC, LTV)
+### **❌ Propuesta de Valor** (Razón: Obvio y simple)
+- **Propuesta valor Mike:** Fisioterapia profesional, precio competitivo, atención personalizada
+- **¿Por qué skip?** No necesita 20 páginas para esto
 
-**Datos necesarios de FASE-00:**
-- Red de contactos actual de Mike (médicos, gyms)
-- Servicios que quiere promocionar
-- Presupuesto para marketing
+### **❌ Proyección Crecimiento 3 años** (Razón: Especulación)
+- **¿Por qué skip?** Año 3 depende de cómo vaya año 1. No tiene sentido proyectar ahora.
+- **Mejor:** Revisar cada 6 meses, ajustar plan
+
+### **❌ Análisis Riesgos** (Razón: Cubierto en plan financiero)
+- **¿Dónde está?** Sección 8 y 9 de `03-plan-financiero.md`
+- **¿Por qué skip?** Ya incluido en sensibilidad y worst-case
 
 ---
 
-## 📊 DOCUMENTOS SECUNDARIOS (MEDIA PRIORIDAD)
+## 📖 REFERENCIA: DÓNDE ENCONTRAR CADA DATO
 
-### **🟡 #4: ESTRATEGIA OPERATIVA** (20-25 páginas)
-**Archivo:** `04-ESTRATEGIA-OPERATIVA-PROCESOS.md`  
-**Tiempo:** 3-4 horas  
-**Prioridad:** 🟡 MEDIA
+**En lugar de 8 documentos separados, TODO está en 3 carpetas:**
 
-**Contenido:**
-- Flujo de atención al paciente (desde llamada hasta alta)
-- Procesos operativos diarios
-- Gestión de agenda y turnos
-- Protocolos de higiene y bioseguridad
-- Mantenimiento de equipamiento
-- Gestión de insumos (stock mínimo)
-- Sistema de facturación y cobro
-- Indicadores de gestión (KPIs)
+| Necesitas... | Archivo |
+|--------------|---------|
+| Datos demográficos | `docs/datos-paraguay-2025.md` |
+| Datos financieros | `05-modelos-financieros/escenarios-financieros.md` |
+| Plan acción | `implementation/plan-accion-30-dias.md` |
+| Decisión GO/NO-GO | `docs/00-resumen-ejecutivo.md` |
+| Plan financiero banco | `02-plan-negocio/03-plan-financiero.md` (personalizar) |
+| Investigación competencia | `01-investigacion/competidores-identificados.md` |
+| Marco legal | `docs/marco-legal.md` |
 
 ---
 
-### **🟡 #5: RECURSOS HUMANOS** (15-20 páginas)
-**Archivo:** `05-RECURSOS-HUMANOS-EQUIPO.md`  
-**Tiempo:** 2-3 horas  
-**Prioridad:** 🟡 MEDIA
+## 📅 CRONOGRAMA SIMPLIFICADO
 
-**Contenido:**
-- Estructura organizacional año 1 (Mike solo)
-- Plan de crecimiento año 2-3 (contratar 2do kinesiólogo)
-- Perfil del personal a contratar
-- Costos laborales (salario + IPS + aguinaldo)
-- Políticas de RRHH
-- Capacitación continua
+### **DÍA 1: Mike completa FASE-00** (30 min)
+- Cuestionario con 10 preguntas
+- Define: capital, zona, timeline, modelo
 
----
+### **DÍA 2-3: Personalizar plan financiero** (2-3 horas)
+- Seleccionar 1 de 5 escenarios
+- Completar secciones pendientes
+- Generar proyecciones con datos reales
 
-## 📊 DOCUMENTOS OPCIONALES (BAJA PRIORIDAD)
+### **DÍA 4: Presentar a Mike** (1 hora)
+- Revisar resumen ejecutivo
+- Revisar plan financiero
+- Decisión GO/NO-GO
 
-### **🟢 #6: PROPUESTA DE VALOR** (15-20 páginas)
-**Archivo:** `02-PROPUESTA-VALOR-DIFERENCIACION.md`  
-**Tiempo:** 2-3 horas  
-**Prioridad:** 🟢 BAJA
-
-**Contenido:**
-- Análisis de necesidades del cliente
-- Propuesta de valor única
-- Diferenciación vs competencia
-- Posicionamiento deseado
-- Imagen de marca
+**Total:** 3-4 horas de trabajo (vs 15-20 horas original)  
+**Timeline:** 4 días (vs 3-4 semanas original)
 
 ---
 
-### **🟢 #7: PROYECCIÓN DE CRECIMIENTO** (15-20 páginas)
-**Archivo:** `07-PROYECCION-CRECIMIENTO-3-AÑOS.md`  
-**Tiempo:** 2-3 horas  
-**Prioridad:** 🟢 BAJA
+## 🎯 FORMATO DOCUMENTOS
 
-**Contenido:**
-- Visión a 3 años
-- Hitos de crecimiento
-- Expansión física (2da sede)
-- Diversificación de servicios
-- Alianzas estratégicas
+### **Resumen Ejecutivo (5 páginas):**
+- Formato: Markdown → PDF (export clean)
+- Secciones: Decisión, escenarios, próximos pasos
+- Visual: Tablas comparativas, números destacados
+- Audiencia: Mike (lectura 10 min)
 
----
-
-### **🟢 #8: ANÁLISIS DE RIESGOS** (15-20 páginas)
-**Archivo:** `08-ANALISIS-RIESGOS-CONTINGENCIAS.md`  
-**Tiempo:** 2-3 horas  
-**Prioridad:** 🟢 BAJA
-
-**Contenido:**
-- Identificación de riesgos (financieros, operativos, legales)
-- Probabilidad e impacto
-- Planes de mitigación
-- Plan B si no funciona
-- Estrategias de salida
-
----
-
-## 📅 CRONOGRAMA DE CREACIÓN RECOMENDADO
-
-### **SEMANA 1: Preparación**
-- Completar FASE-00 (BLOQUEANTE)
-- Mystery shopping (validar precios competencia)
-- Decidir ubicación final
-
-### **SEMANA 2-3: Documentos prioritarios**
-- Lunes-Miércoles: Doc #3 PLAN-FINANCIERO (4-5h)
-- Jueves-Sábado: Doc #1 ANALISIS-MERCADO (4-5h)
-
-### **SEMANA 4: Más documentos**
-- Lunes-Miércoles: Doc #6 PLAN-MARKETING (3-4h)
-- Jueves-Viernes: Doc #4 ESTRATEGIA-OPERATIVA (3h)
-
-**Total:** 3 documentos críticos en 2 semanas (~14-17 horas)
-
----
-
-## 🎯 FORMATO Y ESTILO
-
-### **Formato estándar:**
-- **Tamaño:** A4
-- **Fuente:** Arial 11pt (texto), 14pt (títulos), 12pt (subtítulos)
-- **Márgenes:** 2.5cm todos los lados
-- **Interlineado:** 1.5
-- **Numeración:** Páginas numeradas
-- **Índice:** Automático al inicio de cada documento
-
-### **Estructura de cada documento:**
-```
-1. Portada
-   - Título del documento
-   - Logo (si tiene)
-   - "Plan de Negocio - Consultorio [NOMBRE]"
-   - Fecha
-
-2. Índice (automático)
-
-3. Resumen Ejecutivo (1 página)
-   - Lo más importante en 300-500 palabras
-
-4. Contenido Principal (20-28 páginas)
-   - Dividido en secciones numeradas
-   - Con gráficos, tablas, datos verificados
-
-5. Conclusiones (1-2 páginas)
-
-6. Anexos (si aplica)
-   - Tablas detalladas
-   - Fuentes consultadas
-```
-
-### **Elementos visuales:**
-- ✅ Gráficos (evolución ingresos, tortas de mercado)
-- ✅ Tablas (comparativas, proyecciones)
-- ✅ Íconos y colores (para destacar puntos clave)
-- ✅ Infografías (flujos, procesos)
-- ❌ NO: Fotos stock genéricas (poco profesional)
+### **Plan Financiero (15-20 páginas):**
+- Formato: Markdown → PDF profesional
+- Secciones: 12 (índice en documento)
+- Visual: Tablas, proyecciones, sensibilidad
+- Audiencia: Banco (presentación formal)
 
 ---
 
 ## 📊 FUENTES DE DATOS
 
-Todos los documentos deben basarse en datos REALES de:
-- `DATOS-REALES-PARAGUAY-CONSOLIDADO.md` (200+ datos verificados)
-- Mystery shopping (precios competencia)
-- FASE-00 (preferencias y datos de Mike)
-- Cotizaciones reales de proveedores
-
-**NO usar:** Estimaciones sin fundamento, datos de otros países, promedios genéricos.
+Todos los documentos usan datos REALES:
+- ✅ `docs/datos-paraguay-2025.md` (200+ datos verificados)
+- ✅ `05-modelos-financieros/escenarios-financieros.md` (5 escenarios calculados)
+- ⏸️ Mystery shopping (precios competencia) - Mike ejecuta
+- ⏸️ FASE-00 (preferencias Mike) - Pendiente completar
 
 ---
 
-## ✅ CHECKLIST DE CALIDAD (Pre-entrega)
+## ✅ CHECKLIST ANTES DE ENTREGAR A MIKE
 
-Antes de considerar un documento "completo":
+**Resumen Ejecutivo:**
+- [ ] Escenario recomendado claro
+- [ ] Próximos 5 pasos accionables
+- [ ] Números verificados (no estimaciones)
+- [ ] Lectura < 10 minutos
 
-- [ ] ¿Tiene resumen ejecutivo de 1 página?
-- [ ] ¿Todos los números tienen fuente verificable?
-- [ ] ¿Hay mínimo 3-5 gráficos/tablas?
-- [ ] ¿Las conclusiones responden al objetivo del doc?
-- [ ] ¿Está personalizado con datos de Mike (no genérico)?
-- [ ] ¿Alguien puede leerlo y entender sin contexto previo?
-- [ ] ¿Tiene índice automático?
-- [ ] ¿Las páginas están numeradas?
-- [ ] ¿Está libre de errores ortográficos?
-- [ ] ¿El formato es consistente en todo el documento?
+**Plan Financiero:**
+- [ ] Personalizado con datos FASE-00
+- [ ] Solo 1 escenario (no 5)
+- [ ] Proyecciones mes a mes completas
+- [ ] Análisis sensibilidad incluido
+- [ ] Presentable a banco
 
-**Si alguna respuesta es NO → documento NO está listo.**
-
----
-
-## 🚫 ANTI-PATRONES (EVITAR)
-
-### **NO hacer:**
-❌ Copiar-pegar de internet sin personalizar  
-❌ Usar datos genéricos ("en promedio un consultorio...")  
-❌ Escribir sin haber completado FASE-00  
-❌ Ignorar datos de DATOS-REALES-PARAGUAY-CONSOLIDADO.md  
-❌ Crear documentos de 50+ páginas (muy extenso, nadie lee)  
-❌ Solo texto, sin gráficos ni tablas  
-❌ Lenguaje muy técnico que bancos no entienden  
-
-### **SÍ hacer:**
-✅ Usar datos verificados de Paraguay 2025  
-✅ Personalizar con situación específica de Mike  
-✅ Balance texto + gráficos + tablas  
-✅ Lenguaje profesional pero claro  
-✅ Documentos concisos (20-30 páginas máximo)  
-✅ Resúmenes ejecutivos (lectores ocupados)  
+**Si alguna respuesta es NO → NO entregar aún.**
 
 ---
 
-## 🔄 VERSIONADO
+## 🚫 FILOSOFÍA: MENOS ES MÁS
 
-Cada documento debe tener control de versiones:
+### **POR QUÉ SOLO 2 DOCUMENTOS (NO 8):**
 
-```
-─────────────────────────────────────────
-CONTROL DE VERSIONES
+**Mike NO necesita:**
+- 180 páginas de teoría que archivará
+- Análisis de mercado que no cambia decisiones
+- Proyecciones 3 años (pura especulación)
+- Documentos que nadie leerá
 
-Versión 1.0 - [Fecha]
-- Creación inicial (estructura + contenido genérico)
+**Mike SÍ necesita:**
+- ✅ Decisión clara: ¿Qué escenario elegir? (Resumen ejecutivo)
+- ✅ Plan financiero para banco (si pide préstamo)
+- ✅ Plan de acción 30 días (execution > planning)
+- ✅ Validar con clientes reales mes 1
 
-Versión 2.0 - [Fecha post-FASE-00]
-- Personalización con datos de Mike
-- Incorporación datos mystery shopping
-
-Versión 2.1 - [Fecha]
-- Revisión contador (validación financiera)
-
-Versión FINAL - [Fecha]
-- Aprobado para presentación
-─────────────────────────────────────────
-```
-
----
-
-## 💼 USO ESPERADO DE ESTOS DOCUMENTOS
-
-### **Para Mike:**
-- Roadmap de implementación
-- Validación de viabilidad
-- Referencia durante primeros 6 meses
-
-### **Para bancos:**
-- Solicitud de préstamo (especialmente Doc #3 Plan Financiero)
-- Demostrar solvencia y planificación
-- Proyecciones de repago
-
-### **Para socios potenciales:**
-- Presentación profesional del proyecto
-- Demostrar retorno de inversión
-- Clarificar roles y expectativas
-
-### **Para proveedores:**
-- Negociar mejores precios (muestra seriedad)
-- Establecer crédito comercial
+**Resultado:**
+- Ahorra 40-50 horas de trabajo innecesario
+- Mike lee TODO (no solo 10%)
+- Lanza en 3-4 semanas (vs 3-4 meses)
+- Aprende haciendo (vs teoría)  
 
 ---
 
-## 📈 VALOR AGREGADO
+## 🔄 ESTADO ACTUAL
 
-Tener estos 8 documentos coloca a Mike en el **top 5% de emprendedores en Paraguay**.
+**Documento #1 (Resumen Ejecutivo):**
+- Estado: ✅ 100% completo (genérico)
+- Esperando: FASE-00 para personalizar escenario final
+- Tiempo restante: 30 min
 
-**La mayoría abre sin:**
-- Análisis de mercado
-- Plan financiero detallado
-- Estrategia de marketing
-- Proyecciones serias
+**Documento #2 (Plan Financiero):**
+- Estado: ✅ Template 100% listo con 5 escenarios
+- Esperando: FASE-00 para seleccionar 1 y personalizar
+- Tiempo restante: 2-3 horas
+
+**BLOQUEADOR:** FASE-00 (cuestionario Mike) - 0% completo
+
+---
+
+## 💼 USO DE ESTOS DOCUMENTOS
+
+**Resumen Ejecutivo (5 páginas):**
+- Mike lo lee primero
+- Decide GO/NO-GO
+- Elige escenario
+- Lectura: 10 minutos
+
+**Plan Financiero (15-20 páginas):**
+- Presentación formal si pide préstamo banco
+- Validación decisión inversión
+- Referencia año 1 (KPIs, proyecciones)
+- Lectura: 30 minutos (banco)
+
+---
+
+## 📈 VALOR FINAL
 
 **Mike tendrá:**
-- ✅ 180 páginas de planificación profesional
+- ✅ 20 páginas ejecutables (vs 180 teóricas)
 - ✅ 200+ datos verificados
-- ✅ Calidad nivel consultoría empresarial
-- ✅ Ventaja competitiva significativa
+- ✅ Decisión clara GO/NO-GO
+- ✅ 5 escenarios analizados
+- ✅ Plan acción 30 días
+- ✅ Listo en 4 días (vs 3-4 semanas)
+
+**Diferencia vs competencia:**
+- 95% abre sin plan alguno
+- Mike tiene plan profesional en 20 páginas
+- Ejecuta en semanas, no meses
 
 ---
 
-## 🎯 ESTADO ACTUAL
+## 🎯 PRÓXIMO PASO
 
-**Progreso:** Estructuras creadas (10%), contenido 0%  
-**Bloqueo:** FASE-00 sin completar  
-**Tiempo estimado una vez desbloqueado:** 15-20 horas para 3 docs prioritarios
-
-**Próximo paso:** Mike completa FASE-00 → Escribimos 3 documentos prioritarios → Mike tiene plan presentable para banco en 2-3 semanas.
+**Mike completa FASE-00** (mañana 20 enero) →  
+**Claude personaliza documentos** (2-3 horas) →  
+**Mike decide** (10 min lectura) →  
+**Mike ejecuta plan 30 días** (semana siguiente)
 
 ---
 
-**Última actualización:** 18 Enero 2026, 19:10  
+**Última actualización:** 19 Enero 2026, 00:25  
 **Próxima actualización:** Post-FASE-00  
-**Versión:** 1.0 - Índice y estructuras
+**Versión:** 2.0 - Streamlined scope (2 docs, not 8)  
+**Cambio clave:** De 180 páginas teóricas a 20 páginas ejecutables
