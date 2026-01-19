@@ -145,13 +145,15 @@ Ese archivo tiene 3 opciones claras:
 - Láser IR terapéutico: **Gs. 966,000**
 - TENS profesional: **USD 427** (Gs. 3,202,500)
 
-### **MODELO FINANCIERO BASE:**
+### **MODELO FINANCIERO BASE (Escenario 4 - Mixto Asunción):**
 
-- Inversión inicial: **Gs. 54,449,850** (USD ~$7,260)
-- Costos fijos mensuales: **Gs. 4,760,000**
-- Punto equilibrio: **37 sesiones/mes** (1.85/día)
-- ROI año 1: **61.5%**
-- Recuperación: **19-20 meses**
+- Inversión inicial: **Gs. 55,399,850** (USD ~$7,393)
+- Costos fijos mensuales: **Gs. 5,530,000**
+- Punto equilibrio: **35 sesiones/mes** (1.75/día)
+- ROI año 1: **36.5%** (conservative) / **56%** (optimistic)
+- Recuperación: **27 meses** (conservative)
+
+**⚠️ Nota:** Cifras actualizadas post-auditoría financiera Jan 19, 2026. Ver `docs/financial-audit-2026-01-19.md` para detalles.
 
 ---
 
