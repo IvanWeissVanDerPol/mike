@@ -170,7 +170,7 @@ Contiene:
 
 **⚠️ Nota:** Estos archivos son para importar a Google Sheets. No los abras en GitHub.
 
-📋 **Guía de uso:** [`03-bases-datos/README.md`](03-bases-datos/README.md)
+**Archivos:** 8 CSVs (escenarios, equipamiento, alquileres, competidores, gimnasios, médicos, etc.)
 
 ---
 
@@ -178,9 +178,9 @@ Contiene:
 
 **Para qué:** Formularios para pacientes (consentimiento, historia clínica, etc.)
 
-**⚠️ Estado:** En progreso. Se completará después del cuestionario.
+**⚠️ Estado:** Templates pending - will be personalized after FASE-00 questionnaire
 
-📋 **Lista de plantillas:** [`04-plantillas/README.md`](04-plantillas/README.md)
+**Archivos:** Historia clínica, consentimiento informado, evaluación inicial, plan tratamiento
 
 ---
 
@@ -194,17 +194,21 @@ Contiene prompts para:
 - Posts de Instagram
 - Stories
 
-📋 **Índice completo:** [`marketing/README.md`](marketing/README.md)
+**Archivos:**
+- `prompts-logo.md` - Para diseñar tu logo con IA
+- `prompts-flyers.md` - Para crear flyers promocionales
+- `prompts-social-media.md` - Para posts de Instagram/Facebook
+- `prompts-stories.md` - Para Instagram Stories
 
 ---
 
-#### **📁 `docs/`** - Documentación Técnica
+#### **📁 `docs/`** - Documentación Técnica (Developers Only)
 
 **Para qué:** Documentación SOBRE el proyecto (no para ejecutar tu negocio)
 
 **⚠️ Nota:** Esta carpeta es para desarrolladores/consultores. NO necesitas leerla para abrir tu consultorio.
 
-📋 **Índice completo:** [`docs/README.md`](docs/README.md)
+**Contiene:** CHANGELOG, financial audit, project status, naming conventions
 
 ---
 
