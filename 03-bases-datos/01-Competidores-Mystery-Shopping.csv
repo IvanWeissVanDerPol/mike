@@ -1,0 +1,14 @@
+ID,Nombre,Zona,Dirección,Teléfono,Website,Email,Precio Sesión,Precio Evaluación,Duración (min),Paquete 10 Sesiones,Domicilio,Equipamiento,Años Mercado,Observaciones,Fecha Contacto,Estado
+1,Fisiocenter,Centro,Av. Perú 568 c/ EE.UU.,(021) 204-600,fisiocenter.com.py,,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,Aparenta completo,5+,Presencia digital fuerte,PENDIENTE,Por llamar
+2,CEMEFIR,Centro,Av. Venezuela 664 entre Piribebuy y Yegros,(021) 226-688,cemefir.com.py,,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,Profesional según web,10+,Convenios seguros,PENDIENTE,Por llamar
+3,Kinesio Gold,Mburucuyá,Barrio Mburucuyá (dirección exacta TBD),0981-XXX-XXX,No tiene,,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,Desconocido,Desconocido,Solo Facebook,PENDIENTE,Por llamar
+4,Sanatorio Británico CERF,Centro,Av. Félix Bogado,021-XXX-XXX,britanico.com.py,,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,Hospital completo,Varios años,Segmento premium,PENDIENTE,Por llamar
+5,Clínica Boquerón (IPS),Centro,,021-XXX-XXX,,,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,Básico público,Varios años,Solo IPS asegurados,PENDIENTE,Por llamar
+6,Competidor 6,,,,,,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,,,,PENDIENTE,Por investigar
+7,Competidor 7,,,,,,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,,,,PENDIENTE,Por investigar
+8,Competidor 8,,,,,,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,,,,PENDIENTE,Por investigar
+9,Competidor 9,,,,,,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE,,,,PENDIENTE,Por investigar
+PROMEDIO,→ Calcular después mystery shopping,,,,,,,,,,,,,,,
+MÍNIMO,→ Precio más bajo encontrado,,,,,,,,,,,,,,,
+MÁXIMO,→ Precio más alto encontrado,,,,,,,,,,,,,,,
+MI PRECIO,→ Decidir basado en promedio + estrategia,,,,,,,,,,,,,,,
