@@ -1,0 +1,20 @@
+Indicador,Valor,Unidad,Año,Fuente,Observaciones
+Población Total Asunción,464185,Habitantes,2025,INE,Revisión proyecciones 2025
+Población 0-14 años,95582,Habitantes,2025,INE,20.6% del total
+Población 15-64 años,311932,Habitantes,2025,INE,67.2% - Población Económicamente Activa
+Población 65+ años,56631,Habitantes,2025,INE,12.2% - Adultos mayores
+Edad Mediana,33.1,Años,2025,INE,Población relativamente joven
+Índice Masculinidad,95.8,Hombres por 100 mujeres,2025,INE,Más mujeres que hombres
+Razón de Dependencia,48.8,Por cada 100 activos,2025,INE,48.8 dependientes por 100 activos
+Tasa Global Fecundidad,1.68,Hijos por mujer,2025,INE,Bajo reemplazo poblacional
+Tasa Bruta Mortalidad,8.3,Por mil habitantes,2025,INE,Baja mortalidad
+Esperanza Vida Hombres,72.6,Años,2025,INE,Creciendo
+Esperanza Vida Mujeres,78.8,Años,2025,INE,Mayor que hombres
+Ritmo Crecimiento Anual,-0.63,%,2025,INE,Población en leve descenso - migración interna
+Mercado Objetivo 20-65+,316631,Habitantes,2025,Calculado,68% población total - target fisioterapia
+Jóvenes Activos 20-39,150000,Habitantes (estimado),2025,Estimado INE,Lesiones deportivas - posturales
+Adultos 40-59,110000,Habitantes (estimado),2025,Estimado INE,Dolor crónico - rehabilitación
+Nivel ABC1 (Alto),69628-92837,Habitantes,2025,Estimado,15-20% población - poder adquisitivo alto
+Nivel C2-C3 (Medio),139256-162465,Habitantes,2025,Estimado,30-35% población - poder adquisitivo medio
+Nivel D-E (Bajo),208883-255302,Habitantes,2025,Estimado,45-55% población - poder adquisitivo bajo
+Mercado Objetivo ABC1+C2,208000-255000,Habitantes,2025,Calculado,45-55% población - target principal

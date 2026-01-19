@@ -1,0 +1,17 @@
+Servicio,Paciente_Particular_Gs,Paciente_Asegurado_Gs,Código_Nomenclador,Observaciones,Fuente,Fecha_Actualización
+Evaluación Kinésica Inicial,200000,120000,EKI-001,60 minutos - incluye plan tratamiento,AKYFPY 2025,18/01/2026
+Sesión Fisioterapia Estándar,170000,102000,SFE-001,45-50 minutos,AKYFPY 2025,18/01/2026
+Sesión Fisioterapia Especializada,200000,120000,SFE-002,RPG - Punción Seca - ATM,AKYFPY 2025,18/01/2026
+Sesión Fisioterapia Neurológica,200000,120000,SFN-001,ACV - Parkinson - Lesiones medulares,AKYFPY 2025,18/01/2026
+Sesión Fisioterapia Respiratoria,180000,108000,SFR-001,EPOC - Post-COVID - UCI,AKYFPY 2025,18/01/2026
+Sesión Fisioterapia Deportiva,180000,108000,SFD-001,Evaluación funcional deportista,AKYFPY 2025,18/01/2026
+Drenaje Linfático Manual,200000,120000,DLM-001,60 minutos,AKYFPY 2025,18/01/2026
+Masaje Terapéutico,150000,90000,MT-001,30-40 minutos,AKYFPY 2025,18/01/2026
+Vendaje Neuromuscular (Kinesiotaping),100000,60000,VNM-001,Aplicación - incluye material,AKYFPY 2025,18/01/2026
+Electroterapia (TENS - US - Láser),80000,48000,ET-001,Por sesión - complemento,AKYFPY 2025,18/01/2026
+Magnetoterapia,80000,48000,MT-002,Por sesión,AKYFPY 2025,18/01/2026
+Ultrasonido Terapéutico,70000,42000,UT-001,Por sesión,AKYFPY 2025,18/01/2026
+Evaluación Funcional Deportiva,250000,150000,EFD-001,90 minutos - completa,AKYFPY 2025,18/01/2026
+Reeducación Postural Global (RPG),250000,150000,RPG-001,60 minutos - especializada,AKYFPY 2025,18/01/2026
+Pilates Terapéutico,150000,90000,PT-001,45 minutos - grupal max 4,AKYFPY 2025,18/01/2026
+Sesión Domicilio (adicional),No especificado,No especificado,DOM-001,A criterio profesional - sugerir +15-20%,AKYFPY 2025,18/01/2026

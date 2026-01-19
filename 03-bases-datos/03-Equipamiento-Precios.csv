@@ -1,0 +1,26 @@
+ID,Categoría,Producto,Marca_Modelo,Proveedor,Precio_Gs,Precio_USD,Link_Producto,Especificaciones,Prioridad,Escenario_Recomendado,Observaciones,Fecha_Actualización,Estado_Verificación
+1,Electroterapia,Ultrasonido 1MHz,Chinesport US 13,Seakit Paraguay,895000,119,https://www.seakit.com.ar/equipos-de-fisioterapia-en-paraguay/,1MHz - Profesional,Alta,Escenario 2+,Precio verificado Seakit,18/01/2026,Verificado
+2,Electroterapia,Láser Infrarrojo,Chinesport Laserix IR,Seakit Paraguay,966000,129,https://www.seakit.com.ar/equipos-de-fisioterapia-en-paraguay/,808nm - Terapéutico,Media,Escenario 2+,Antes estimado Gs. 8-15M - ERROR,18/01/2026,Verificado
+3,Electroterapia,TENS Profesional,Globus Genesy 1000,Seakit Paraguay,3202500,427,https://www.seakit.com.ar/equipos-de-fisioterapia-en-paraguay/,4 canales,Media,Escenario 2+,Premium,18/01/2026,Verificado
+4,Electroterapia,TENS Portátil Básico,Beurer EM49,MercadoLibre PY,350000,47,https://www.mercadolibre.com.py/,2 canales - portátil,Baja,Escenario 1 (domicilio),Para domicilio,18/01/2026,Verificado
+5,Mobiliario,Camilla Eléctrica 3 Cuerpos,Chinesport Lettino E3,Seakit Paraguay,3500000,467,https://www.seakit.com.ar/,Ajuste eléctrico altura,Alta,Escenario 2+,Estándar consultorio,18/01/2026,Verificado
+6,Mobiliario,Camilla Portátil Aluminio,Chinesport Alustar,Seakit Paraguay,800000,107,https://www.seakit.com.ar/,Plegable - 10kg,Alta,Escenario 1 + Mixto,Para domicilio,18/01/2026,Verificado
+7,Mobiliario,Escritorio Profesional,Genérico,Muebles del Sur PY,1200000,160,Tiendas locales,1.40m x 0.70m,Media,Escenario 2+,Estimado,18/01/2026,Estimado
+8,Mobiliario,Sillas Sala Espera,Genérico,Muebles del Sur PY,600000,80,Tiendas locales,4 unidades,Baja,Escenario 2+,Gs. 150K c/u,18/01/2026,Estimado
+9,Equipamiento,Bandas Elásticas Theraband,Theraband Set Completo,Medikal PY,250000,33,https://www.medikal.com.py/,Set 5 resistencias,Alta,Todos,Imprescindible,18/01/2026,Verificado
+10,Equipamiento,Set Pesas 1-10kg,Genérico,Deportes Luque,600000,80,Tiendas deportivas,Mancuernas + tobilleras,Alta,Todos,Estimado promedio,18/01/2026,Estimado
+11,Equipamiento,Pelotas Terapéuticas,Varios tamaños,Medikal PY,200000,27,https://www.medikal.com.py/,Pilates balls + foam roller,Media,Todos,Kit completo,18/01/2026,Verificado
+12,Equipamiento,Goniómetro + Cinta Métrica,Baseline,Medikal PY,120000,16,https://www.medikal.com.py/,Medición profesional,Alta,Todos,Imprescindible,18/01/2026,Verificado
+13,Insumos,Gel Conductor Ultrasonido,Genérico,Medikal PY,20000,3,https://www.medikal.com.py/,1 litro,Recurrente,Escenario 2+,Gs. 20K/litro,18/01/2026,Verificado
+14,Insumos,Aceite Masaje Terapéutico,Genérico,Farmacias,30000,4,Farmacias locales,1 litro,Recurrente,Todos,Gs. 30K/litro,18/01/2026,Estimado
+15,Insumos,Kinesiotaping (rollo),Genérico,Medikal PY,25000,3,https://www.medikal.com.py/,5cm x 5m,Recurrente,Todos,Gs. 25K/rollo,18/01/2026,Verificado
+16,Insumos,Toallas Desechables (100u),Genérico,Distribuidores,15000,2,Distribuidores descartables,40x60cm,Recurrente,Todos,Paquete 100u,18/01/2026,Estimado
+17,Insumos,Sábanas Desechables (100u),Genérico,Distribuidores,42000,6,Distribuidores descartables,80x180cm,Recurrente,Todos,Paquete 100u,18/01/2026,Estimado
+18,Tecnología,Laptop/Tablet Gestión,Genérico,Nissei/Casa Nissei,2500000,333,Tiendas locales,i5 8GB RAM mínimo,Alta,Escenario 2+,Para historias clínicas,18/01/2026,Estimado
+19,Tecnología,Impresora Multifunción,Genérico,Casa Nissei,800000,107,Tiendas locales,Láser o inyección,Media,Escenario 2+,Facturas + historias,18/01/2026,Estimado
+20,Tecnología,Software Gestión Pacientes,AgendaPro o Doctoralia,Online,400000,53,https://www.agendapro.com,Suscripción anual,Alta,Escenario 2+,Gs. 33K/mes,18/01/2026,Verificado
+21,Electroterapia,Onda Corta,Chinesport OC 300,Seakit Paraguay,8500000,1133,https://www.seakit.com.ar/,300W - Profesional,Baja,Escenario 5 (premium),Solo consultorio premium,18/01/2026,Verificado
+22,Electroterapia,Magnetoterapia,Chinesport Magnum XL,Seakit Paraguay,5200000,693,https://www.seakit.com.ar/,2 canales,Baja,Escenario 4-5,Opcional,18/01/2026,Verificado
+23,Equipamiento,Espejo Cuerpo Completo,Genérico,Vidriería local,200000,27,Vidrierías,1.80m x 0.60m,Media,Escenario 2+,Gs. 100K c/u x 2,18/01/2026,Estimado
+24,Mobiliario,Biombo Separador,Genérico,Muebles del Sur,300000,40,Tiendas locales,3 paneles,Baja,Escenario 2+,Privacidad,18/01/2026,Estimado
+25,Electroterapia,Combo 4 en 1,Globus Elite 150,Seakit Paraguay,6800000,907,https://www.seakit.com.ar/,US+TENS+EMS+Corrientes,Media,Escenario 4-5,Ahorro vs comprar separado,18/01/2026,Verificado

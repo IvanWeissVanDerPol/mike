@@ -1,0 +1,16 @@
+ID,Fuente,Zona,Dirección,Tipo,M2,Ambientes,Baños,Precio_Alquiler_Gs,Precio_Alquiler_USD,Expensas_Gs,Depósito_Requerido,Apto_Consultorio,Estacionamiento,Link_Publicación,Observaciones,Fecha_Actualización,Estado
+1,InfoCasas,Villa Aurelia,Av. Brasilia c/ Cnel. Martínez,Oficina,80,3,1,3500000,467,0,2 meses,Sí,1,https://www.infocasas.com.py/,Buena ubicación - zona comercial,18/01/2026,Activo
+2,InfoCasas,Villa Aurelia,Entre Brasilia y Quesada,Casa,120,4,2,4000000,533,0,2 meses,Sí - requiere adaptación,2,https://www.infocasas.com.py/,Amplio - permite expansión,18/01/2026,Activo
+3,InfoCasas,Centro,Av. España esq. Eligio Ayala,Oficina,60,2,1,2800000,373,200000,2 meses,Sí,0,https://www.infocasas.com.py/,Céntrico - sin estacionamiento,18/01/2026,Activo
+4,InfoCasas,San Pablo,Capitán Rivas c/ San Martín,Casa,100,3,1,2500000,333,0,1 mes,Sí - requiere adaptación,1,https://www.infocasas.com.py/,Residencial tranquilo,18/01/2026,Activo
+5,InfoCasas,Villa Morra,Av. Mcal. López,Oficina,100,4,2,6500000,867,400000,3 meses,Sí,2,https://www.infocasas.com.py/,Premium - alto tráfico,18/01/2026,Activo
+6,MercadoLibre,Carmelitas,Calle última,Oficina,70,3,1,5000000,667,0,2 meses,Sí,1,https://inmuebles.mercadolibre.com.py/,Zona premium,18/01/2026,Activo
+7,MercadoLibre,San Lorenzo,Zona UNA,Casa,90,3,1,1800000,240,0,1 mes,Sí - requiere adaptación,1,https://inmuebles.mercadolibre.com.py/,Cerca universidad,18/01/2026,Activo
+8,MercadoLibre,Fernando de la Mora,Av. Mariscal López,Local comercial,75,2,1,2200000,293,150000,2 meses,Sí,1,https://inmuebles.mercadolibre.com.py/,Zona comercial,18/01/2026,Activo
+9,Properati,Bernardino Caballero,Calle 1era,Casa,110,4,2,2000000,267,0,1 mes,Sí - requiere adaptación,0,https://www.properati.com.py/,Residencial,18/01/2026,Activo
+10,Properati,Recoleta,Zona Shopping Mariscal,Oficina,85,3,1,5500000,733,300000,3 meses,Sí,2,https://www.properati.com.py/,Premium - mucho tráfico,18/01/2026,Activo
+11,,,,,,,,,,,,,,,Mystery shopping - visitar 5 propiedades,,Pendiente
+12,,,,,,,,,,,,,,,Mystery shopping - negociar precios,,Pendiente
+13,,,,,,,,,,,,,,,Mystery shopping - evaluar condiciones,,Pendiente
+14,,,,,,,,,,,,,,,Mystery shopping - verificar habilitación,,Pendiente
+15,,,,,,,,,,,,,,,Mystery shopping - confirmar disponibilidad,,Pendiente

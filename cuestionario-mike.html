@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Cuestionario Pre-llenado - Proyecto Mike</title>
+<style>
+    body { font-family: 'Segoe UI', 'Arial', sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 40px auto; padding: 40px; background-color: #fff; box-shadow: 0 0 20px rgba(0,0,0,0.1); border: 1px solid #e0e0e0; }
+    h1 { color: #2c3e50; font-size: 26px; border-bottom: 3px solid #3498db; padding-bottom: 12px; margin-bottom: 30px; text-align: center; }
+    h2 { color: #2980b9; font-size: 19px; margin-top: 35px; background-color: #f0f8ff; padding: 12px; border-radius: 5px; border-left: 5px solid #3498db; }
+    .intro-box { background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 20px; margin-bottom: 30px; border-radius: 4px; }
+    .critical-box { background-color: #ffe5e5; border-left: 5px solid #e74c3c; padding: 20px; margin-bottom: 30px; border-radius: 4px; }
+    .section-title { font-weight: bold; color: #555; margin-top: 20px; margin-bottom: 10px; font-size: 16px; }
+    .answer-box { background-color: #f9f9f9; border-left: 4px solid #2ecc71; padding: 18px; margin: 12px 0; color: #555; border-radius: 3px; }
+    .highlight { font-weight: bold; color: #000; }
+    .scenario-badge { display: inline-block; background-color: #3498db; color: white; padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; margin-left: 8px; vertical-align: middle; }
+    .scenario-badge.green { background-color: #27ae60; }
+    .scenario-badge.red { background-color: #e74c3c; }
+    .scenario-badge.orange { background-color: #f39c12; }
+    ul { list-style-type: none; padding: 0; }
+    li { margin-bottom: 8px; padding-left: 25px; position: relative; }
+    li:before { content: "•"; color: #3498db; font-weight: bold; font-size: 18px; position: absolute; left: 0; }
+    .checkbox { margin-right: 8px; }
+    .footer-note { margin-top: 40px; text-align: center; font-size: 14px; color: #888; border-top: 1px solid #eee; padding-top: 20px; }
+    .instruction { background-color: #e8f5e9; border-left: 4px solid #4caf50; padding: 15px; margin: 15px 0; border-radius: 3px; }
+    table { width: 100%; border-collapse: collapse; margin: 15px 0; }
+    td, th { padding: 8px; border: 1px solid #eee; }
+    th { background-color: #3498db; color: white; border-color: #2980b9; }
+    input[type="text"] { border: none; border-bottom: 1px solid #ccc; background: transparent; width: 200px; margin-left: 5px; }
+</style>
+</head>
+<body>
+
+<h1>🏥 CUESTIONARIO PRE-LLENADO: CONSULTORIO DE FISIOTERAPIA MIKE</h1>
+
+<div class="intro-box">
+    <p><strong>Hola Mike,</strong> para ahorrarte tiempo, <strong>hemos pre-respondido todo el cuestionario</strong> con lo que creemos es tu situación ideal basándonos en la investigación realizada.</p>
+    <p>👉 <strong>TU TAREA:</strong> Solo debes leer y <strong>corregir/editar/confirmar</strong> donde nos hayamos equivocado o quieras cambiar algo. Si estás de acuerdo, ¡simplemente déjalo así!</p>
+    <p>💡 <strong>Importante:</strong> Hemos considerado tanto consultorio físico como atención a domicilio. Puedes elegir una modalidad o combinar ambas (que es lo más recomendado para arrancar).</p>
+    <p>⏱️ <strong>Tiempo estimado:</strong> 30-45 minutos de lectura y correcciones.</p>
+</div>
+
+<div class="critical-box">
+    <strong>⚠️ IMPORTANTE:</strong> Este cuestionario es <strong>BLOQUEANTE</strong> para personalizar el resto del plan de negocio. Sin tus respuestas confirmadas, todo quedará genérico. Por favor, dedícale el tiempo necesario.
+</div>
+
+<h2 style="margin-top: 40px; background: none; border: none; padding: 0; color: #333;">📊 COMPARACIÓN RÁPIDA: 3 MODELOS DE NEGOCIO</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Criterio</th>
+            <th>🏠 Solo Domicilio</th>
+            <th>🏢 Solo Consultorio</th>
+            <th>⭐ Mixto (Ambos)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Inversión inicial</strong></td>
+            <td style="color: #27ae60;"><strong>Gs. 3-5M</strong></td>
+            <td style="color: #e74c3c;">Gs. 50-60M</td>
+            <td style="color: #f39c12;">Gs. 50-60M</td>
+        </tr>
+        <tr>
+            <td><strong>Costos fijos/mes</strong></td>
+            <td style="color: #27ae60;"><strong>Gs. 200-500K</strong><br>(solo insumos)</td>
+            <td style="color: #e74c3c;">Gs. 4-5M<br>(alquiler, servicios, impuestos)</td>
+            <td style="color: #f39c12;">Gs. 4-5M</td>
+        </tr>
+        <tr>
+            <td><strong>Tiempo hasta arrancar</strong></td>
+            <td style="color: #27ae60;"><strong>1-2 semanas</strong></td>
+            <td style="color: #e74c3c;">2-3 meses</td>
+            <td style="color: #f39c12;">2-3 meses</td>
+        </tr>
+        <tr>
+            <td><strong>Precio sesión</strong></td>
+            <td>Gs. 150-180K<br>(incluye traslado)</td>
+            <td>Gs. 150K</td>
+            <td style="color: #27ae60;"><strong>Gs. 150K consultorio<br>Gs. 170K domicilio</strong></td>
+        </tr>
+        <tr>
+            <td><strong>Capacidad máxima</strong></td>
+            <td style="color: #e74c3c;">50-60 sesiones/mes<br>(tiempo traslados)</td>
+            <td style="color: #27ae60;"><strong>100+ sesiones/mes</strong></td>
+            <td style="color: #27ae60;"><strong>100+ sesiones/mes</strong></td>
+        </tr>
+        <tr>
+            <td><strong>Riesgo financiero</strong></td>
+            <td style="color: #27ae60;"><strong>MUY BAJO</strong></td>
+            <td style="color: #e74c3c;">ALTO</td>
+            <td style="color: #f39c12;">MEDIO</td>
+        </tr>
+        <tr>
+            <td><strong>Flexibilidad horaria</strong></td>
+            <td style="color: #27ae60;"><strong>MÁXIMA</strong><br>(tú eliges cuándo)</td>
+            <td style="color: #e74c3c;">BAJA<br>(debes estar 8+ horas)</td>
+            <td style="color: #27ae60;"><strong>ALTA</strong><br>(combinas)</td>
+        </tr>
+        <tr>
+            <td><strong>Público que captas</strong></td>
+            <td>Adultos mayores<br>Post-operatorios<br>Neurológicos</td>
+            <td>Deportistas<br>Oficinistas<br>Jóvenes activos</td>
+            <td style="color: #27ae60;"><strong>TODOS</strong><br>(máximo mercado)</td>
+        </tr>
+        <tr>
+            <td><strong>Escalabilidad</strong></td>
+            <td style="color: #e74c3c;">BAJA<br>(limitado por tu tiempo)</td>
+            <td style="color: #27ae60;"><strong>ALTA</strong><br>(contratas empleados)</td>
+            <td style="color: #27ae60;"><strong>ALTA</strong></td>
+        </tr>
+        <tr>
+            <td><strong>Ganancia año 1</strong></td>
+            <td>Gs. 3-4M/mes</td>
+            <td>Gs. 2.5-3M/mes</td>
+            <td style="color: #27ae60;"><strong>Gs. 3.5-4.5M/mes</strong></td>
+        </tr>
+        <tr style="background-color: #f0f8ff;">
+            <td><strong>🎯 RECOMENDADO PARA:</strong></td>
+            <td>✅ Poco capital<br>✅ Arranque inmediato<br>✅ Riesgo cero</td>
+            <td>✅ Capital Gs. 50M+<br>✅ Visión largo plazo<br>✅ Quiere escalar equipo</td>
+            <td><strong>✅ MEJOR ESTRATEGIA</strong><br>✅ Minimiza riesgo<br>✅ Maximiza ingresos<br>✅ Captura todo mercado</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="instruction">
+    <strong>💡 Recomendación general:</strong> Si tienes el capital (Gs. 50-60M), el modelo MIXTO es el más inteligente. Arrancas el consultorio pero también ofreces domicilio para:
+    <ul>
+        <li>Llenar huecos de agenda (paciente cancela → ofreces domicilio en ese horario)</li>
+        <li>Captar mercado que NO va a consultorio (adultos mayores, post-operatorios)</li>
+        <li>Generar ingresos desde día 1 (mientras el consultorio gana tracción)</li>
+        <li>Cobrar más en domicilio (Gs. 170K vs Gs. 150K consultorio)</li>
+    </ul>
+</div>
+
+<h2>1️⃣ SOBRE TI Y TU PERFIL PROFESIONAL 👤</h2>
+
+<div class="section-title">1.1 Datos Básicos:</div>
+<div class="answer-box">
+    <strong>Nombre completo:</strong> Mike nyx <em>(¿cuál es tu apellido completo?)</em><br>
+    <strong>Edad:</strong> <em>Pendiente completar</em><br>
+    <strong>Cédula de identidad:</strong> <em>Pendiente completar</em><br>
+    <strong>Teléfono principal:</strong> +595 991 763400<br>
+    <strong>Email:</strong> <em>Pendiente completar</em><br>
+    <strong>Dirección actual:</strong> San Lorenzo, Paraguay<br>
+    <strong>Estado civil:</strong> <em>Pendiente completar (Soltero/Casado/Otro)</em><br>
+    <strong>Dependientes económicos:</strong> <em>Pendiente completar (¿tienes personas a tu cargo?)</em>
+</div>
+
+<div class="section-title">1.2 Formación Profesional:</div>
+<div class="answer-box">
+    <strong>Título obtenido:</strong> Kinesiólogo / Fisioterapeuta<br>
+    <strong>Universidad:</strong> <em>Pendiente confirmar (¿UNA, UCB, otra?)</em><br>
+    <strong>Año de graduación:</strong> ~2024-2025 (recién graduado)<br><br>
+    
+    <strong>Matrícula profesional:</strong><br>
+    <input type="checkbox"> Ya la tengo (N° _______________)<br>
+    <input type="checkbox"> En trámite<br>
+    <input type="checkbox"> Pendiente de tramitar<br><br>
+
+    <strong>Cursos/especializaciones adicionales:</strong><br>
+    <em>¿Tienes alguna? (Ej: RPG, Punción Seca, Drenaje Linfático, etc.)</em><br>
+    1. _________________________________<br>
+    2. _________________________________<br>
+    3. _________________________________
+</div>
+
+<div class="section-title">1.3 Experiencia Laboral:</div>
+<div class="answer-box">
+    <strong>Meses/años de experiencia clínica:</strong> <em>Pendiente completar (_____ meses)</em><br><br>
+    
+    <strong>Lugares donde has trabajado:</strong><br>
+    1. _________________________________<br>
+    2. _________________________________<br>
+    3. _________________________________<br><br>
+
+    <strong>Tipo de experiencia que tienes:</strong><br>
+    <input type="checkbox"> Traumatología/ortopedia<br>
+    <input type="checkbox"> Fisioterapia deportiva<br>
+    <input type="checkbox"> Neurología<br>
+    <input type="checkbox"> Respiratoria<br>
+    <input type="checkbox"> Geriátrica<br>
+    <input type="checkbox"> Pediátrica<br>
+    <input type="checkbox"> ATM (articulación temporomandibular)<br>
+    <input type="checkbox"> Otra: _________________________________<br><br>
+    
+    <strong>Tu especialidad favorita/fuerte:</strong> <em>¿Con qué disfrutas más trabajar?</em>
+</div>
+
+<h2>2️⃣ CAPITAL Y FINANZAS 💰</h2>
+
+<div class="critical-box">
+    <strong>🔴 SECCIÓN MUY IMPORTANTE:</strong> Tus respuestas aquí definen qué escenario financiero recomendaremos (Mínimo Gs. 35M / Recomendado Gs. 54M / Óptimo Gs. 75M+). Sé lo más honesto y preciso posible.
+</div>
+
+<div class="section-title">2.1 Capital Disponible (CRÍTICO):</div>
+<div class="answer-box">
+    <strong>Capital propio HOY (ahorros que puedes invertir):</strong><br>
+    Gs. _____________________<br>
+    <em>¿Cuánto dinero tienes ahorrado que estás dispuesto a invertir en el negocio?</em><br><br>
+    
+    <strong>Familia puede prestar (sin interés o interés bajo):</strong><br>
+    Gs. _____________________<br>
+    <em>¿Tus padres/familiares pueden prestarte algo sin apuro de devolución?</em><br><br>
+
+    <strong>Ingresos de "Creaciones a crochet" (capital potencial):</strong><br>
+    <input type="checkbox"> Genero Gs. ______________ / mes actualmente<br>
+    <input type="checkbox"> He acumulado Gs. ______________ de este negocio<br>
+    <input type="checkbox"> Planeo cerrar/reducir crochet al abrir consultorio<br>
+    <input type="checkbox"> Planeo mantener ambos en paralelo<br><br>
+
+    <strong>¿Estás dispuesto a pedir préstamo bancario?</strong><br>
+    <input type="checkbox"> Sí → Monto máximo: Gs. __________________<br>
+    <input type="checkbox"> No → Solo capital propio y familiar<br><br>
+
+    <strong>TOTAL CAPITAL DISPONIBLE (suma todo lo anterior):</strong><br>
+    <strong style="font-size: 1.2em; color: #2ecc71;">Gs. _____________________</strong>
+</div>
+
+<div class="instruction">
+    <strong>📊 Según tu capital, te recomendaremos:</strong><br>
+    • Menos de Gs. 5M → Escenario DOMICILIO PURO (solo insumos, sin local fijo)<br>
+    • Gs. 5M - 35M → Escenario MIXTO BÁSICO (domicilio + consultorio modesto)<br>
+    • Gs. 35M - 55M → Escenario CONSULTORIO COMPLETO (local equipado profesional) <span class="scenario-badge orange">PLAN ACTUAL</span><br>
+    • Más de Gs. 55M → Escenario ÓPTIMO (zona premium, equipamiento completo)
+</div>
+
+<div class="section-title">2.2 Situación Financiera Actual:</div>
+<div class="answer-box">
+    <strong>¿Tienes ingresos actualmente?</strong><br>
+    <input type="checkbox"> Sí → Gs. ______________ / mes<br>
+    <input type="checkbox"> No<br>
+    <em>¿De dónde? (trabajo actual, crochet, otro negocio, familia, etc.)</em><br><br>
+
+    <strong>¿Puedes subsistir 3-6 meses sin ingresos del consultorio?</strong><br>
+    <input type="checkbox"> Sí, tengo ahorros/ingresos paralelos<br>
+    <input type="checkbox"> No, necesito ingresos desde mes 1<br><br>
+    <em>💡 Si necesitas ingresos inmediatos, el modelo DOMICILIO o MIXTO es mejor (arrancas en 1-2 semanas vs 2-3 meses del consultorio).</em><br><br>
+
+    <strong>¿Tienes deudas actuales (préstamos, tarjetas, etc.)?</strong><br>
+    <input type="checkbox"> Sí → Total: Gs. ______________ (cuota mensual: Gs. ______________)<br>
+    <input type="checkbox"> No<br><br>
+
+    <strong>¿Tienes ahorros de emergencia (separado del capital para el negocio)?</strong><br>
+    <input type="checkbox"> Sí → Gs. ______________<br>
+    <input type="checkbox"> No
+</div>
+
+<h2>3️⃣ PREFERENCIAS DE UBICACIÓN 📍</h2>
+<div class="instruction">
+    <strong>Contexto:</strong> Vives en San Lorenzo, pero el mercado de Asunción tiene mayor poder adquisitivo. Tenemos estas opciones:<br>
+    A) Solo domicilio (inversión mínima Gs. 3-5M, arranque inmediato)<br>
+    B) Consultorio San Lorenzo (alquiler 40% más barato, cerca de casa)<br>
+    C) Consultorio Asunción (mejor ROI, pero commute 30-45 min diario)<br>
+    D) Mixto: domicilio primeros 3-6 meses → consultorio cuando tenga caja<br>
+    E) Mixto desde día 1: consultorio + ofrezco domicilio en paralelo
+</div>
+
+<div class="section-title">3.1 Tu Estrategia de Ubicación/Modalidad:</div>
+<div class="answer-box">
+    <strong>¿Cuál opción prefieres?</strong><br><br>
+    
+    <input type="checkbox"> <strong>A) Solo domicilio (arranque rápido)</strong><br>
+    <em>Inversión: Gs. 3-5M | Precio sesión: Gs. 130-150K + viático | Sin costos fijos | Riesgo bajo</em><br><br>
+
+    <input type="checkbox"> <strong>B) Consultorio San Lorenzo</strong><br>
+    <em>Inversión: Gs. 35-45M | Alquiler: Gs. 1.5-2.5M/mes | Precio sesión: Gs. 120-140K | Cerca de casa</em><br><br>
+
+    <input type="checkbox"> <strong>C) Consultorio Asunción - Villa Aurelia</strong> <span class="scenario-badge orange">PLAN ACTUAL</span><br>
+    <em>Inversión: Gs. 54M | Alquiler: Gs. 2.8-4M/mes | Precio sesión: Gs. 150K | Mejor ROI | Commute 30-45 min</em><br><br>
+
+    <input type="checkbox"> <strong>D) Híbrido progresivo (domicilio → consultorio)</strong><br>
+    <em>Arrancar solo domicilio 3-6 meses, generar caja, LUEGO abrir consultorio sin riesgo</em><br><br>
+
+    <input type="checkbox"> <strong>⭐ E) Mixto desde día 1 (consultorio + domicilio)</strong> <span class="scenario-badge green">MÁXIMA FLEXIBILIDAD</span><br>
+    <em>Consultorio fijo + ofrezco domicilio para llenar agenda. Optimizo ingresos. Precio consultorio: Gs. 150K | Precio domicilio: Gs. 160-180K (incluye traslado)</em><br><br>
+
+    <input type="checkbox"> Otra estrategia: _________________________________<br><br>
+
+    <strong>¿Por qué prefieres esa opción?</strong><br>
+    _____________________________________________________________<br>
+    _____________________________________________________________
+</div>
+
+<div class="section-title">3.2 Si eliges Asunción, ¿qué zona prefieres?</div>
+<div class="answer-box">
+    <strong>Zonas Premium (alquiler Gs. 5-9M/mes, precio sesión Gs. 170-200K):</strong><br>
+    <input type="checkbox"> Villa Morra<br>
+    <input type="checkbox"> Carmelitas<br>
+    <input type="checkbox"> Manorá<br>
+    <input type="checkbox"> Recoleta<br><br>
+
+    <strong>Zonas Medio-Altas (alquiler Gs. 2.8-4.5M/mes, precio sesión Gs. 150-170K):</strong> <span class="scenario-badge green">RECOMENDADO</span><br>
+    <input type="checkbox"> Villa Aurelia ← Recomendación actual<br>
+    <input type="checkbox"> Ciudad Nueva<br>
+    <input type="checkbox"> Barrio Herrera<br>
+    <input type="checkbox"> Las Mercedes<br>
+    <input type="checkbox"> Santa Teresa<br><br>
+
+    <strong>Zonas Medias (alquiler Gs. 2-3.5M/mes, precio sesión Gs. 130-150K):</strong><br>
+    <input type="checkbox"> Centro<br>
+    <input type="checkbox"> Bernardino Caballero<br>
+    <input type="checkbox"> San Roque<br>
+    <input type="checkbox"> Barrio Jara<br>
+    <input type="checkbox"> San Pablo
+</div>
+
+<div class="section-title">3.3 Criterios de Ubicación:</div>
+<div class="answer-box">
+    <strong>Numera del 1 al 7 según tu prioridad (1 = lo más importante para ti):</strong><br>
+    ___ Precio del alquiler (más barato)<br>
+    ___ Prestigio de la zona<br>
+    ___ Cercanía a mi domicilio (San Lorenzo)<br>
+    ___ Accesibilidad en transporte público<br>
+    ___ Estacionamiento disponible<br>
+    ___ Cercanía a gimnasios/clubes (alianzas)<br>
+    ___ Población objetivo alta (poder adquisitivo)
+</div>
+
+<h2>4️⃣ VISIÓN Y ESTRATEGIA DEL NEGOCIO 🎯</h2>
+
+<div class="section-title">4.1 Modelo de Negocio Deseado:</div>
+<div class="answer-box">
+    <strong>¿Cómo quieres empezar?</strong><br>
+    <input type="checkbox"> Solo consultorio fijo (requiere Gs. 50-60M inversión, costos fijos altos desde día 1)<br>
+    <input type="checkbox"> Solo servicio a domicilio (requiere Gs. 3-5M, costos fijos casi cero, pero limita escala)<br>
+    <input type="checkbox"> ⭐ <strong>MIXTO (consultorio + domicilio)</strong> <span class="scenario-badge green">RECOMENDADO</span><br>
+    <em>"Arranco consultorio pero también ofrezco domicilio. Optimizo ingresos, lleno huecos de agenda, y mitigo riesgo si el local arranca lento."</em><br><br>
+
+    <strong>Si eliges DOMICILIO o MIXTO, ¿tienes movilidad propia?</strong><br>
+    <input type="checkbox"> Sí, tengo auto<br>
+    <input type="checkbox"> Sí, tengo moto<br>
+    <input type="checkbox"> No, usaré Uber/Bolt/taxi (agregar costo a sesión)<br>
+    <input type="checkbox"> No aplica (solo consultorio fijo)<br><br>
+
+    <strong>Zona de cobertura para domicilio:</strong><br>
+    <input type="checkbox"> San Lorenzo y alrededores (5-10km radio)<br>
+    <input type="checkbox"> San Lorenzo + Asunción completo<br>
+    <input type="checkbox"> Gran Asunción (hasta Lambaré, Fernando de la Mora, etc.)<br>
+    <input type="checkbox"> No aplica (solo consultorio)<br><br>
+
+    <strong>¿Quieres trabajar solo o con socios?</strong><br>
+    <input type="checkbox"> Solo (100% tuyo) <span class="scenario-badge">ASUMIDO</span><br>
+    <input type="checkbox"> Con 1 socio 50-50%<br>
+    <input type="checkbox"> Con socio capitalista (él pone $, tú pones trabajo - 70/30%)<br><br>
+
+    <strong>Horario deseado para atender pacientes:</strong><br>
+    <input type="checkbox"> Tiempo completo (40+ horas/semana) <span class="scenario-badge">ASUMIDO</span><br>
+    <input type="checkbox"> Medio tiempo (20-30 horas/semana) + crochet<br>
+    <input type="checkbox"> Solo tardes/noches y fines de semana
+</div>
+
+<div class="section-title">4.2 Servicios que Quieres Ofrecer:</div>
+<div class="intro-box">
+    Nota: Algunos servicios son más fáciles de hacer a domicilio que otros. Marcamos con 🏠 = ideal domicilio | 🏢 = requiere consultorio | 🔄 = funciona en ambos
+</div>
+<div class="answer-box">
+    <strong>Marca los servicios que DEFINITIVAMENTE quieres ofrecer:</strong><br>
+    <input type="checkbox"> 🔄 Fisioterapia traumatológica/ortopédica (lesiones, post-operatorios) ← Muy común<br>
+    <input type="checkbox"> 🔄 Fisioterapia deportiva (atletas, gimnasios) ← Muy común<br>
+    <input type="checkbox"> 🏠 Fisioterapia neurológica (ACV, Parkinson) ← Ideal domicilio (pacientes con movilidad reducida)<br>
+    <input type="checkbox"> 🏠 Fisioterapia respiratoria (EPOC, COVID, post-UCI) ← Ideal domicilio<br>
+    <input type="checkbox"> 🏠 Fisioterapia geriátrica (adultos mayores) ← Ideal domicilio (difícil que vayan a consultorio)<br>
+    <input type="checkbox"> 🏢 Fisioterapia ATM (mandíbula) ← Requiere equipo especializado<br>
+    <input type="checkbox"> 🏢 RPG (Reeducación Postural Global) ← Requiere espejos, espacio<br>
+    <input type="checkbox"> 🏢 Pilates terapéutico ← Requiere equipo (reformer, etc.)<br>
+    <input type="checkbox"> 🔄 Punción seca / Dry needling<br>
+    <input type="checkbox"> 🔄 Vendaje neuromuscular (kinesiotaping)<br>
+    <input type="checkbox"> 🔄 Masajes terapéuticos<br>
+    <input type="checkbox"> 🏢 Evaluaciones funcionales (deportistas) ← Requiere espacio<br>
+    <input type="checkbox"> 🏢 Electroterapia (TENS, ultrasonido, láser) ← Requiere equipo NO portable<br>
+    <input type="checkbox"> Otros: _________________________________<br><br>
+
+    <strong>¿Quieres especializarte en algo específico?</strong><br>
+    <input type="checkbox"> Sí → ¿En qué? _________________________________<br>
+    <input type="checkbox"> No, prefiero ser generalista al principio
+</div>
+
+<div class="section-title">4.3 Público Objetivo Preferido:</div>
+<div class="answer-box">
+    <strong>¿Con qué tipo de pacientes PREFIERES trabajar? (Marca hasta 3 opciones):</strong><br>
+    <input type="checkbox"> Deportistas amateur<br>
+    <input type="checkbox"> Deportistas profesionales<br>
+    <input type="checkbox"> Oficinistas con dolor postural (cuello, espalda) ← Mercado grande, van a consultorio<br>
+    <input type="checkbox"> Adultos mayores (60+) ← Prefieren domicilio, pagan bien, fidelidad alta<br>
+    <input type="checkbox"> Post-quirúrgicos (rodilla, hombro, cadera)<br>
+    <input type="checkbox"> Trabajadores manuales (obreros, construcción)<br>
+    <input type="checkbox"> Niños/adolescentes<br>
+    <input type="checkbox"> Sin preferencia (atiendo a todos por igual)
+</div>
+
+<div class="section-title">4.4 Estrategia de Precios (SI ELIGES MODELO MIXTO):</div>
+<div class="answer-box">
+    <strong>Contexto:</strong> Si ofreces consultorio Y domicilio, debes cobrar diferente porque el domicilio tiene costos adicionales (tiempo traslado, combustible/Uber, desgaste).<br><br>
+    
+    <strong>¿Cómo quieres manejar los precios en modelo mixto?</strong><br><br>
+    
+    <input type="checkbox"> <strong>Opción A: Precio diferenciado (RECOMENDADO)</strong><br>
+    <em>• Sesión en consultorio: Gs. 150,000<br>
+    • Sesión a domicilio: Gs. 170,000 (mismo servicio + traslado incluido)<br>
+    • Evaluación consultorio: Gs. 120,000<br>
+    • Evaluación domicilio: Gs. 150,000</em><br><br>
+    
+    <input type="checkbox"> <strong>Opción B: Precio base + viático variable</strong><br>
+    <em>• Sesión: Gs. 150,000 (en ambos)<br>
+    • Viático domicilio: Gs. 10,000-30,000 según distancia<br>
+    • Menos transparente pero más flexible</em><br><br>
+
+    <input type="checkbox"> <strong>Opción C: Precio único (NO RECOMENDADO)</strong><br>
+    <em>• Mismo precio en consultorio y domicilio: Gs. 150,000<br>
+    • Pierdes dinero en domicilio o sobrepricias consultorio</em><br><br>
+
+    <strong>Si ofreces domicilio, ¿cobrarías diferente por zona?</strong><br>
+    <input type="checkbox"> Sí → San Lorenzo: Gs. 160K | Asunción cercano: Gs. 170K | Asunción lejano: Gs. 180-200K<br>
+    <input type="checkbox"> No → Precio fijo domicilio independiente de distancia<br>
+    <input type="checkbox"> Radio máximo: ____ km desde San Lorenzo
+</div>
+
+<h2>5️⃣ TIMELINE Y URGENCIA ⏱️</h2>
+
+<div class="section-title">5.1 Fecha Objetivo de Apertura:</div>
+<div class="answer-box">
+    <strong>¿Cuándo te gustaría ABRIR el consultorio?</strong><br>
+    <input type="checkbox"> Lo antes posible (1-3 meses) ← Muy agresivo<br>
+    <input type="checkbox"> <strong>En 3-6 meses</strong> <span class="scenario-badge">ASUMIDO</span><br>
+    <input type="checkbox"> En 6-12 meses<br>
+    <input type="checkbox"> Sin apuro (cuando esté todo 100% listo)<br><br>
+
+    <strong>¿Por qué esa fecha?</strong><br>
+    _____________________________________________________________
+    _____________________________________________________________
+
+    <strong>¿Hay alguna fecha límite externa?</strong> (Ej: contrato trabajo actual termina, etc.)<br>
+    <input type="checkbox"> Sí → ¿Cuál y por qué? _________________________________<br>
+    <input type="checkbox"> No
+</div>
+
+<div class="section-title">5.2 Disponibilidad para Planificar:</div>
+<div class="answer-box">
+    <strong>Horas/semana que puedes dedicar a planificar el negocio (visitas, llamadas, trámites):</strong><br>
+    <input type="checkbox"> 5-10 horas/semana<br>
+    <input type="checkbox"> 10-20 horas/semana<br>
+    <input type="checkbox"> 20+ horas/semana (tiempo completo)<br><br>
+
+    <strong>¿Puedes hacer llamadas/visitas en horario laboral (8am-6pm)?</strong><br>
+    <input type="checkbox"> Sí, sin problema<br>
+    <input type="checkbox"> Solo después de las 6pm<br>
+    <input type="checkbox"> Solo fines de semana
+</div>
+
+<h2>6️⃣ TOLERANCIA AL RIESGO 📊</h2>
+
+<div class="section-title">6.1 Tu Perfil de Riesgo:</div>
+<div class="answer-box">
+    <strong>Marca la frase que MÁS se parece a ti:</strong><br><br>
+    <input type="checkbox"> <strong>A) CONSERVADOR:</strong> "Prefiero arrancar de a poco, aunque gane menos al principio. Seguridad y estabilidad primero. No quiero endeudarme."<br>
+    <input type="checkbox"> <strong>B) MODERADO:</strong> "Estoy dispuesto a invertir más si me da mejores resultados a mediano plazo. Acepto riesgo calculado, pero con plan B." <span class="scenario-badge">ASUMIDO</span><br>
+    <input type="checkbox"> <strong>C) AGRESIVO:</strong> "Quiero ir con todo desde el inicio. Si no arriesgo, no gano. Estoy dispuesto a endeudarme si es necesario."
+</div>
+
+<div class="section-title">6.2 Escenarios Hipotéticos:</div>
+<div class="answer-box">
+    <strong>Si el negocio NO funciona bien en los primeros 6 meses (pocos pacientes), ¿qué harías?</strong><br>
+    <input type="checkbox"> Cerrar inmediatamente y cortar pérdidas<br>
+    <input type="checkbox"> Aguantar 6 meses más ajustando estrategia (marketing, precios)<br>
+    <input type="checkbox"> Pedir más préstamos para sostener<br>
+    <input type="checkbox"> Pivotar a modelo domicilio únicamente<br><br>
+
+    <strong>¿Cuánto estás dispuesto a "perder" sin que afecte gravemente tu vida?</strong><br>
+    <input type="checkbox"> Hasta Gs. 10M (muy conservador)<br>
+    <input type="checkbox"> Hasta Gs. 30M<br>
+    <input type="checkbox"> Hasta Gs. 50M <span class="scenario-badge">ASUMIDO</span><br>
+    <input type="checkbox"> Todo el capital invertido (all-in)
+</div>
+
+<h2>7️⃣ RED DE CONTACTOS Y ALIANZAS 🤝</h2>
+
+<div class="section-title">7.1 Contactos Médicos:</div>
+<div class="answer-box">
+    <strong>¿Tienes contactos con médicos (traumatólogos, ortopedistas, neurólogos) que puedan referirte pacientes?</strong><br>
+    <input type="checkbox"> Sí, muchos (5+ médicos)<br>
+    <input type="checkbox"> Sí, algunos (2-4 médicos)<br>
+    <input type="checkbox"> Pocos (1 médico)<br>
+    <input type="checkbox"> No, ninguno todavía <span class="scenario-badge">ASUMIDO</span><br><br>
+    
+    <strong>Si tienes, ¿en qué especialidades?</strong><br>
+    _____________________________________________________________<br><br>
+
+    <strong>¿Estarían dispuestos a referirte pacientes activamente?</strong><br>
+    <input type="checkbox"> Sí, ya hablé con ellos<br>
+    <input type="checkbox"> Creo que sí, pero no he hablado formalmente<br>
+    <input type="checkbox"> No estoy seguro
+</div>
+
+<div class="section-title">7.2 Contactos en Gimnasios/Clubes:</div>
+<div class="answer-box">
+    <strong>¿Conoces entrenadores, dueños de gimnasios o instructores deportivos?</strong><br>
+    <input type="checkbox"> Sí → ¿Cuántos? _______________<br>
+    <input type="checkbox"> No <span class="scenario-badge">ASUMIDO</span><br><br>
+
+    <strong>¿Practicas algún deporte activamente?</strong><br>
+    <input type="checkbox"> Sí → ¿Cuál? _________________________________<br>
+    <input type="checkbox"> Sí → ¿En qué club/gym? _________________________________<br>
+    <input type="checkbox"> No
+</div>
+
+<div class="section-title">7.3 Otros Contactos Útiles:</div>
+<div class="answer-box">
+    <strong>¿Conoces a alguien que tenga consultorio médico/terapéutico exitoso?</strong><br>
+    <input type="checkbox"> Sí → ¿Quién? _________________________________ (puede asesorarte)<br>
+    <input type="checkbox"> No<br><br>
+
+    <strong>¿Tienes familiares con experiencia en negocios?</strong><br>
+    <input type="checkbox"> Sí → ¿Quién y qué tipo de negocio? _________________________________<br>
+    <input type="checkbox"> No<br><br>
+
+    <strong>¿Tienes contador de confianza?</strong><br>
+    <input type="checkbox"> Sí → Nombre: _________________________________<br>
+    <input type="checkbox"> No, necesito conseguir uno
+</div>
+
+<h2>8️⃣ HABILIDADES Y CONOCIMIENTOS 🧠</h2>
+
+<div class="section-title">8.1 Autoevaluación - Habilidades Blandas:</div>
+<div class="answer-box">
+    <em>Autoevalúate del 1 al 5 (1 = débil, 5 = muy fuerte):</em><br>
+    Comunicación con pacientes: ___ / 5<br>
+    Empatía y escucha activa: ___ / 5<br>
+    Organización y planificación: ___ / 5<br>
+    Ventas / persuasión (convencer pacientes): ___ / 5<br>
+    Marketing digital (redes sociales): ___ / 5<br>
+    Finanzas personales (control de gastos): ___ / 5<br>
+    Negociación (con proveedores, propietarios): ___ / 5
+</div>
+
+<div class="section-title">8.2 Conocimientos Técnicos (Negocio/Administración):</div>
+<div class="answer-box">
+    <strong>Marca lo que ya sabes hacer (aunque sea básico):</strong><br>
+    <input type="checkbox"> Facturación electrónica (e-kuatia / Marandú)<br>
+    <input type="checkbox"> Excel básico (planillas, sumas)<br>
+    <input type="checkbox"> Redes sociales (Instagram, Facebook) para negocios<br>
+    <input type="checkbox"> Control de ingresos/egresos (contabilidad básica)<br>
+    <input type="checkbox"> Diseño gráfico básico (Canva, etc.)<br>
+    <input type="checkbox"> Fotografía/videos para marketing<br>
+    <input type="checkbox"> Nada de lo anterior (necesito ayuda con todo)
+</div>
+
+<div class="section-title">8.3 ¿Qué necesitas aprender urgente?</div>
+<div class="answer-box">
+    <strong>De lo que NO sabes hacer arriba, ¿qué te preocupa más o necesitas aprender YA?</strong><br>
+    _____________________________________________________________<br>
+    _____________________________________________________________<br>
+    _____________________________________________________________
+</div>
+
+<h2>9️⃣ EXPECTATIVAS Y METAS 🎯</h2>
+
+<div class="section-title">9.1 Metas de Ingresos:</div>
+<div class="answer-box">
+    <strong>¿Cuánto necesitas ganar MÍNIMO mensualmente para subsistir?</strong><br>
+    Gs. _____________________ / mes (gastos personales + familia)<br><br>
+
+    <strong>¿Cuánto te gustaría ganar idealmente en 1 año de operación?</strong><br>
+    Gs. _____________________ / mes<br><br>
+
+    <strong>¿Cuánto esperas ganar en 3 años?</strong><br>
+    Gs. _____________________ / mes
+</div>
+
+<div class="instruction">
+    <strong>📊 Referencia de proyecciones según modelo elegido:</strong><br><br>
+    <strong>CONSULTORIO FIJO (Gs. 54M inversión, Villa Aurelia):</strong><br>
+    • Año 1: Ganancia neta ~Gs. 2,800,000/mes promedio (50 sesiones/mes)<br>
+    • Año 2: Ganancia neta ~Gs. 5,000,000/mes (80 sesiones/mes)<br>
+    • Año 3: Ganancia neta ~Gs. 7,000,000/mes<br><br>
+
+    <strong>SOLO DOMICILIO (Gs. 3-5M inversión):</strong><br>
+    • Año 1: Ganancia neta ~Gs. 3,500,000/mes (40 sesiones/mes x Gs. 160K)<br>
+    • Límite: ~60 sesiones/mes (tiempo traslados)<br>
+    • Ventaja: Sin costos fijos, arranque inmediato<br><br>
+
+    <strong>MIXTO (Consultorio + Domicilio, Gs. 54M):</strong><br>
+    • Año 1: Ganancia neta ~Gs. 3,800,000/mes (35 consultorio + 15 domicilio)<br>
+    • Año 2: Ganancia neta ~Gs. 6,000,000/mes (optimiza mix)<br>
+    • Ventaja: Mejor utilización agenda, mitiga riesgo
+</div>
+
+<div class="section-title">9.2 Visión a 3-5 Años:</div>
+<div class="answer-box">
+    <strong>¿Cómo te imaginas tu negocio en 3-5 años?</strong><br>
+    <input type="checkbox"> Consultorio estable, solo yo trabajando<br>
+    <input type="checkbox"> Consultorio con 1-2 empleados (kinesiólogos) <span class="scenario-badge green">TÍPICO</span><br>
+    <input type="checkbox"> Clínica grande (5+ empleados, múltiples especialidades)<br>
+    <input type="checkbox"> Franquicia o múltiples sedes<br>
+    <input type="checkbox"> Vender el negocio y abrir otro diferente<br>
+    <input type="checkbox"> No lo he pensado todavía
+</div>
+
+<h2>🔟 DUDAS, PREOCUPACIONES Y COMENTARIOS 💬</h2>
+
+<div class="section-title">10.1 Tu Mayor Desafío/Preocupación:</div>
+<div class="answer-box">
+    <strong>¿Qué es lo que MÁS te preocupa o te genera dudas sobre abrir el consultorio?</strong><br>
+    <input type="checkbox"> Conseguir pacientes (miedo a no tener clientes)<br>
+    <input type="checkbox"> No tener suficiente capital<br>
+    <input type="checkbox"> No saber cómo hacer marketing/publicidad<br>
+    <input type="checkbox"> Manejar las finanzas del negocio (contabilidad)<br>
+    <input type="checkbox"> Trámites legales (habilitación, impuestos)<br>
+    <input type="checkbox"> Competencia muy fuerte<br>
+    <input type="checkbox"> Que el negocio no sea rentable<br>
+    <input type="checkbox"> Equilibrar trabajo y vida personal<br>
+    <input type="checkbox"> Otra: _________________________________<br><br>
+
+    <strong>Explica más tu preocupación:</strong><br>
+    _____________________________________________________________<br>
+    _____________________________________________________________<br>
+    _____________________________________________________________
+</div>
+
+<div class="section-title">10.2 ¿Hay algo que no preguntamos y quieres agregar?</div>
+<div class="answer-box">
+    <strong>Espacio libre para cualquier comentario, contexto adicional, o pregunta que tengas:</strong><br><br>
+    _____________________________________________________________<br>
+    _____________________________________________________________<br>
+    _____________________________________________________________<br>
+    _____________________________________________________________<br>
+    _____________________________________________________________
+</div>
+
+<div class="footer-note">
+    🚀 <strong>¿Terminaste de revisar y corregir?</strong><br>
+    Guarda este archivo y envíalo de vuelta. Con tus respuestas personalizaremos:<br>
+    ✅ Plan financiero ajustado a tu capital real Y modelo elegido (consultorio/domicilio/mixto)<br>
+    ✅ Recomendación de ubicación/estrategia definitiva<br>
+    ✅ Timeline realista según tu disponibilidad<br>
+    ✅ Estrategia de marketing adaptada a tus contactos<br>
+    ✅ Proyecciones financieras precisas según modalidad<br>
+    ✅ Lista de equipamiento necesario (portátil si eliges domicilio)<br>
+    ✅ Documentos finales 100% personalizados<br>
+    ⏱️ Tiempo para personalizar el plan completo después de recibir esto: 4-6 horas<br><br>
+    <em>Recordatorio: No hay respuesta "correcta" o "incorrecta". Cada modelo tiene ventajas según tu situación. El modelo MIXTO suele ser el más inteligente para arrancar (minimiza riesgo + maximiza ingresos), pero si no tienes capital, DOMICILIO puro es perfectamente viable.</em>
+</div>
+
+</body>
+</html>
