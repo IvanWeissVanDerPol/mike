@@ -71,8 +71,18 @@ mike/
 │   ├── 01-historia-clinica-outline.md
 │   └── 02-plantillas-prioritarias.md
 │
-└── 06-DATOS/                           # Datos y hojas cálculo
-    └── README.md                       # Enlaces Google Sheets
+├── 06-DATOS/                           # Datos y hojas cálculo
+│   └── README.md                       # Enlaces Google Sheets
+│
+└── 07-PLAN-NEGOCIO/                    # Plan de negocio formal
+    ├── README.md                       # Índice plan negocio
+    ├── 01-resumen-ejecutivo.md         # Resumen 2 páginas
+    ├── 02-descripcion-empresa.md       # Misión, visión, valores
+    ├── 03-analisis-mercado.md          # Análisis mercado
+    ├── 04-plan-operaciones.md          # Operaciones diarias
+    ├── 05-estrategia-marketing.md      # Marketing y ventas
+    ├── 06-plan-financiero.md           # Proyecciones financieras
+    └── 07-anexos.md                    # Documentos soporte
 ```
 
 ---
@@ -147,9 +157,9 @@ mike/
 
 | Métrica | Valor |
 |---------|-------|
-| **Versión** | 4.0 (Reorganización Española) |
-| **Archivos** | Estructura numerada 6 carpetas |
-| **Calidad** | 8/10 (limpio, funcional) |
+| **Versión** | 4.1 (Plan Negocio Completo) |
+| **Archivos** | Estructura numerada 7 carpetas |
+| **Calidad** | 9/10 (profesional, completo) |
 | **Estado** | Listo para ejecutar ✅ |
 
 ---
@@ -161,7 +171,8 @@ mike/
 - **v2.1** (Ene 20, 2026) - Correcciones post-QA (identidad, conteo archivos, reclamos calidad)
 - **v3.0** (Ene 21, 2026) - Limpieza (eliminado archive, consolidados archivos, removido bloat)
 - **v3.1** (Ene 21, 2026) - Seguridad crítica (agregado INICIO-RAPIDO, GESTION-RIESGOS)
-- **v4.0** (Ene 21, 2026) - **Reorganización Española completa** (100% español, estructura numerada)
+- **v4.0** (Ene 21, 2026) - Reorganización Española completa (100% español, estructura numerada)
+- **v4.1** (Ene 21, 2026) - **Plan de Negocio Completo** (07-PLAN-NEGOCIO/, documentación críticas fixes)
 
 ---
 
@@ -183,6 +194,7 @@ mike/
 04-MARKETING/         📢 Estrategias (2 subdirectorios)
 05-PLANTILLAS/        📄 Formularios clínicos
 06-DATOS/             📊 Google Sheets
+07-PLAN-NEGOCIO/      💼 Plan de negocio formal (7 documentos)
 ```
 
 **3. Navegación Clara**
@@ -194,7 +206,13 @@ mike/
 - Eliminadas carpetas obsoletas (implementation/, docs/, market-research/)
 - Sin archivos duplicados
 - Sin mezcla español/inglés
-- Raíz limpia (solo README, LICENSE, 6 carpetas numeradas)
+- Raíz limpia (solo README, LICENSE, 7 carpetas numeradas)
+
+**5. Plan de Negocio Profesional (v4.1 - NUEVO)**
+- Carpeta 07-PLAN-NEGOCIO/ completa
+- 7 documentos profesionales para presentar a bancos
+- Resumen ejecutivo, análisis mercado, proyecciones financieras
+- Listo para solicitar préstamos/inversión
 
 ---
 
@@ -230,5 +248,5 @@ No redistribuir sin permiso.
 ---
 
 **Última Actualización:** Enero 21, 2026  
-**Versión:** 4.0 (Reorganización Española Completa)  
-**Estado:** Listo para ejecución ✅
+**Versión:** 4.1 (Plan de Negocio Completo)  
+**Estado:** Listo para ejecución + Presentación a bancos ✅
