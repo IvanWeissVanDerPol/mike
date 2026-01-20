@@ -1,6 +1,6 @@
 # 🚀 CUESTIONARIO FASE-00: PERSONALIZACIÓN FINAL
 
-**Para:** Mike González  
+**Para:** Mikie Moyano Nakamura  
 **Fecha:** Enero 2026  
 **Propósito:** Personalizar tu plan de negocio completo  
 **Tiempo estimado:** 45-60 minutos

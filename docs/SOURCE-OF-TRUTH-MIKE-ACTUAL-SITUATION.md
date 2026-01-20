@@ -2,22 +2,53 @@
 
 > **Purpose**: Single reference document of VERIFIED facts about client reality  
 > **Created**: January 19, 2026  
-> **Based On**: FASE-00 Questionnaire completed by Mikie Moyano Nakamura  
+> **Last Updated**: January 19, 2026 (22:00 - Critical clarifications added)  
+> **Based On**: FASE-00 Questionnaire + Direct consultation responses  
 > **Status**: ✅ VERIFIED - Client responses, not assumptions
 
 **⚠️ CRITICAL**: This document supersedes ALL previous assumptions in the business plan.
 
 ---
 
-## 🎯 EXECUTIVE SUMMARY
+## 🔄 UPDATE LOG (CRITICAL NEW INFORMATION)
+
+### **January 19, 2026 - 22:00 - GAME-CHANGING CLARIFICATIONS**
+
+**New Verified Facts** (direct from consultation):
+
+| Question | Response | Impact | Status |
+|----------|----------|--------|--------|
+| **Graduation timeline?** | **1 year from now** (≈ January 2027) | ✅ Clear deadline | VERIFIED |
+| **Knows can't practice unlicensed?** | **YES, aware of legal requirements** | ✅ Not trying to break law | VERIFIED |
+| **Willing to work as assistant?** | **YES, open to assistant work** | ✅ Viable path confirmed | VERIFIED |
+| **Can work for friends/known persons?** | **YES, with people who don't mind he's unlicensed** | ⚠️ Gray area exists | VERIFIED |
+| **Services available without degree?** | **YES, some services legal for students** | ✅ Income options exist | VERIFIED |
+
+**What This Changes**:
+- 🎯 **Timeline**: 12-month bridge plan is now realistic
+- 🎯 **Legal path**: Not trying to operate illegally, seeking legitimate student services
+- 🎯 **Viability**: Gray area services + assistant work = viable income path
+- 🎯 **Attitude**: Informed and willing to work within legal constraints
+
+**Previous Assessment**: "Mike is trying to launch illegally"  
+**Updated Assessment**: "Mike is seeking legal ways to work as student for 12 months before full launch"
+
+---
+
+## 🎯 EXECUTIVE SUMMARY (UPDATED)
 
 **Who Mike Actually Is**: Mikie Moyano Nakamura, physiotherapy STUDENT (not licensed professional)  
 **Capital Available**: Gs. 0 (hoping for Gs. 5M bank loan - NOT approved)  
-**Legal Status**: CANNOT practice independently - no degree, no matrícula profesional  
+**Graduation Timeline**: ✅ **12 months** (approximately January 2027)  
+**Legal Awareness**: ✅ **KNOWS he cannot practice independently without license**  
+**Willingness**: ✅ **Open to assistant work and legal alternatives**  
 **Network**: Starting from absolute zero  
 **Timeline**: Wants to start in 15-20 days (March 2, 2026)  
 
-**Business Plan Viability**: ❌ 0 of 5 scenarios executable in current form
+**Business Plan Viability**: 
+- ❌ Full consultorio: Not executable (requires license)
+- ✅ **Student services + assistant work**: EXECUTABLE NOW
+- ✅ **Full launch post-graduation**: EXECUTABLE in 12 months
 
 ---
 
