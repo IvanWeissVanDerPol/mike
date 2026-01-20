@@ -286,4 +286,4 @@ Mark these achievements as you hit them:
 
 ---
 
-**Next file:** `SESSION-CHECKLIST-WHAT-TO-DO.md` → Learn exactly what to do during each massage session
+**Next file:** `03-session-guide.md` → Learn exactly what to do during each massage session

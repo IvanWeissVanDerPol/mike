@@ -500,4 +500,4 @@ After every session, rate yourself:
 
 ---
 
-**Next file:** `WEEKS-1-4-ACTION-PLAN.md` → Daily tasks for your first month
+**Next file:** `05-weeks-1-4-plan.md` → Daily tasks for your first month

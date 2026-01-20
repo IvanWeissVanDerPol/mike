@@ -12,10 +12,10 @@
 
 **Morning (9:00-12:00 PM):**
 - [ ] Read ALL implementation files you've been given:
-  - [ ] `WEEK-1-SHOPPING-CHECKLIST.md`
-  - [ ] `CLIENT-TRACKING-SPREADSHEET.md`
-  - [ ] `SESSION-CHECKLIST-WHAT-TO-DO.md`
-  - [ ] This file (WEEKS-1-4-ACTION-PLAN.md)
+  - [ ] `01-week-1-shopping.md`
+  - [ ] `02-client-tracking.md`
+  - [ ] `03-session-guide.md`
+  - [ ] This file (05-weeks-1-4-plan.md)
 
 - [ ] **Budget check:** Count cash, confirm you have Gs. 340K-520K
 
@@ -114,7 +114,7 @@
   - [ ] YouTube: "Stretching techniques for massage"
 
 - [ ] **Prepare session notes:**
-  - [ ] Print or screenshot `SESSION-CHECKLIST-WHAT-TO-DO.md`
+  - [ ] Print or screenshot `03-session-guide.md`
   - [ ] Review it 2-3 times (memorize the flow)
 
 **Evening:**
@@ -133,7 +133,7 @@
 
 **OPTION A: If you booked a session today:**
 - [ ] **Complete your FIRST SESSION!** 🎉
-  - [ ] Review `SESSION-CHECKLIST-WHAT-TO-DO.md` one last time
+  - [ ] Review `03-session-guide.md` one last time
   - [ ] Arrive 10 min early
   - [ ] Follow the checklist step-by-step
   - [ ] Focus on making client feel comfortable and relaxed

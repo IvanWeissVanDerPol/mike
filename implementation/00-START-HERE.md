@@ -20,7 +20,7 @@ You now have **7 implementation files** that cover everything from this week thr
 
 Read these files **IN ORDER** before you start:
 
-1. **`WEEK-1-SHOPPING-CHECKLIST.md`** ⭐ **READ FIRST**
+1. **`01-week-1-shopping.md`** ⭐ **READ FIRST**
    - **When:** Today (Day 1)
    - **Purpose:** Exact shopping list with stores, prices, negotiation tips
    - **Action:** Complete shopping by Day 2 (total: Gs. 340K-520K)
@@ -31,7 +31,7 @@ Read these files **IN ORDER** before you start:
      - Carrying bag options
      - Budget breakdowns (Essential, Recommended, Budget-Conscious)
 
-2. **`CLIENT-TRACKING-SPREADSHEET.md`** ⭐ **READ SECOND**
+2. **`02-client-tracking.md`** ⭐ **READ SECOND**
    - **When:** Day 2 (after shopping)
    - **Purpose:** Set up your business tracking system
    - **Action:** Create Google Sheets or notebook with 6 sheets
@@ -43,7 +43,7 @@ Read these files **IN ORDER** before you start:
      - Referral Tracker
      - Availability Calendar
 
-3. **`SESSION-CHECKLIST-WHAT-TO-DO.md`** ⭐ **READ THIRD**
+3. **`03-session-guide.md`** ⭐ **READ THIRD**
    - **When:** Day 3-4 (before first session)
    - **Purpose:** Learn exactly what to do during each massage session
    - **Action:** Memorize the 8-phase session flow
@@ -57,7 +57,7 @@ Read these files **IN ORDER** before you start:
      - Post-session follow-up
      - Professional boundaries
 
-4. **`WHATSAPP-MESSAGE-TEMPLATES.md`** ⭐ **READ FOURTH**
+4. **`04-whatsapp-templates.md`** ⭐ **READ FOURTH**
    - **When:** Day 3 (before contacting friends)
    - **Purpose:** Copy-paste ready messages for every situation
    - **Action:** Send to Tier 1 friends (5-8 VIP friends)
@@ -70,7 +70,7 @@ Read these files **IN ORDER** before you start:
      - Handling rejections & difficult situations
      - Professional boundary scripts
 
-5. **`WEEKS-1-4-ACTION-PLAN.md`** ⭐ **READ FIFTH**
+5. **`05-weeks-1-4-plan.md`** ⭐ **READ FIFTH**
    - **When:** Day 1 (overview), then daily
    - **Purpose:** Day-by-day tasks for your first month
    - **Action:** Follow daily checklists
@@ -225,14 +225,14 @@ You now have **TWO COMPLETE PLANS:**
 ## 🚦 QUICK START CHECKLIST (YOUR FIRST 3 DAYS)
 
 ### **DAY 1 (TODAY):**
-- [ ] Read this file (START-HERE-COMPLETE-ROADMAP.md) ✅ (you're doing it now!)
-- [ ] Read `WEEK-1-SHOPPING-CHECKLIST.md`
+- [ ] Read this file (00-START-HERE.md) ✅ (you're doing it now!)
+- [ ] Read `01-week-1-shopping.md`
 - [ ] Count your budget (confirm Gs. 340K-520K available)
 - [ ] Create your list of 20 friends (rank them Tier 1, 2, 3)
 - [ ] **Shopping Trip Part 1:** Buy oils + towels (Gs. 330K-450K)
 
 ### **DAY 2 (TOMORROW):**
-- [ ] Read `CLIENT-TRACKING-SPREADSHEET.md`
+- [ ] Read `02-client-tracking.md`
 - [ ] **Shopping Trip Part 2:** Buy hygiene supplies + bag (Gs. 60K-130K)
 - [ ] Set up Google Sheets or notebook (6 tracking sheets)
 - [ ] Log startup expenses
@@ -240,14 +240,14 @@ You now have **TWO COMPLETE PLANS:**
 - [ ] Test-pack everything (does it fit? too heavy?)
 
 ### **DAY 3 (WEDNESDAY):**
-- [ ] Read `SESSION-CHECKLIST-WHAT-TO-DO.md` (memorize 8-phase flow)
-- [ ] Read `WHATSAPP-MESSAGE-TEMPLATES.md`
+- [ ] Read `03-session-guide.md` (memorize 8-phase flow)
+- [ ] Read `04-whatsapp-templates.md`
 - [ ] Practice your pitch (say it out loud 3-5 times)
 - [ ] **Send WhatsApp to 5-8 Tier 1 friends** (VIP friends, Gs. 60K)
 - [ ] Goal: Get 2-3 "yes" responses
 
 ### **DAY 4-7 (REST OF WEEK):**
-- [ ] Follow `WEEKS-1-4-ACTION-PLAN.md` daily tasks
+- [ ] Follow `05-weeks-1-4-plan.md` daily tasks
 - [ ] Complete your **first session** (celebrate!)
 - [ ] Book 2-4 sessions for next week
 - [ ] Update tracking system after every session
@@ -396,7 +396,7 @@ You're about to graduate with:
 1. [ ] Bookmark this file (you'll refer back to it often)
 2. [ ] Print or screenshot the "DAY 1-3 CHECKLIST" above
 3. [ ] Count your cash (confirm budget)
-4. [ ] Open `WEEK-1-SHOPPING-CHECKLIST.md`
+4. [ ] Open `01-week-1-shopping.md`
 5. [ ] Prepare to shop TOMORROW (Day 2)
 
 **Your first week starts NOW.**
@@ -408,13 +408,14 @@ You're about to graduate with:
 ---
 
 **Files Created:**
-- ✅ `START-HERE-COMPLETE-ROADMAP.md` (this file)
-- ✅ `WEEK-1-SHOPPING-CHECKLIST.md`
-- ✅ `CLIENT-TRACKING-SPREADSHEET.md`
-- ✅ `SESSION-CHECKLIST-WHAT-TO-DO.md`
-- ✅ `WHATSAPP-MESSAGE-TEMPLATES.md`
-- ✅ `WEEKS-1-4-ACTION-PLAN.md`
-- ⏳ `MONTHS-1-12-BRIDGE-PLAN.md` (creating next)
-- ⏳ `POST-LICENSE-TRANSITION-PLAN.md` (creating next)
+- ✅ `00-START-HERE.md` (this file)
+- ✅ `01-week-1-shopping.md`
+- ✅ `02-client-tracking.md`
+- ✅ `03-session-guide.md`
+- ✅ `04-whatsapp-templates.md`
+- ✅ `05-weeks-1-4-plan.md`
+- ✅ `06-months-1-12-bridge-plan.md`
+- ✅ `08-financial-projections-realistic.md`
+- ⏳ `07-post-license-transition.md` (to be created in Phase 3)
 
 **Status:** 6/8 files complete. Now creating the final 2 comprehensive guides.

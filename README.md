@@ -10,7 +10,7 @@
 
 **If you're Mikie, start here:**
 
-1. **Read** → [`implementation/START-HERE-COMPLETE-ROADMAP.md`](implementation/START-HERE-COMPLETE-ROADMAP.md)
+1. **Read** → [`implementation/00-START-HERE.md`](implementation/00-START-HERE.md)
 2. **Follow** → Day 1-3 checklist
 3. **Execute** → Week 1 action plan
 
@@ -43,12 +43,14 @@
 ```
 mike/
 ├── implementation/              ← ⭐ YOUR EXECUTABLE PLANS (START HERE)
-│   ├── START-HERE-COMPLETE-ROADMAP.md
-│   ├── WEEK-1-SHOPPING-CHECKLIST.md
-│   ├── CLIENT-TRACKING-SPREADSHEET.md
-│   ├── SESSION-CHECKLIST-WHAT-TO-DO.md
-│   ├── WHATSAPP-MESSAGE-TEMPLATES.md
-│   └── WEEKS-1-4-ACTION-PLAN.md
+│   ├── 00-START-HERE.md
+│   ├── 01-week-1-shopping.md
+│   ├── 02-client-tracking.md
+│   ├── 03-session-guide.md
+│   ├── 04-whatsapp-templates.md
+│   ├── 05-weeks-1-4-plan.md
+│   ├── 06-months-1-12-bridge-plan.md
+│   └── 08-financial-projections-realistic.md
 │
 ├── market-research/             ← Competitive analysis, pricing data
 │   ├── analisis-competencia.md
@@ -197,7 +199,7 @@ mike/
 
 **Your next step:**
 
-👉 **Click here:** [`implementation/START-HERE-COMPLETE-ROADMAP.md`](implementation/START-HERE-COMPLETE-ROADMAP.md)
+👉 **Click here:** [`implementation/00-START-HERE.md`](implementation/00-START-HERE.md)
 
 This file contains:
 - Complete overview of the system
