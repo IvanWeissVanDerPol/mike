@@ -741,7 +741,7 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 - `02-plan-negocio/02-plan-operaciones.md` (systems, processes)
 
 **Adapt for your situation:**
-- Change "Mike González" to "Mikie Moyano"
+- Change "Mike González" to "Mikie Moyano" (in archived Spanish files if you use them)
 - Adjust capital (you'll have Gs. 30-40M saved by then)
 - Update pricing (based on market reality)
 - Execute Scenario 1 (Solo Practice) or Scenario 2 (Shared) based on what worked

@@ -36,6 +36,30 @@
 | **OPTIMISTIC** | 20% | 15 | 30% | Gs. 20.1M | ✅✅ YES (Scenario 1 or 2) |
 | **EXPECTED VALUE** | 100% | - | - | **Gs. 13.13M** | ✅ Modest launch |
 
+---
+
+## ⚠️ IMPORTANT: Scenario Naming Caveat
+
+**These scenarios are labeled relative to the ORIGINAL plan's assumptions, NOT absolute reality.**
+
+**What this means:**
+
+- **"Pessimistic" (Scenario 1):** Actually closer to TRUE realistic for first-time business owners with zero experience
+- **"Realistic" (Scenario 2):** Actually an OPTIMISTIC base case (assumes favorable conditions, some luck)
+- **"Optimistic" (Scenario 3):** Best-case scenario (everything goes right, minimal friction)
+
+**Why the confusing labels?**  
+The original plan assumed 20 friends would all participate with zero churn. Relative to THAT baseline, these scenarios seemed pessimistic/realistic/optimistic. In absolute terms, all three scenarios are more optimistic than typical first-time entrepreneur outcomes.
+
+**RECOMMENDATION:**  
+- **Plan for:** Scenario 1 ("Pessimistic" = actual realistic)
+- **Hope for:** Scenario 2 ("Realistic" = actual optimistic)
+- **Be pleasantly surprised by:** Scenario 3 ("Optimistic" = everything breaks your way)
+
+**Bottom line:** Even Scenario 1 (5 friends, high churn) saves Gs. 5.7M and builds 200+ hours experience. That's a WIN, not a failure. Manage expectations accordingly.
+
+---
+
 **Key Insight:** Even with realistic (not optimistic) assumptions, you save enough to launch professionally.
 
 ---

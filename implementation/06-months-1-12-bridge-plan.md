@@ -10,7 +10,7 @@
 ## 🎯 EXECUTIVE SUMMARY
 
 **The Situation**:
-- Mike graduates in **12 months** (January 2027)
+- Mikie graduates in **12 months** (January 2027)
 - Needs income starting Month 1
 - Has Gs. 0 capital (hoping for Gs. 5M loan)
 - KNOWS he cannot practice as licensed PT yet
@@ -32,7 +32,7 @@
 
 ## PART 1: LEGAL FRAMEWORK FOR STUDENTS
 
-### **What Mike CAN Do (No License Required)**
+### **What Mikie CAN Do (No License Required)**
 
 | Service Type | Legal? | Requirements | Marketing Terms | Risk Level |
 |--------------|--------|--------------|-----------------|------------|
@@ -45,7 +45,7 @@
 
 **Source**: `referencias/marco-legal.md` + Paraguay regulatory framework
 
-### **What Mike CANNOT Do (Requires License)**
+### **What Mikie CANNOT Do (Requires License)**
 
 | Prohibited Activity | Why Illegal | Consequence | Risk |
 |---------------------|-------------|-------------|------|
@@ -58,7 +58,7 @@
 
 ### **The Gray Area (Work with Friends/Known Persons)**
 
-**Question**: Can Mike help friends who know he's unlicensed?
+**Question**: Can Mikie help friends who know he's unlicensed?
 
 **Legal Reality**:
 - **Technically illegal** if treating medical conditions
@@ -97,7 +97,7 @@
 ```
 Day 1-3: Research consultorios in Villa Aurelia/Asunción
 - List 20 potential employers (licensed PTs with established practices)
-- Prioritize those specializing in sports/orthopedics (matches Mike's interests)
+- Prioritize those specializing in sports/orthopedics (matches Mikie's interests)
 - Check Google Reviews, Instagram presence (active practices = more volume)
 
 Day 4-5: Prepare materials
@@ -137,14 +137,14 @@ Based on competitive analysis, approach:
 
 ### **Value Proposition for Employers**
 
-**What Mike Offers**:
+**What Mikie Offers**:
 - Full-time availability (40+ hours/week)
 - Final year student (can handle most treatments under supervision)
 - Graduating in 12 months (potential long-term hire)
 - Willing to work for below-market rate (learning priority)
 - Can cover evenings/weekends if needed
 
-**What Mike Wants**:
+**What Mikie Wants**:
 - Hands-on experience with diverse patient cases
 - Mentorship from licensed professional
 - Network building (patient relationships for future)
@@ -214,7 +214,7 @@ Week 2: Invoicing Setup
 ☐ Facturas format: "Servicios de Masaje Deportivo" line item
 
 Week 3-4: Marketing Materials
-☐ Business cards: "Mike Moyano - Especialista en Bienestar y Recuperación Deportiva"
+☐ Business cards: "Mikie Moyano - Especialista en Bienestar y Recuperación Deportiva"
 ☐ Instagram/Facebook: @mikewellnessasuncion
 ☐ No medical claims, no "antes/después" of injuries
 ```
@@ -310,7 +310,7 @@ PLUS: Builds personal brand for post-graduation
 
 ### **Overview**
 
-**What**: Informal help for friends who know Mike is unlicensed student  
+**What**: Informal help for friends who know Mikie is unlicensed student  
 **Legal Status**: ⚠️ Technically gray, low enforcement risk  
 **Income**: Gs. 500K-1M/month  
 **Capital Required**: Gs. 1-2M (portable equipment)  
@@ -453,7 +453,7 @@ VIABLE SCENARIOS POST-LICENSE:
 ⚠️ Scenario 3 (Consultorio Mín): Gs. 35M ← POSSIBLE (aggressive saving)
 ```
 
-**Outcome**: Mike graduates with Gs. 25-30M capital, established network, 12 months hands-on experience, proven client acquisition skills = **STRONG LAUNCH POSITION**.
+**Outcome**: Mikie graduates with Gs. 25-30M capital, established network, 12 months hands-on experience, proven client acquisition skills = **STRONG LAUNCH POSITION**.
 
 ---
 
@@ -815,7 +815,7 @@ ROI para su empresa: Menos ausentismo, mayor productividad, equipo más saludabl
 ¿Podríamos agendar una demostración gratuita?
 
 Saludos,
-Mike Moyano
+Mikie Moyano
 Especialista en Bienestar Corporativo
 [Phone/Email]
 ```
@@ -883,7 +883,7 @@ Experience: 12 months hands-on
 **END OF PHASE 0 BRIDGE PLAN**
 
 **Status**: ✅ Ready for execution  
-**Next Step**: Mike confirms which track(s) to pursue  
+**Next Step**: Mikie confirms which track(s) to pursue  
 **Timeline**: Can start Week 1 activities immediately (March 1, 2026)
 
 ---
