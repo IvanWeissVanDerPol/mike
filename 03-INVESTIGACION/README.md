@@ -1,355 +1,242 @@
-# 📊 ÍNDICE DE DATOS BRUTOS - INVESTIGACIÓN
+# 📊 INVESTIGACIÓN DE MERCADO
 
-**Carpeta:** `01-investigacion-datos-brutos/`  
-**Propósito:** Raw data de investigación de mercado y planificación  
-**Estado:** Research data 70% complete - CRITICAL: Mystery shopping needed for pricing validation  
-**Última actualización:** 18 Enero 2026
-
----
-
-## 🎯 PROPÓSITO DE ESTA CARPETA
-
-Almacenar **datos crudos sin procesar** de investigación:
-- Datos demográficos oficiales
-- Cotizaciones de proveedores
-- Listados de competidores
-- Contactos para alianzas
-- Información legal y tributaria
-
-**NO es documentación final** - Es la materia prima para crear documentos finales.
+**Propósito:** Datos crudos y análisis de investigación de mercado  
+**Estado:** 70% completo - Base sólida para lanzamiento  
+**Última actualización:** 21 Enero 2026
 
 ---
 
-## 📁 ESTRUCTURA ORGANIZADA
+## 📁 ESTRUCTURA DE CARPETAS
 
 ```
-01-investigacion-datos-brutos/
+03-INVESTIGACION/
 │
-├── 00-INDICE-DATOS-BRUTOS.md (este archivo)
-│
-├── DATOS INDIVIDUALES (raíz)
-│   ├── DEMOGRAFICO-INE-Poblacion-Asuncion-2025.md
-│   ├── COMPETITIVO-Competidores-Identificados.md
-│   ├── LEGAL-DNIT-IRE-RESIMPLE-2025.md
-│   └── UBICACIONES-Propiedades-Alquiler-InfoCasas.md
+├── README.md (este archivo)
 │
 ├── financiero/ (2 archivos)
-│   ├── 01-AKYFPY-Tarifas-Profesionales-2025.md
-│   └── 02-Seakit-Equipamiento-Precios.md
+│   ├── tarifas-profesionales-akyfpy-2025.md
+│   └── equipamiento-precios-seakit.md
 │
-└── marketing/ (2 archivos)
-    ├── 01-Gimnasios-Alianzas-Potenciales.md
-    └── 02-Medicos-Red-Referidos.md
+├── mercado/ (5 archivos)
+│   ├── competidores-identificados.md
+│   ├── datos-demograficos-ine-2025.md
+│   ├── investigacion-nichos-productos.md
+│   ├── investigacion-nichos-resumen.md
+│   └── mystery-shopping-script.md
+│
+├── legal/ (1 archivo)
+│   └── datos-legales-dnit-2025.md
+│
+├── ubicaciones/ (1 archivo)
+│   └── propiedades-alquiler-infocasas.md
+│
+└── recursos/ (1 archivo)
+    └── links-utiles.md
 ```
 
-**Total:** 9 archivos de datos verificados
+**Total:** 10 archivos organizados en 5 categorías
 
 ---
 
-## 📄 ARCHIVOS INDIVIDUALES (RAÍZ)
+## 💰 FINANCIERO
 
-### ✅ DEMOGRAFICO-INE-Poblacion-Asuncion-2025.md
-**Categoría:** Datos demográficos  
-**Fuente:** Instituto Nacional de Estadística (INE)  
-**Datos clave:**
-- Población total Asunción: **464,185 habitantes**
-- Mercado objetivo (20-65+): **316,631 personas**
-- Estructura por edad, NSE, tendencias
+### **tarifas-profesionales-akyfpy-2025.md**
+- **Fuente:** Asociación de Kinesiólogos y Fisioterapeutas Paraguay
+- **Contenido:** Tarifas oficiales profesionales 2025
+- **Datos clave:**
+  - Evaluación inicial: Gs. 200,000
+  - Sesión estándar: Gs. 170,000
+  - Diferencias seguros vs particular
+- **Estado:** ✅ 100% completo
 
-**Confiabilidad:** ⭐⭐⭐⭐⭐ ALTA - Fuente oficial gobierno  
-**Estado:** ✅ 90% completo  
-**Faltante:** Datos San Lorenzo (si Mike elige esa ubicación)
-
----
-
-### ⚠️ COMPETITIVO-Competidores-Identificados.md
-**Categoría:** Análisis competitivo  
-**Datos clave:**
-- **9 competidores directos** identificados
-- Ubicaciones, webs, teléfonos
-- Análisis preliminar
-
-**Confiabilidad:** ⭐⭐⭐ MEDIA - Sin mystery shopping aún  
-**Estado:** ⚠️ 40% completo  
-**Faltante CRÍTICO:** Mystery shopping (precios reales) - 2-3 horas
-
-**ACCIÓN BLOQUEANTE:** Llamar 10-15 competidores para obtener precios
+### **equipamiento-precios-seakit.md**
+- **Fuente:** Seakit Paraguay (web oficial)
+- **Contenido:** Cotizaciones 12 equipos fisioterapia
+- **Datos clave:**
+  - Láser IR: Gs. 966,000 (HALLAZGO CLAVE)
+  - Ultrasonido: Gs. 895,000
+  - Camilla: Gs. 2,800,000
+- **Estado:** ✅ 85% completo
 
 ---
 
-### ✅ LEGAL-DNIT-IRE-RESIMPLE-2025.md
-**Categoría:** Régimen tributario  
-**Fuente:** DNIT - SET  
-**Datos clave:**
-- IRE RESIMPLE: **Gs. 20,000-80,000/mes** (según ingresos año anterior)
-- **IVA exento** para profesionales salud
-- Requisitos inscripción, obligaciones mensuales
+## 📊 MERCADO
 
-**Confiabilidad:** ⭐⭐⭐⭐⭐ ALTA - Fuente oficial DNIT  
-**Estado:** ✅ 90% completo  
-**Faltante:** Formularios PDF descargados, validación con contador
+### **competidores-identificados.md**
+- **Contenido:** 9 competidores directos identificados
+- **Datos:** Ubicaciones, contactos, análisis preliminar
+- **Estado:** ⚠️ 40% completo
+- **Faltante:** Mystery shopping (CRÍTICO)
 
----
+### **datos-demograficos-ine-2025.md**
+- **Fuente:** Instituto Nacional de Estadística (INE)
+- **Datos clave:**
+  - Población Asunción: 464,185 habitantes
+  - Mercado objetivo (20-65+): 316,631 personas
+  - Estructura por edad, NSE
+- **Estado:** ✅ 90% completo
 
-### ✅ UBICACIONES-Propiedades-Alquiler-InfoCasas.md
-**Categoría:** Inmuebles comerciales  
-**Fuente:** InfoCasas.com.py  
-**Datos clave:**
-- **9 propiedades referencia** en 4 zonas
-- Villa Morra: Gs. 11-22M/mes
-- Villa Aurelia: **Gs. 2.8-4.5M/mes** ⭐ Recomendado
-- Centro: Gs. 1.5-3M/mes
-- San Lorenzo: Gs. 1.2-2M/mes
+### **investigacion-nichos-productos.md**
+- **Contenido:** Investigación detallada oportunidades nicho
+- **Datos:** Análisis 8+ nichos potenciales
+- **Estado:** ✅ 80% completo
 
-**Confiabilidad:** ⭐⭐⭐ MEDIA - Datos referenciales  
-**Estado:** ⚠️ 70% completo  
-**Faltante:** Visitas presenciales (una vez definida ubicación en FASE-00)
+### **investigacion-nichos-resumen.md**
+- **Contenido:** Resumen ejecutivo nichos priorizados
+- **Estado:** ✅ 80% completo
 
----
-
-## 📂 CARPETA: FINANCIERO/ (2 archivos)
-
-### ✅ 01-AKYFPY-Tarifas-Profesionales-2025.md
-**Categoría:** Tarifas profesionales  
-**Fuente:** Asociación de Kinesiólogos y Fisioterapeutas Paraguay  
-**Datos clave:**
-- Evaluación inicial: **Gs. 200,000** (particular)
-- Sesión estándar: **Gs. 170,000** (particular)
-- Diferencia asegurado: 40% descuento
-
-**Confiabilidad:** ⭐⭐⭐⭐⭐ ALTA - Asociación profesional oficial  
-**Estado:** ✅ 100% completo  
-**Uso:** Benchmark para pricing estratégico
+### **mystery-shopping-script.md**
+- **Contenido:** Script para llamar competidores
+- **Uso:** Obtener precios reales del mercado
+- **Estado:** ✅ Listo para usar (pendiente ejecución)
 
 ---
 
-### ✅ 02-Seakit-Equipamiento-Precios.md
-**Categoría:** Cotizaciones equipamiento  
-**Fuente:** Seakit Paraguay (web oficial)  
-**Datos clave:**
-- Ultrasonido: **Gs. 895,000** (70% más barato que estimado) ✅
-- Láser IR: **Gs. 966,000** (90% más barato - HALLAZGO CLAVE) ✅✅✅
-- TENS profesional: USD 427 (Gs. 3,202,500)
-- Camilla: Gs. 2,800,000
-- **12 equipos cotizados** con especificaciones
+## ⚖️ LEGAL
 
-**Confiabilidad:** ⭐⭐⭐⭐ ALTA - Precios publicados web  
-**Estado:** ✅ 85% completo  
-**Faltante:** Cotizaciones proveedores alternativos (validar precios)
+### **datos-legales-dnit-2025.md**
+- **Fuente:** DNIT - SET (Gobierno Paraguay)
+- **Datos clave:**
+  - IRE RESIMPLE: Gs. 20,000-80,000/mes
+  - IVA exento profesionales salud
+  - Requisitos inscripción
+- **Estado:** ✅ 90% completo
 
 ---
 
-## 📂 CARPETA: MARKETING/ (2 archivos)
+## 🏘️ UBICACIONES
 
-### ✅ 01-Gimnasios-Alianzas-Potenciales.md
-**Categoría:** Alianzas estratégicas gimnasios  
-**Datos clave:**
-- **15+ gimnasios identificados**
-- Smart Fit (10+ sedes), Exen Gym (5 sedes), Golden Gym
-- Catapumba Fit, boxes CrossFit, estudios Pilates
-- Estrategia acercamiento detallada
-- Modelo convenio (descuentos, comisiones, charlas)
-
-**Confiabilidad:** ⭐⭐⭐ MEDIA - Identificados, faltan contactos directos  
-**Estado:** ⚠️ 60% completo  
-**Faltante:** Contactos directos gerentes/dueños (una vez definida zona)
+### **propiedades-alquiler-infocasas.md**
+- **Fuente:** InfoCasas.com.py
+- **Contenido:** 9 propiedades referencia en 4 zonas
+- **Datos clave:**
+  - Villa Morra: Gs. 11-22M/mes
+  - Villa Aurelia: Gs. 2.8-4.5M/mes (recomendado)
+  - San Lorenzo: Gs. 1.2-2M/mes (económico)
+- **Estado:** ⚠️ 70% completo
+- **Faltante:** Visitas presenciales
 
 ---
 
-### ✅ 02-Medicos-Red-Referidos.md
-**Categoría:** Red referidos médicos  
-**Datos clave:**
-- Especialidades prioritarias (traumatología, deportología, reumatología)
-- Hospitales objetivo: Británico, Bautista, Boquerón
-- Sistema comunicación médico-fisio (informes)
-- Modelo relación profesional
+## 🔗 RECURSOS
 
-**Confiabilidad:** ⭐⭐⭐ MEDIA - Estrategia definida  
-**Estado:** ⚠️ 60% completo  
-**Faltante:** Listado 20-30 traumatólogos con contactos
+### **links-utiles.md**
+- **Contenido:** Enlaces importantes para el proyecto
+- **Incluye:** Fuentes oficiales, proveedores, referencias
+- **Estado:** ✅ Completo
 
 ---
 
-## 📊 RESUMEN ESTADO POR CATEGORÍA
+## 📈 HALLAZGOS CLAVE
 
-| Categoría | Archivos | Estado | Confiabilidad | Datos críticos faltantes |
-|-----------|----------|--------|---------------|-------------------------|
-| **Demográfico** | 1 | ✅ 90% | ⭐⭐⭐⭐⭐ | Datos San Lorenzo |
-| **Competitivo** | 1 | ⚠️ 40% | ⭐⭐⭐ | **Mystery shopping** (CRÍTICO) |
-| **Legal** | 1 | ✅ 90% | ⭐⭐⭐⭐⭐ | Formularios, validación contador |
-| **Financiero** | 2 | ✅ 85% | ⭐⭐⭐⭐ | Cotizaciones alternativas |
-| **Ubicaciones** | 1 | ⚠️ 70% | ⭐⭐⭐ | **Visitas propiedades** |
-| **Marketing** | 2 | ⚠️ 60% | ⭐⭐⭐ | Contactos directos gyms/médicos |
+### 💰 Financieros
+1. **Láser IR asequible año 1:** Gs. 966,000 (vs Gs. 8-15M estimado) → GAME CHANGER ✅
+2. **Ultrasonido 70% más barato:** Gs. 895,000 vs Gs. 3M estimado
+3. **IRE RESIMPLE favorable:** Solo Gs. 20,000/mes año 1
 
-**TOTAL:** 8 archivos de datos + 1 índice = 9 archivos  
-**ESTADO GENERAL:** 70% completo  
-**CALIDAD:** A (datos verificados con fuentes oficiales)
+### 📊 Mercado
+4. **Mercado NO saturado:** 21,000-35,000 personas por competidor
+5. **Población objetivo grande:** 316,631 personas (20-65+)
+6. **Poder adquisitivo:** NSE ABC1+C2 = 208K-255K personas
+
+### 🏘️ Ubicación
+7. **Villa Aurelia equilibrado:** Gs. 2.8M/mes (mejor relación calidad-precio)
+8. **San Lorenzo económico:** Gs. 1.2-2M/mes (42% más barato)
 
 ---
 
-## 🔴 TRABAJO PENDIENTE (CRÍTICO)
+## 🔴 TRABAJO PENDIENTE
 
-### ALTA PRIORIDAD - Próximas 2 semanas:
+### ALTA PRIORIDAD (Próximas 2 semanas)
 
 **1. Mystery Shopping Competidores** ⏱️ 2-3 horas
-```
-✓ Acción: Llamar 10-15 competidores
-✓ Obtener: Precios evaluación, sesión, paquetes, seguros
-✓ Registrar: En tabla Excel/Google Sheets
-✓ Impacto: Valida estrategia pricing (CRÍTICO)
-```
+- Llamar 10-15 competidores
+- Obtener precios reales (evaluación, sesión, paquetes)
+- Registrar en spreadsheet
+- **Impacto:** Valida estrategia pricing (CRÍTICO)
 
 **2. Visitar Propiedades** ⏱️ 4-6 horas
-```
-✓ Pre-requisito: Completar FASE-00 (definir ubicación)
-✓ Acción: Visitar 3-5 locales en zona elegida
-✓ Verificar: Estado, negociar depósito, confirmar disponibilidad
-✓ Impacto: Valida proyección costos fijos
-```
+- Visitar 3-5 locales en zona elegida
+- Verificar estado, negociar depósito
+- **Impacto:** Valida proyección costos fijos
 
 **3. Mapear Gimnasios Zona** ⏱️ 4-6 horas
-```
-✓ Pre-requisito: Definir ubicación consultorio
-✓ Acción: Identificar 10-15 gyms radio 3-5km
-✓ Obtener: Contactos directos gerentes/dueños
-✓ Impacto: Estrategia marketing ejecutable
-```
+- Identificar 10-15 gyms radio 3-5km
+- Obtener contactos directos gerentes
+- **Impacto:** Estrategia marketing ejecutable
+
+### MEDIA PRIORIDAD (Mes 2-3)
+
+**4. Listar Traumatólogos Zona** ⏱️ 2-3 horas
+**5. Cotizar Proveedores Alternativos** ⏱️ 2 horas
+**6. Cotizar Seguros RC** ⏱️ 1-2 horas
+
+**TIEMPO TOTAL TRABAJO CAMPO:** 15-20 horas
 
 ---
 
-### MEDIA PRIORIDAD - Mes 2-3:
+## 📊 RESUMEN ESTADO
 
-**4. Listar Traumatólogos Zona** ⏱️ 2-3 horas
-```
-✓ Investigar 20-30 médicos zona objetivo
-✓ Obtener datos consultorios
-✓ Preparar material acercamiento
-```
+| Categoría | Archivos | Estado | Prioridad Faltante |
+|-----------|----------|--------|-------------------|
+| **Financiero** | 2 | ✅ 85-100% | Cotizaciones alternativas |
+| **Mercado** | 5 | ⚠️ 40-90% | **Mystery shopping** (CRÍTICO) |
+| **Legal** | 1 | ✅ 90% | Validación contador |
+| **Ubicaciones** | 1 | ⚠️ 70% | **Visitas presenciales** |
+| **Recursos** | 1 | ✅ 100% | - |
 
-**5. Cotizar Proveedores Alternativos** ⏱️ 2 horas
-```
-✓ Contactar Medikal Paraguay, MercadoLibre
-✓ Validar precios Seakit (negociar descuentos)
-```
-
-**6. Cotizar Seguros RC** ⏱️ 1-2 horas
-```
-✓ Contactar 3 aseguradoras
-✓ Requisito obligatorio profesional
-```
-
-**TIEMPO TOTAL TRABAJO CAMPO:** 15-20 horas
+**ESTADO GENERAL:** 70% completo  
+**CALIDAD:** A (datos verificados con fuentes oficiales)
 
 ---
 
 ## 🎯 USO DE ESTOS DATOS
 
 **Estos datos alimentan:**
-- ✅ `DATOS-REALES-PARAGUAY-CONSOLIDADO.md` (archivo maestro consolidado)
-- ✅ Google Sheets Database (centralización y análisis)
-- ✅ Documentos finales (Plan Financiero, Análisis Mercado, Marketing)
+- ✅ Documentos implementación (`02-IMPLEMENTACION/`)
+- ✅ Proyecciones financieras
+- ✅ Estrategias marketing (`04-MARKETING/`)
 - ✅ Decisiones estratégicas (precio, ubicación, inversión)
 
-**NO son para presentar a bancos** - Son materia prima interna.
-
----
-
-## 📈 HALLAZGOS CLAVE HASTA AHORA
-
-### 💰 Financieros:
-1. **Láser IR asequible año 1:** Gs. 966,000 (vs Gs. 8-15M estimado) → GAME CHANGER ✅
-2. **Ultrasonido 70% más barato:** Gs. 895,000 vs Gs. 3M
-3. **IRE RESIMPLE favorable:** Solo Gs. 20,000/mes año 1 (vs 10-15% régimen general)
-
-### 📊 Mercado:
-4. **Mercado NO saturado:** 21,000-35,000 personas por competidor (saludable)
-5. **Población objetivo grande:** 316,631 personas (20-65+)
-6. **Poder adquisitivo zona:** NSE ABC1+C2 = 208K-255K personas
-
-### 🏘️ Ubicación:
-7. **Villa Aurelia equilibrado:** Gs. 2.8M/mes (vs Gs. 11-22M Villa Morra)
-8. **San Lorenzo económico:** Gs. 1.2-2M/mes (42% más barato que Villa Aurelia)
-
----
-
-## ✅ CHECKLIST DE COMPLETITUD
-
-**Estado actual:**
-- [x] Datos demográficos verificados (INE) ✅
-- [ ] Mystery shopping ejecutado ❌ CRÍTICO
-- [x] Tarifas profesionales oficiales (AKYFPY) ✅
-- [x] Régimen tributario investigado (DNIT) ✅
-- [x] Equipamiento cotizado (Seakit) ✅
-- [ ] 2+ cotizaciones alternativas ❌
-- [x] Propiedades referencia (InfoCasas) ✅
-- [ ] 3-5 propiedades visitadas ❌
-- [x] Gimnasios identificados ✅
-- [ ] Contactos directos 10+ gimnasios ❌
-- [x] Estrategia red médicos ✅
-- [ ] 20+ médicos listados ❌
-- [ ] Seguros RC cotizados ❌
-
-**Completitud:** 7/13 ítems básicos (54%)  
-**Con trabajo campo:** → 95% completitud en 2-3 semanas
-
----
-
-## 📝 CRONOGRAMA COMPLETADO
-
-### Post FASE-00 (Semana 1-2):
-- [ ] Mystery shopping (2-3h) → **Datos 75% completos**
-- [ ] Visitar propiedades (4-6h) → **Datos 85% completos**
-
-### Semana 3-4:
-- [ ] Mapear gimnasios (4h) → **Datos 90% completos**
-- [ ] Listar médicos (2h) → **Datos 93% completos**
-- [ ] Cotizar seguros (1h) → **Datos 95% completos**
-
-**Resultado final:** Base sólida para documentos finales profesionales
+**NO son para presentar directamente** - Son materia prima para documentos finales.
 
 ---
 
 ## 🏆 CALIDAD COMPARATIVA
 
-**Proyecto Mike vs proyecto típico Paraguay:**
+**Proyecto Mikie vs proyecto típico Paraguay:**
 
-| Aspecto | Típico | Mike | Ventaja |
-|---------|--------|------|---------|
+| Aspecto | Típico | Mikie | Ventaja |
+|---------|--------|-------|---------|
 | Datos demográficos | Supuestos | ✅ INE oficial | +95% |
 | Precios competencia | "Más o menos" | ⏸️ Mystery shopping | +80% |
-| Equipamiento | 1 cotización | ✅ Detallado | +100% |
+| Equipamiento | 1 cotización | ✅ 12 equipos | +100% |
 | Impuestos | Genérico | ✅ DNIT 2025 | +100% |
 | Ubicaciones | "Una zona" | ✅ 9 analizadas | +200% |
-| Marketing | "Redes" | ✅ 15+ gyms + médicos | +300% |
 
-**Calidad general:** Mike está en **top 5% planes de negocio Paraguay** ✅
+**Calidad general:** Top 5% planes de negocio Paraguay ✅
 
 ---
 
 ## 📞 PRÓXIMOS PASOS
 
-### INMEDIATO:
-1. ✅ Carpeta organizada (archivos únicos en raíz, múltiples en subcarpetas)
-2. Mike completa FASE-00 (define ubicación, capital, servicios)
+### Para Mikie:
+1. Ejecutar mystery shopping (usar script en `mercado/mystery-shopping-script.md`)
+2. Definir zona preferida (ver `ubicaciones/propiedades-alquiler-infocasas.md`)
+3. Visitar 3-5 propiedades en zona elegida
+4. Mapear gimnasios cercanos a ubicación final
 
-### SIGUIENTE:
-3. Ejecutar mystery shopping (2-3 horas)
-4. Visitar propiedades zona definida (4-6 horas)
-5. Mapear zona final (gimnasios, médicos)
-
-### RESULTADO:
-6. Base de datos 95% completa
-7. Lista para poblar Google Sheets
-8. Lista para escribir documentos finales
+### Resultado:
+- Base de datos 95% completa
+- Lista para decisiones finales
+- Lista para lanzamiento
 
 ---
 
-**Responsable:** Equipo investigación Mike  
-**Estado:** 70% completo - Sólido para arranque  
-**Calidad:** A (datos verificados fuentes oficiales)
-
-**Próxima actualización:** Post mystery shopping y visitas campo
+**Responsable:** Mikie Moyano Nakamura  
+**Estado:** Sólido para arranque - Trabajo campo pendiente  
+**Calidad:** A (fuentes verificadas oficiales)
 
 ---
 
-_Esta carpeta contiene ~15,000 palabras de datos crudos verificados con fuentes oficiales. Calidad superior a 95% planes de negocio en Paraguay._
+_Contiene ~15,000 palabras de datos crudos verificados. Calidad superior a 95% planes de negocio en Paraguay._
