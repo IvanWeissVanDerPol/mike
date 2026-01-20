@@ -37,33 +37,42 @@ mike/
 │   ├── MESES-10-13-LICENCIA.md        # Transición profesional
 │   └── PROYECCIONES-FINANCIERAS.md    # 3 escenarios + probabilidades
 │
-├── 03-INVESTIGACION/                   # Análisis competitivo, precios
-│   ├── competidores-identificados.md
-│   ├── datos-demograficos-ine-2025.md
-│   ├── datos-legales-dnit-2025.md
-│   ├── precios-mercado.md
-│   └── oportunidades-nicho.md
+├── 03-INVESTIGACION/                   # Investigación de mercado
+│   ├── README.md                       # Índice investigación
+│   ├── financiero/                     # Precios y equipamiento
+│   │   ├── tarifas-profesionales-akyfpy-2025.md
+│   │   └── equipamiento-precios-seakit.md
+│   ├── mercado/                        # Análisis mercado
+│   │   ├── competidores-identificados.md
+│   │   ├── datos-demograficos-ine-2025.md
+│   │   ├── investigacion-nichos-productos.md
+│   │   ├── investigacion-nichos-resumen.md
+│   │   └── mystery-shopping-script.md
+│   ├── legal/                          # Requisitos legales
+│   │   └── datos-legales-dnit-2025.md
+│   ├── ubicaciones/                    # Propiedades alquiler
+│   │   └── propiedades-alquiler-infocasas.md
+│   └── recursos/                       # Enlaces útiles
+│       └── links-utiles.md
 │
 ├── 04-MARKETING/                       # Estrategias y diseño
-│   ├── estrategias/
-│   │   ├── asociaciones-gimnasios.md
-│   │   ├── referencias-doctores.md
-│   │   └── marketing-boca-en-boca.md
-│   └── diseno/
-│       ├── prompts-logo.md
-│       ├── prompts-flyers.md
-│       └── prompts-redes-sociales.md
+│   ├── estrategias/                    # Estrategias marketing
+│   │   ├── 01-gimnasios-alianzas.md
+│   │   ├── 02-red-referidos-medicos.md
+│   │   └── estrategia-espacios-publicos.md
+│   └── diseno/                         # Prompts diseño visual
+│       ├── 01-prompt-logo.md
+│       ├── 02-prompt-flyer-domicilio.md
+│       ├── 03-prompt-ig-carousel.md
+│       ├── 04-prompt-ig-story.md
+│       └── 05-guerrilla-visuals.md
 │
 ├── 05-PLANTILLAS/                      # Plantillas clínicas
-│   ├── historia-clinica-outline.md
-│   └── plantillas-prioritarias.md
+│   ├── 01-historia-clinica-outline.md
+│   └── 02-plantillas-prioritarias.md
 │
-├── 06-DATOS/                           # Google Sheets (enlaces)
-│   └── README.md
-│
-└── 07-DOCUMENTACION/                   # Historial cambios
-    ├── CHANGELOG.md
-    └── IMPROVEMENTS-V3.1.md
+└── 06-DATOS/                           # Datos y hojas cálculo
+    └── README.md                       # Enlaces Google Sheets
 ```
 
 ---
@@ -139,7 +148,7 @@ mike/
 | Métrica | Valor |
 |---------|-------|
 | **Versión** | 4.0 (Reorganización Española) |
-| **Archivos** | Estructura numerada 7 carpetas |
+| **Archivos** | Estructura numerada 6 carpetas |
 | **Calidad** | 8/10 (limpio, funcional) |
 | **Estado** | Listo para ejecutar ✅ |
 
@@ -170,11 +179,10 @@ mike/
 ```
 01-EMPIEZA-AQUI/     ⭐ Punto inicio
 02-IMPLEMENTACION/    📋 4 archivos principales
-03-INVESTIGACION/     🔍 Análisis mercado
-04-MARKETING/         📢 Estrategias
+03-INVESTIGACION/     🔍 Análisis mercado (5 subdirectorios)
+04-MARKETING/         📢 Estrategias (2 subdirectorios)
 05-PLANTILLAS/        📄 Formularios clínicos
 06-DATOS/             📊 Google Sheets
-07-DOCUMENTACION/     📚 Historial cambios
 ```
 
 **3. Navegación Clara**
@@ -186,7 +194,7 @@ mike/
 - Eliminadas carpetas obsoletas (implementation/, docs/, market-research/)
 - Sin archivos duplicados
 - Sin mezcla español/inglés
-- Raíz limpia (solo README, LICENSE, 7 carpetas numeradas)
+- Raíz limpia (solo README, LICENSE, 6 carpetas numeradas)
 
 ---
 

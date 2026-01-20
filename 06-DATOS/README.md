@@ -78,7 +78,7 @@ Los siguientes datos fueron exportados originalmente como CSV y ahora están en 
 - Distribución por edad y género
 - Niveles socioeconómicos
 
-**Fuente original:** `03-bases-datos/datos-demograficos-ine-2025.csv`  
+**Fuente de datos:** Instituto Nacional de Estadística (INE)  
 **Ahora en Google Sheets:** [Insertar enlace]
 
 ---
@@ -88,7 +88,7 @@ Los siguientes datos fueron exportados originalmente como CSV y ahora están en 
 - Proceso de matriculación MSPBS
 - Requisitos RUC/SET
 
-**Fuente original:** `03-bases-datos/datos-legales-dnit-2025.csv`  
+**Fuente de datos:** DNIT - SET (Gobierno Paraguay)  
 **Ahora en Google Sheets:** [Insertar enlace]
 
 ---
@@ -178,4 +178,4 @@ Semana | Fechas | Sesiones | Ingreso_Bruto | Costos | Ingreso_Neto | Acumulado
 
 ---
 
-**NOTA:** Esta carpeta reemplaza la antigua carpeta `03-bases-datos/` que contenía archivos CSV. Todos los datos ahora están en Google Sheets para facilitar el acceso y la actualización en tiempo real.
+**NOTA:** Los datos originalmente estaban en archivos CSV pero ahora se mantienen en Google Sheets para facilitar el acceso y la actualización en tiempo real. Ver `03-INVESTIGACION/` para datos de investigación de mercado.
