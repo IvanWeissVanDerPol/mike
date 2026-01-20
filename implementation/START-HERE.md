@@ -1,149 +1,218 @@
 # 🚀 START HERE - Mikie's Student Massage Practice
 
-**Client:** Mikie Moyano Nakamura  
+**Client:** Mikie Moyano Nakamura (he/him)  
 **Status:** Final-year physiotherapy student (graduates January 2027)  
-**Goal:** Earn Gs. 1-2M/month while studying, save Gs. 15-20M for post-license launch
+**Goal:** Earn Gs. 1-2M/month while studying, save Gs. 10-15M for post-license launch
 
 ---
 
-## 📋 YOUR ROADMAP (4 Files Total)
+## ⚡ FASTEST PATH: Read This First
 
-### **THIS WEEK (Launch in 3 Days)**
+**Want to launch in 7 days?**  
+👉 Open [`QUICK-START.md`](QUICK-START.md) - One-page action plan
 
-**File 1: [`MONTH-1-LAUNCH.md`](MONTH-1-LAUNCH.md)**
-- Day 1-3: Shopping, setup, first session
-- Week 1-4: Daily tasks and targets
-- Month 1 goal: 12-16 sessions, Gs. 800K-1.2M earned
-
-**What's inside:**
-- Shopping list with stores and prices (Gs. 340-520K budget)
-- Client tracking system (Google Sheets templates)
-- Session guide (step-by-step what to do)
-- WhatsApp templates (copy-paste ready messages)
+**Want full details?**  
+Keep reading below.
 
 ---
 
-### **MONTHS 1-12 (While Studying)**
+## 📂 YOUR COMPLETE SYSTEM (6 Files)
 
-**File 2: [`MONTHS-1-12-STUDENT-PLAN.md`](MONTHS-1-12-STUDENT-PLAN.md)**
-- Monthly targets (sessions, income, savings)
-- Pricing evolution (when to raise from Gs. 60K → 100K)
-- Legal risk management (stay low-profile)
-- Equipment upgrades timeline
-- 12-month projection: Save Gs. 15-20M
+### **🔥 CRITICAL (Read These First)**
 
----
+**1. [`QUICK-START.md`](QUICK-START.md)** - Launch in 7 days  
+One-page action plan. Shopping → Setup → First client.
 
-### **MONTHS 10-13 (License Transition)**
-
-**File 3: [`MONTHS-10-13-LICENSE-TRANSITION.md`](MONTHS-10-13-LICENSE-TRANSITION.md)**
-- Month 10: Start MSPBS license application
-- Month 11: Professional infrastructure setup
-- Month 12: Focus on graduation
-- Month 13: Launch as licensed PT
+**2. [`RISK-MANAGEMENT.md`](RISK-MANAGEMENT.md)** - Stay safe & legal  
+Legal protection, safety protocols, emergency contacts.  
+**READ THIS BEFORE YOUR FIRST SESSION.**
 
 ---
 
-### **FINANCIALS (All Scenarios)**
+### **📋 IMPLEMENTATION (Read as Needed)**
 
-**File 4: [`FINANCIAL-PROJECTIONS.md`](FINANCIAL-PROJECTIONS.md)**
-- 3 scenarios with probabilities
-- Expected value: Gs. 13-15M saved
-- Month-by-month breakdowns
-- Sensitivity analysis
+**3. [`MONTH-1-LAUNCH.md`](MONTH-1-LAUNCH.md)** - Days 1-28 detailed guide  
+Shopping lists, session guide, WhatsApp templates, week-by-week plan.  
+**Warning:** This is a long file (~2,000 lines). Use sections as reference.
+
+**4. [`MONTHS-1-12-STUDENT-PLAN.md`](MONTHS-1-12-STUDENT-PLAN.md)** - Full year roadmap  
+Monthly targets, pricing evolution, legal risk management.
+
+**5. [`MONTHS-10-13-LICENSE-TRANSITION.md`](MONTHS-10-13-LICENSE-TRANSITION.md)** - Professional transition  
+License application, equipment purchase, client price transition.
 
 ---
 
-## ⚡ QUICK START (Days 1-3)
+### **💰 FINANCIALS (Read When Planning)**
 
-### **Day 1 (Today)**
-1. Read `MONTH-1-LAUNCH.md` (Shopping section)
-2. Go shopping (Gs. 340-520K): oils, towels, hygiene supplies, bag
-3. Wash towels, organize bag
-
-### **Day 2 (Tomorrow)**
-1. Set up client tracking (Google Sheets or notebook)
-2. Read Session Guide section
-3. Practice massage gun on yourself/family
-
-### **Day 3 (Next Day)**
-1. Read WhatsApp Templates section
-2. Message 5-8 VIP friends (Tier 1, Gs. 60K)
-3. Book first 2-3 sessions for this week
-
-### **Days 4-7 (First Week)**
-1. Complete 3-4 sessions
-2. Collect feedback, improve technique
-3. Ask for referrals
-4. Target: Gs. 180-240K earned
+**6. [`FINANCIAL-PROJECTIONS.md`](FINANCIAL-PROJECTIONS.md)** - 3 scenarios  
+Realistic financial projections with probabilities.  
+**Expected savings:** Gs. 10-15M in 12 months.
 
 ---
 
 ## 🎯 SUCCESS METRICS
 
+### **Week 1 Goal**
+- 1-2 sessions completed
+- Gs. 60-120K earned
+- Survival = success
+
 ### **Month 1 Goal**
-- Sessions: 12-16
-- Income: Gs. 800K-1.2M
-- Expenses: Gs. 500-700K (startup costs)
-- **Net saved:** Gs. 300-500K
+- 12-16 sessions
+- Gs. 800K-1.2M earned
+- Gs. 300-500K saved (after expenses)
 
 ### **Month 3 Goal**
-- Sessions: 20-24/month
-- Income: Gs. 1.6-2.4M/month
-- Expenses: Gs. 400-600K/month
-- **Net saved:** Gs. 1.2-1.8M/month
+- 20-24 sessions/month
+- Gs. 1.6-2M/month earned
+- Gs. 1.2-1.5M/month saved
 
 ### **Month 12 Goal**
-- Total saved: Gs. 15-20M
+- Total saved: Gs. 10-15M
 - Sessions completed: 250-300
 - Ready to launch as licensed PT
 
 ---
 
-## ⚠️ LEGAL BOUNDARIES
+## ⚠️ LEGAL BOUNDARIES (READ CAREFULLY)
 
-**YOU CAN:**
-✅ Offer wellness massage (disclosed student status)  
-✅ Work on friends/family at their homes  
-✅ Charge for your time and materials  
-✅ Practice techniques you learned in school
+### **YOU CAN:**
+✅ Wellness massage for friends (disclosed student status)  
+✅ Practice techniques learned in school  
+✅ Charge for time and materials  
+✅ Work at clients' homes
 
-**YOU CANNOT:**
-❌ Advertise publicly (Instagram, Facebook ads, flyers)  
-❌ Claim to treat medical conditions  
-❌ Issue receipts/invoices (not licensed business)  
-❌ Treat serious injuries (refer to licensed PT)
+### **YOU CANNOT:**
+❌ Advertise publicly (Instagram, flyers, social media)  
+❌ Claim to be a "fisioterapeuta" (not licensed yet)  
+❌ Treat medical conditions independently  
+❌ Issue receipts as "physiotherapy services"
 
-**Key phrase (say every time):**
-> "I'm a final-year student (graduate Jan 2027), so this is wellness massage, not medical treatment. For anything serious, I'll refer you to a licensed professional."
+### **ALWAYS SAY THIS:**
+> "I'm a final-year PT student (graduate Jan 2027). This is wellness massage for practice, NOT medical treatment. If you have serious pain or injury, see a licensed professional. You understand I'm not licensed yet, right?"
+
+**More details:** See `RISK-MANAGEMENT.md` (Legal Protection section)
 
 ---
 
 ## 💪 YOUR COMPETITIVE ADVANTAGE
 
-Most new PTs launch with:
+**Most new PTs launch with:**
 - ❌ Gs. 0 capital
 - ❌ Zero real-world experience
-- ❌ No client relationships
+- ❌ No existing clients
 
-You'll launch with:
-- ✅ Gs. 15-20M saved capital
+**You'll launch with:**
+- ✅ Gs. 10-15M saved capital
 - ✅ 250-300 sessions experience
-- ✅ 40-60 existing client relationships
-- ✅ Proven track record
+- ✅ 30-50 existing client relationships
+- ✅ Proven business model
 
-**You'll be TOP 1% of new PTs in Paraguay.**
+**Result:** You'll be in the TOP 5% of new PTs in Paraguay.
+
+---
+
+## 🚨 CRITICAL WARNINGS
+
+### **1. This Will Be Hard**
+
+- 50-70% of friends will say "no"
+- You'll make mistakes in early sessions
+- Some clients won't be satisfied
+- You'll doubt yourself constantly
+
+**This is NORMAL.** Push through.
+
+### **2. Safety First**
+
+- Always share your location before sessions
+- Trust your gut (unsafe client = don't go)
+- Get verbal consent EVERY time
+- Read `RISK-MANAGEMENT.md` completely
+
+### **3. Mental Health Matters**
+
+- Rejection is part of entrepreneurship
+- Your worth ≠ your business results
+- Take breaks when needed
+- Ask for help when struggling
+
+**Resources:** See `RISK-MANAGEMENT.md` (Mental Health section)
+
+---
+
+## 📞 EMERGENCY CONTACTS
+
+**Fill these in NOW:**
+
+```
+Ambulance: 911
+Trusted Friend: _________________ [Phone: _______]
+Mentor/Supervisor: ______________ [Phone: _______]
+Licensed PT (referrals): ________ [Phone: _______]
+```
+
+**Keep this accessible during every session.**
 
 ---
 
 ## 🚀 READY TO START?
 
-**Next step:** Open `MONTH-1-LAUNCH.md` and read the Shopping section.
+### **Option A: Fast Track (7 Days)**
+Open `QUICK-START.md` → Follow day-by-day plan → Launch
 
-**Timeline:**
-- Day 1-3: Launch prep
-- Week 1: First 3-4 sessions
-- Month 1: Gs. 800K-1.2M earned
-- Month 12: Gs. 15-20M saved, ready to launch professionally
+### **Option B: Detailed Study (2 Weeks)**
+1. Read `RISK-MANAGEMENT.md` (safety protocols)
+2. Read `MONTH-1-LAUNCH.md` (implementation details)
+3. Review `FINANCIAL-PROJECTIONS.md` (set expectations)
+4. Then launch
 
-**Let's build your empire. 💪**
+---
+
+## ❓ COMMON QUESTIONS
+
+**Q: I don't have Gs. 500K for supplies. What do I do?**  
+A: See `MONTH-1-LAUNCH.md` (Budget-Conscious Path - Gs. 350K minimum)
+
+**Q: What if only 2-3 friends say yes?**  
+A: See `FINANCIAL-PROJECTIONS.md` (Scenario 1 - Pessimistic + Plan B)
+
+**Q: What if a client gets injured?**  
+A: See `RISK-MANAGEMENT.md` (Injury Protocols section)
+
+**Q: What if I feel unsafe with a client?**  
+A: END SESSION IMMEDIATELY. Leave. Your safety > their payment.
+
+**Q: When should I quit if this isn't working?**  
+A: Give it 90 days of honest effort. If zero progress, pivot to Plan B (PT Assistant job).
+
+---
+
+## 💡 FINAL ADVICE
+
+**Start small:**  
+Don't aim for 20 clients in Month 1. Aim for 1-2.
+
+**Be patient:**  
+This is a 12-month plan, not a 2-week sprint.
+
+**Stay safe:**  
+No amount of money is worth your safety or career.
+
+**Ask for help:**  
+You don't have to figure this out alone.
+
+---
+
+## 🎯 YOUR NEXT STEP
+
+**Right now, open one of these files:**
+
+- **If you want to launch ASAP:** `QUICK-START.md`
+- **If you want safety info first:** `RISK-MANAGEMENT.md`
+- **If you want full details:** `MONTH-1-LAUNCH.md`
+
+**Don't overthink it. Just start.**
+
+**Let's build your practice. 💪**
