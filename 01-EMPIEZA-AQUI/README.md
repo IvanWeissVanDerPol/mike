@@ -8,7 +8,7 @@
 
 ## 📂 ARCHIVOS EN ESTA CARPETA
 
-### **1. INICIO-RAPIDO.md** ⭐ **LEER PRIMERO**
+### **1. [INICIO-RAPIDO.md](./INICIO-RAPIDO.md)** ⭐ **LEER PRIMERO**
 **Qué es:** Plan de acción de 7 días para lanzar  
 **Cuándo leer:** AHORA (30 minutos)  
 **Qué contiene:**
@@ -22,7 +22,7 @@
 
 ---
 
-### **2. GESTION-RIESGOS.md** ⭐⭐⭐ **LEER ANTES PRIMERA SESIÓN**
+### **2. [GESTION-RIESGOS.md](./GESTION-RIESGOS.md)** ⭐⭐⭐ **LEER ANTES PRIMERA SESIÓN**
 **Qué es:** Protocolos de seguridad legal, física, financiera  
 **Cuándo leer:** Antes de tu primera sesión (1 hora)  
 **Qué contiene:**
@@ -43,17 +43,19 @@
 ## 🎯 PRÓXIMOS PASOS
 
 ### **Opción A: Inicio Rápido (Recomendado)**
-1. ✅ Leer `INICIO-RAPIDO.md` (ahora)
-2. ✅ Leer `GESTION-RIESGOS.md` (hoy)
-3. ✅ Ir de compras (mañana)
-4. ✅ Primera sesión (en 7 días)
+1. ✅ Leer [`INICIO-RAPIDO.md`](./INICIO-RAPIDO.md) (ahora)
+2. ✅ Leer [`GESTION-RIESGOS.md`](./GESTION-RIESGOS.md) (hoy)
+3. ✅ Configurar comunicación: [`09-SCRIPTS-COMUNICACION/README.md`](../09-SCRIPTS-COMUNICACION/README.md) (1 hora)
+4. ✅ Ir de compras (mañana)
+5. ✅ Primera sesión (en 7 días)
 
 ### **Opción B: Estudio Detallado**
-1. ✅ Leer `INICIO-RAPIDO.md`
-2. ✅ Leer `GESTION-RIESGOS.md`
-3. ✅ Leer `02-IMPLEMENTACION/MES-1-LANZAMIENTO.md` (detalles completos)
-4. ✅ Revisar `02-IMPLEMENTACION/PROYECCIONES-FINANCIERAS.md` (escenarios)
-5. ✅ Después lanzar
+1. ✅ Leer [`INICIO-RAPIDO.md`](./INICIO-RAPIDO.md)
+2. ✅ Leer [`GESTION-RIESGOS.md`](./GESTION-RIESGOS.md)
+3. ✅ Revisar scripts de comunicación: [`09-SCRIPTS-COMUNICACION/`](../09-SCRIPTS-COMUNICACION/)
+4. ✅ Leer [`02-IMPLEMENTACION/MES-1-LANZAMIENTO.md`](../02-IMPLEMENTACION/MES-1-LANZAMIENTO.md) (detalles completos)
+5. ✅ Revisar [`02-IMPLEMENTACION/PROYECCIONES-FINANCIERAS.md`](../02-IMPLEMENTACION/PROYECCIONES-FINANCIERAS.md) (escenarios)
+6. ✅ Después lanzar
 
 ---
 
@@ -62,11 +64,13 @@
 Antes de tu primera sesión, asegúrate:
 - [ ] Leíste INICIO-RAPIDO.md completo
 - [ ] Leíste GESTION-RIESGOS.md completo
+- [ ] **Configuraste WhatsApp Business** ([`09-SCRIPTS-COMUNICACION/README.md`](../09-SCRIPTS-COMUNICACION/README.md))
+- [ ] **Guardaste 5 respuestas rápidas** en WhatsApp (templates)
 - [ ] Compraste suministros (aceite, toallas, alcohol gel, bolso)
 - [ ] Creaste sistema de tracking (Google Sheets o cuaderno)
 - [ ] Memorizaste descargo legal (decirlo SIEMPRE)
 - [ ] Practicaste con pistola de masajes en vos mismo
-- [ ] Contactaste 5-8 amigos por WhatsApp
+- [ ] Contactaste 5-8 amigos por WhatsApp (usa [`friend-outreach.md`](../09-SCRIPTS-COMUNICACION/friend-outreach.md))
 - [ ] Agendaste al menos 1 sesión
 - [ ] Llenaste contactos de emergencia
 - [ ] Elegiste persona de confianza para compartir ubicación

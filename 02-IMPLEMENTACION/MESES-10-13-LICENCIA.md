@@ -10,18 +10,21 @@
 ## 📊 VISTA GENERAL: La Ventana Crítica de Transición
 
 **Qué Está Pasando:**
+
 - **Mes 10 (Oct 2026):** 3 meses antes graduación - Empezar aplicación licencia
 - **Mes 11 (Nov 2026):** 2 meses antes - Preparar infraestructura profesional
 - **Mes 12 (Dic 2026):** 1 mes antes - Exámenes finales + procesamiento licencia
 - **Mes 13 (Ene 2027):** LANZAMIENTO - Graduarse, recibir licencia, volverse profesional
 
 **Por Qué Importa:**
+
 - No podés practicar profesionalmente sin licencia (ofensa criminal)
 - Procesamiento licencia toma 4-8 semanas después graduación
 - Necesitás equipo/espacio profesional antes lanzamiento
 - Clientes existentes necesitan transición precio suave (no shock)
 
 **Estado Esperado para Mes 10:**
+
 - ✅ 200-250 sesiones masaje completadas (7-9 meses práctica)
 - ✅ Gs. 10-15M ahorrados (en camino para lanzamiento profesional)
 - ✅ 30-50 clientes activos/pasados (tu base clientes lanzamiento)
@@ -40,6 +43,7 @@
 #### **Tarea 1: Entender Requisitos Licencia MSPBS**
 
 **Checklist investigación:**
+
 - [ ] Visitar sitio web MSPBS u oficina (Dirección de Fiscalización de Profesionales)
 - [ ] Confirmar documentos requeridos:
   - [ ] Título universitario (original + copia)
@@ -52,10 +56,12 @@
 - [ ] Confirmar tarifas (típicamente Gs. 300K-500K)
 
 **Acción:**
+
 - Crear checklist de todos documentos necesitados
 - Empezar reunir documentos ahora (no esperar graduación)
 
 **Recursos:**
+
 - Oficina MSPBS: Pettirossi c/ Brasil, Asunción
 - AKYFPY (Asociación de Kinesiólogos): Puede proveer guía
 - Teléfono: +595 21 204-600 (línea principal MSPBS)
@@ -68,6 +74,7 @@
 **Qué cambia:** Necesitás actualizar a RUC profesional (fisioterapeuta registrado)
 
 **Pasos:**
+
 - [ ] Investigar requisitos RUC profesional (SET - Subsecretaría de Estado de Tributación)
 - [ ] Entender implicaciones fiscales:
   - IRE RESIMPLE: Máx Gs. 80M/año ingresos
@@ -87,25 +94,28 @@
 
 **Prioridad 1 (DEBE TENER - Presupuesto Gs. 8-12M):**
 
-| Artículo | Por Qué Crítico | Presupuesto | Dónde Comprar |
-|----------|-----------------|-------------|---------------|
-| **Camilla masaje profesional** | No podés practicar sin ella | Gs. 4-6M | MercadoLibre, Amazon (importado) |
-| **Unidad Tens/EMS** | Herramienta fisioterapia estándar | Gs. 1.5-2.5M | Casa Central Médica (Mcal. López) |
-| **Terapia ultrasonido** | Modalidad central para lesiones | Gs. 2-3M | Casa Central Médica |
-| **Set bandas ejercicio** | Ejercicios rehab | Gs. 150-300K | Deportes Pinedo |
-| **Sábanas profesionales** | Estándares higiene | Gs. 400-600K | Casa Nissei |
+| Artículo                       | Por Qué Crítico                   | Presupuesto  | Dónde Comprar                     |
+| ------------------------------ | --------------------------------- | ------------ | --------------------------------- |
+| **Camilla masaje profesional** | No podés practicar sin ella       | Gs. 4-6M     | MercadoLibre, Amazon (importado)  |
+| **Unidad Tens/EMS**            | Herramienta fisioterapia estándar | Gs. 1.5-2.5M | Casa Central Médica (Mcal. López) |
+| **Terapia ultrasonido**        | Modalidad central para lesiones   | Gs. 2-3M     | Casa Central Médica               |
+| **Set bandas ejercicio**       | Ejercicios rehab                  | Gs. 150-300K | Deportes Pinedo                   |
+| **Sábanas profesionales**      | Estándares higiene                | Gs. 400-600K | Casa Nissei                       |
 
 **Prioridad 2 (LINDO DE TENER - Presupuesto Gs. 3-5M):**
+
 - Unidad terapia laser (Gs. 2-3M)
 - Packs terapia caliente/fría (Gs. 200-400K)
 - Pelota Pilates + rodillos espuma (Gs. 150-300K)
 - Uniformes profesionales (Gs. 300-500K)
 
 **Prioridad 3 (FUTURO - Mes 14+):**
+
 - Terapia ondas choque (Gs. 15-25M)
 - Terapia Tecar (Gs. 20-30M)
 
 **Plan Acción:**
+
 - [ ] Crear lista compras detallada con modelos exactos
 - [ ] Investigar costos importación si comprando del exterior (camilla, ultrasonido)
 - [ ] Conseguir cotizaciones de 3 proveedores
@@ -120,11 +130,13 @@
 #### **El Desafío:**
 
 **Pricing actual (masaje estudiante):**
+
 - Amigos Nivel 1: Gs. 60-80K
 - Amigos Nivel 2: Gs. 80-100K
 - Promedio: Gs. 70-90K
 
 **Pricing futuro (fisio licenciado):**
+
 - Sesiones profesionales: Gs. 170-200K
 - Tasa mercado para fisioterapeutas licenciados
 
@@ -143,18 +155,18 @@ Enviar mensaje WhatsApp a todos clientes activos:
 ```
 ¡Hola [Nombre]! 🎉
 
-Te quiero compartir una noticia emocionante: en enero me gradúo como 
-fisioterapeuta licenciado! 
+Te quiero compartir una noticia emocionante: en enero me gradúo como
+fisioterapeuta licenciado!
 
-Esto significa que voy a poder ofrecer tratamientos profesionales completos 
-(no solo masajes de relajación), pero también implica que los precios van 
+Esto significa que voy a poder ofrecer tratamientos profesionales completos
+(no solo masajes de relajación), pero también implica que los precios van
 a cambiar a tarifas de mercado (Gs. 170-200K por sesión).
 
-Como agradecimiento por apoyarme durante mi práctica estudiantil, quiero 
-ofrecerte una tarifa especial de "cliente fundador": Gs. 120K por sesión 
+Como agradecimiento por apoyarme durante mi práctica estudiantil, quiero
+ofrecerte una tarifa especial de "cliente fundador": Gs. 120K por sesión
 (40% descuento sobre precio profesional).
 
-Esta tarifa especial es SOLO para quienes fueron mis clientes antes de 
+Esta tarifa especial es SOLO para quienes fueron mis clientes antes de
 recibirme. Disponible solo si reservás en enero-febrero 2027.
 
 ¿Te interesa? Puedo reservarte cupo ahora para enero.
@@ -164,6 +176,7 @@ Mikie
 ```
 
 **Por qué esto funciona:**
+
 - Aviso anticipado (advertencia 3 meses)
 - Explica POR QUÉ precios aumentan (licenciado = nivel servicio diferente)
 - Descuento "fundador" exclusivo (los hace sentir especiales)
@@ -185,16 +198,18 @@ Mikie
 
 **Pricing Dos Niveles:**
 
-| Tipo Cliente | Precio | Por Qué |
-|-------------|--------|---------|
-| **Clientes existentes** (tus 30-50 amigos) | Gs. 120K | Descuento lealtad, 40% off |
-| **Clientes nuevos** (referencias, marketing) | Gs. 170-200K | Tasa mercado |
+| Tipo Cliente                                 | Precio       | Por Qué                    |
+| -------------------------------------------- | ------------ | -------------------------- |
+| **Clientes existentes** (tus 30-50 amigos)   | Gs. 120K     | Descuento lealtad, 40% off |
+| **Clientes nuevos** (referencias, marketing) | Gs. 170-200K | Tasa mercado               |
 
 **Timeline:**
+
 - Ene-Jun 2027: Honrar tasa Gs. 120K para clientes existentes
 - Jul 2027+: Gradualmente subir a Gs. 150K para existentes, mantener Gs. 180-200K para nuevos
 
 **Resultado esperado:**
+
 - 60% clientes existentes aceptan nuevo pricing (18-30 clientes)
 - 40% rotación (esperada - algunos solo interesados en masaje barato)
 - Base fuerte para construir desde
@@ -211,6 +226,7 @@ Mikie
 - [ ] Continuar práctica masaje (quedarse activo, ahorrar dinero)
 
 **Objetivo Financiero Mes 10:**
+
 - Ingresos: Gs. 1.5-2M (18-22 sesiones)
 - Ahorros: Gs. 11-13M acumulativo
 - Fondo equipo: Asignar Gs. 10M
@@ -232,6 +248,7 @@ Mikie
 **Checklist:**
 
 **A. Perfil Negocio Google (CRÍTICO)**
+
 - [ ] Actualizar perfil existente O crear nuevo (si tenías uno estudiante)
 - [ ] Nuevo nombre negocio: "Mikie Moyano - Fisioterapia y Rehabilitación"
 - [ ] Agregar número licencia profesional (una vez recibida)
@@ -251,6 +268,7 @@ Mikie
 ---
 
 **B. Cuenta Instagram Profesional (Opcional pero recomendado)**
+
 - [ ] Crear @mikie.fisioterapia (o similar)
 - [ ] Bio: "Fisioterapeuta licenciado 🇵🇾 | Rehabilitación deportiva | Asunción"
 - [ ] 9-12 posts listos ANTES lanzamiento:
@@ -266,6 +284,7 @@ Mikie
 ---
 
 **C. WhatsApp Business (Mejora fácil)**
+
 - [ ] Convertir WhatsApp personal a WhatsApp Business
 - [ ] Agregar:
   - Horarios negocio (Lun-Sáb 8am-7pm)
@@ -281,6 +300,7 @@ Mikie
 #### **Tarea 2: Materiales Marketing Físico**
 
 **Tarjetas presentación** (DEBE TENER):
+
 - [ ] Diseñar tarjeta simple:
   - Nombre + "Fisioterapeuta Licenciado"
   - Teléfono + WhatsApp
@@ -290,6 +310,7 @@ Mikie
 - [ ] Dónde: Imprenta Salesiana, Gráfica Mercurio (Mcal. López)
 
 **Señalización profesional** (si haciendo práctica en casa):
+
 - [ ] Cartel puerta simple: "Mikie Moyano - Fisioterapia"
 - [ ] Costo: Gs. 200-400K (cartel acrílico)
 
@@ -306,18 +327,21 @@ Mikie
 **OPCIÓN 1: En Casa (Consultorio en Casa) - COSTO MÁS BAJO**
 
 **Requisitos:**
+
 - Habitación dedicada (¡no tu dormitorio!)
 - Apariencia profesional (camilla, equipo visible)
 - Privacidad (sin interrupciones familia)
 - Estacionamiento cerca (si clientes manejan)
 
 **Pros:**
+
 - ✅ Gs. 0 alquiler
 - ✅ Horarios flexibles
 - ✅ Margen ganancia más alto
 - ✅ Puede lanzar inmediatamente
 
 **Contras:**
+
 - ❌ Limitado a 4-6 clientes/día (restricciones espacio)
 - ❌ Menos percepción profesional
 - ❌ Problemas zonificación (algunos barrios prohíben actividad comercial)
@@ -331,24 +355,28 @@ Mikie
 **Qué es:** Alquilar escritorio/habitación en clínica existente o gimnasio
 
 **Arreglo típico:**
+
 - Alquilar espacio clínica 3-4 días/semana
 - Pagar por día (Gs. 150-250K/día) O % de ingresos (20-30%)
 - Usar su recepción, sala espera
 - Traer tu propio equipo (usualmente)
 
 **Dónde encontrar:**
+
 - Clínicas fisioterapia existentes (necesitan fisio extra)
 - Gimnasios con sala fisio
 - Centros medicina deportiva
 - Centros bienestar
 
 **Pros:**
+
 - ✅ Ambiente profesional
 - ✅ Tráfico peatonal incorporado (miembros gimnasio, pacientes clínica)
 - ✅ Costos admin compartidos
 - ✅ Networking con otros fisios
 
 **Contras:**
+
 - ❌ Alquiler: Gs. 1.2-2M/mes (3-4 días/semana)
 - ❌ Menos control sobre horario
 - ❌ Compartir ingresos
@@ -362,6 +390,7 @@ Mikie
 **No recomendado para Mes 13** (muy caro, muy riesgoso)
 
 **Guardar esto para Mes 18-24** después que tengas:
+
 - ✅ Base clientes estable (30+ regulares)
 - ✅ Gs. 40M+ ahorrados
 - ✅ Ingresos probados (Gs. 10M+/mes)
@@ -376,13 +405,14 @@ Mikie
 
 **Criterio decisión:**
 
-| Si tenés... | Elegir... |
-|-------------|-----------|
-| Habitación apropiada en casa + Gs. 15M+ ahorrados | **En casa** (ahorrar alquiler, maximizar ganancia) |
-| Sin espacio casa apropiado O querés ambiente profesional | **Clínica compartida** (red, credibilidad) |
-| Demanda cliente fuerte (25+ pre-reservando) | **Clínica compartida** (necesitás capacidad) |
+| Si tenés...                                              | Elegir...                                          |
+| -------------------------------------------------------- | -------------------------------------------------- |
+| Habitación apropiada en casa + Gs. 15M+ ahorrados        | **En casa** (ahorrar alquiler, maximizar ganancia) |
+| Sin espacio casa apropiado O querés ambiente profesional | **Clínica compartida** (red, credibilidad)         |
+| Demanda cliente fuerte (25+ pre-reservando)              | **Clínica compartida** (necesitás capacidad)       |
 
 **Ítems Acción (Mes 11):**
+
 - [ ] Si en casa: Preparar habitación (pintar, organizar, configuración profesional)
 - [ ] Si compartido: Investigar 5-10 clínicas/gimnasios, visitar, negociar términos
 - [ ] Probar configuración con 1-2 clientes (conseguir feedback sobre espacio)
@@ -394,6 +424,7 @@ Mikie
 **Unirse AKYFPY** (Asociación de Kinesiólogos y Fisioterapeutas del Paraguay)
 
 **Por Qué:**
+
 - ✅ Credibilidad profesional
 - ✅ Networking con fisios establecidos
 - ✅ Acceso a educación continua
@@ -403,6 +434,7 @@ Mikie
 **Costo:** Gs. 300-500K/año (membresía)
 
 **Cómo unirse:**
+
 - [ ] Visitar oficina AKYFPY o sitio web
 - [ ] Enviar licencia (una vez recibida)
 - [ ] Pagar tarifa membresía
@@ -425,6 +457,7 @@ Mikie
 - [ ] Continuar práctica masaje (objetivo ingresos Gs. 1.5-2M)
 
 **Objetivo Financiero Mes 11:**
+
 - Ingresos: Gs. 1.5-2M (18-22 sesiones)
 - Ahorros: Gs. 13-15M acumulativo
 - Gasto: Gs. 500K (tarjetas presentación, materiales marketing)
@@ -442,11 +475,13 @@ Mikie
 **Prioridad:** GRADUARSE (¡nada más importa si no te graduás!)
 
 **Ajuste práctica masaje:**
+
 - Reducir sesiones a 8-12/mes (no 20+)
 - Solo fines semana (guardar días semana para estudiar)
 - Comunicar temprano con clientes: "Exámenes Dic 1-15, disponibilidad limitada"
 
 **Estrategia estudio:**
+
 - [ ] Enfocarse en aprobar (no perfección)
 - [ ] Formar grupo estudio con compañeros
 - [ ] Revisar exámenes pasados si disponibles
@@ -461,17 +496,20 @@ Mikie
 **Asumiendo aprobaste exámenes (¡lo vas a hacer!):**
 
 #### **Día 1 Después Graduación:**
+
 - [ ] Solicitar título oficial (título universitario) de universidad
 - [ ] Conseguir 2-3 copias certificadas (vas a necesitarlas)
 - [ ] ¡Celebrar! (te lo ganaste)
 
 #### **Día 2-3:**
+
 - [ ] Reunir todos documentos licencia MSPBS (de checklist Mes 10)
 - [ ] Visitar oficina MSPBS (Pettirossi c/ Brasil)
 - [ ] Enviar aplicación + pagar tarifas
 - [ ] Conseguir recibo + fecha procesamiento esperada (típicamente 4-8 semanas)
 
 #### **Importante:**
+
 - **NO PODÉS practicar como fisio licenciado hasta que licencia llegue**
 - Continuar pricing masaje estudiante durante período procesamiento
 - Decir clientes: "Esperando licencia, manteniendo precios estudiante hasta que llegue"
@@ -483,29 +521,34 @@ Mikie
 **Te graduaste pero no tenés licencia todavía. ¿Qué hacer?**
 
 **Opción A: Tomar descanso** (recomendado si quemado)
+
 - Descansar, recargar
 - Pasar tiempo con familia (feriados)
 - Sesiones limitadas (10-12 máx)
 
 **Opción B: Hustlear** (recomendado si energizado)
+
 - Usar tiempo feriados para preparar negocio
 - Comprar equipo (camilla, TENS, ultrasonido)
 - Configurar espacio trabajo
 - Pre-vender sesiones enero a clientes existentes
 
 **Compra equipo (si tenés Gs. 15M+ ahorrados):**
-- [ ] Comprar camilla masaje profesional (Gs. 4-6M)
+
+- [ ] Comprar camilla masaje profesional (Gs. 700.000 - 1.5M) <!-- Precio Real -->
 - [ ] Comprar unidad TENS (Gs. 1.5-2.5M)
 - [ ] Comprar ultrasonido (Gs. 2-3M)
 - [ ] Comprar sábanas, suministros higiene (Gs. 400-600K)
-- [ ] Total: Gs. 8-12M
+- [ ] Total: Gs. 5-7.5M (vs Gs. 12M estimado anteriormente)
 
 **Dónde comprar:**
+
 - MercadoLibre (camilla masaje - comparar precios)
 - Casa Central Médica (Mcal. López) - TENS, ultrasonido
 - Amazon/Alibaba (si importando, agregar 4-6 semanas envío)
 
 **Opción financiamiento (si ahorros menores de lo esperado):**
+
 - Usar tarjeta crédito (cuotas 0% comunes en Paraguay)
 - Distribuir compra Gs. 10M durante 6-12 meses
 - Pagar con primeros 2-3 meses ingresos profesionales
@@ -524,6 +567,7 @@ Mikie
 - [ ] Reducir estrés, recargar para lanzamiento
 
 **Objetivo Financiero Mes 12:**
+
 - Ingresos: Gs. 600K-1M (sesiones reducidas por exámenes)
 - Ahorros: Gs. 14-16M acumulativo
 - Gasto: Gs. 8-12M (compra equipo)
@@ -550,7 +594,7 @@ Enviar broadcast WhatsApp:
 ```
 🎉 ¡NOTICIA IMPORTANTE! 🎉
 
-¡Ya recibí mi licencia profesional del MSPBS! Oficialmente soy 
+¡Ya recibí mi licencia profesional del MSPBS! Oficialmente soy
 fisioterapeuta matriculado.
 
 A partir de hoy ofrezco:
@@ -570,6 +614,7 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 ```
 
 **Respuesta esperada:**
+
 - 60% reservan (18-30 clientes)
 - 30% dicen "tal vez después"
 - 10% desaparecen (esperado)
@@ -579,17 +624,20 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 #### **Paso 2: Actualizar Todos Materiales Marketing**
 
 **Google Business:**
+
 - [ ] Agregar número licencia a perfil
 - [ ] Cambiar estado a "Fisioterapeuta Licenciado"
 - [ ] Actualizar precios (Gs. 180-200K para clientes nuevos)
 - [ ] Agregar nuevos servicios (fisio profesional, no solo masaje)
 
 **Instagram:**
+
 - [ ] Publicar anuncio licencia oficial
 - [ ] Compartir fotos graduación
 - [ ] Contenido educativo (prevención lesiones, consejos rehab)
 
 **WhatsApp Business:**
+
 - [ ] Actualizar catálogo servicios con nuevos precios
 - [ ] Agregar credenciales profesionales a bio
 
@@ -599,15 +647,16 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 
 **Diferencia de masaje estudiante:**
 
-| Masaje Estudiante | Fisioterapia Profesional |
-|-------------------|--------------------------|
-| 1 hora relajación | 45-60 min tratamiento (evaluación + terapia) |
-| Solo masaje | Evaluación + terapia manual + electroterapia + ejercicios |
-| Admisión informal | Formulario admisión formal, historia salud |
-| Pago efectivo | Efectivo O digital (Tigo Money, Giros Tigo) |
-| Sin notas clínicas | Documentar cada sesión (requisito legal) |
+| Masaje Estudiante  | Fisioterapia Profesional                                  |
+| ------------------ | --------------------------------------------------------- |
+| 1 hora relajación  | 45-60 min tratamiento (evaluación + terapia)              |
+| Solo masaje        | Evaluación + terapia manual + electroterapia + ejercicios |
+| Admisión informal  | Formulario admisión formal, historia salud                |
+| Pago efectivo      | Efectivo O digital (Tigo Money, Giros Tigo)               |
+| Sin notas clínicas | Documentar cada sesión (requisito legal)                  |
 
 **Estructura sesión (profesional):**
+
 1. **Admisión (5-10 min):** Historia salud, queja actual, objetivos
 2. **Evaluación (10-15 min):** Rango movimiento, fuerza, nivel dolor
 3. **Tratamiento (25-35 min):** Terapia manual, electroterapia, estiramientos
@@ -625,27 +674,32 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 #### **Canales Marketing (Orden Prioridad):**
 
 **1. Referencias de clientes existentes (ROI MÁS ALTO)**
+
 - Ofrecer: "Referí un amigo, ambos consiguen Gs. 30K off próxima sesión"
 - Esperado: 5-10 clientes nuevos de 30 existentes
 
 **2. Perfil Negocio Google**
+
 - Optimizar para búsqueda local: "fisioterapeuta Asunción"
 - Conseguir 5-10 más reseñas 5 estrellas
 - Publicar actualizaciones semanales (antes/después, consejos)
 
 **3. Asociaciones gimnasios**
+
 - Contactar 3-5 gimnasios en tu área
 - Ofrecer: "Voy a dar evaluaciones lesiones gratis a tus miembros 1x/semana"
 - Ellos refieren miembros lesionados a vos
 - Esperado: 3-8 clientes nuevos/mes de gimnasios
 
 **4. Referencias doctores** (largo plazo)
+
 - Visitar 5-10 médicos generales, ortopedistas
 - Dejar tarjetas presentación
 - Presentarte como nuevo fisio en área
 - Esperado: 1-3 referencias/mes (inicio lento, construye con tiempo)
 
 **5. Instagram (suplementario)**
+
 - Publicar 3x/semana (contenido educativo)
 - Usar hashtags: #fisioterapiapy #asuncion #rehabilitacion
 - Interactuar con cuentas locales fitness/salud
@@ -657,14 +711,15 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 
 **Escenario realista:**
 
-| Fuente Cliente | # Clientes | Prom Sesiones | Precio | Ingresos |
-|----------------|-----------|---------------|--------|----------|
-| **Existentes (tasa fundador)** | 20 | 2 sesiones c/u | Gs. 120K | Gs. 4.8M |
-| **Nuevos (referencias)** | 8 | 1 sesión c/u | Gs. 180K | Gs. 1.44M |
-| **Nuevos (Google/walk-in)** | 5 | 1 sesión c/u | Gs. 180K | Gs. 900K |
-| **TOTAL** | 33 | 73 sesiones | Mixto | **Gs. 7.14M** |
+| Fuente Cliente                 | # Clientes | Prom Sesiones  | Precio   | Ingresos      |
+| ------------------------------ | ---------- | -------------- | -------- | ------------- |
+| **Existentes (tasa fundador)** | 20         | 2 sesiones c/u | Gs. 120K | Gs. 4.8M      |
+| **Nuevos (referencias)**       | 8          | 1 sesión c/u   | Gs. 180K | Gs. 1.44M     |
+| **Nuevos (Google/walk-in)**    | 5          | 1 sesión c/u   | Gs. 180K | Gs. 900K      |
+| **TOTAL**                      | 33         | 73 sesiones    | Mixto    | **Gs. 7.14M** |
 
 **Gastos:**
+
 - Alquiler (si clínica compartida): Gs. 1.5-2M
 - Suministros (aceites, gel, sábanas): Gs. 200-300K
 - Marketing: Gs. 100-200K
@@ -690,6 +745,7 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 - [ ] ¡Celebrar! ¡Sos fisioterapeuta profesional! 🎉
 
 **Objetivo Financiero Mes 13:**
+
 - Ingresos: Gs. 7-10M (tasas profesionales)
 - Gastos: Gs. 2-3M
 - Ganancia neta: Gs. 4-7M
@@ -704,12 +760,14 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 ### **Meses 14-15: Estabilizar y Optimizar**
 
 **Objetivos:**
+
 - Retener 80% clientes existentes (16-24 regulares)
 - Agregar 10-15 clientes nuevos
 - Llegar a 60-80 sesiones/mes
 - Ingresos: Gs. 10-12M/mes
 
 **Áreas foco:**
+
 - Retención clientes (servicio calidad, seguimientos)
 - Reseñas Google (llegar a 25-30 reseñas)
 - Asociaciones gimnasios (hacerlas productivas)
@@ -719,12 +777,14 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 ### **Meses 16-18: Escalar y Profesionalizar**
 
 **Objetivos:**
+
 - 40-50 clientes regulares
 - 80-100 sesiones/mes (cerca capacidad)
 - Ingresos: Gs. 12-15M/mes
 - Considerar contratar asistente o expandir espacio
 
 **Decisiones en Mes 18:**
+
 - ¿Necesitás espacio más grande? (consultorio solo)
 - ¿Necesitás ayuda? (recepcionista, asistente fisio)
 - ¿Querés especializarte? (rehab deportiva, geriátrica, etc.)
@@ -736,38 +796,45 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 **Recordá:** Tenés plan negocios completo en `archive/original-plan-mike-gonzalez/`
 
 **En Mes 18, revisar:**
+
 - `02-plan-negocio/01-estrategia-marketing.md` (playbook marketing completo)
 - `05-modelos-financieros/escenarios-financieros.md` (5 escenarios para crecimiento)
 - `02-plan-negocio/02-plan-operaciones.md` (sistemas, procesos)
 
 **Adaptar para tu situación:**
-- Cambiar "Mike González" a "Mikie Moyano" (en archivos españoles archivados si los usás)
-- Ajustar capital (vas a tener Gs. 30-40M ahorrados para entonces)
-- Actualizar pricing (basado en realidad mercado)
-- Ejecutar Escenario 1 (Práctica Solo) o Escenario 2 (Compartido) basado en qué funcionó
+
+- **Nombre:** Ya actualizado a "Mikie Moyano" en este plan.
+- **Capital:** Ajustar según tus ahorros reales en ese momento (Meta: Gs. 20M+).
+- **Pricing:** Validar precios de mercado 2027 (Referencia actual: Gs. 130-150K servicio domicilio).
+- **Ejecución:** Usar bases de datos de `06-DATOS/` para proveedores actualizados.
 
 ---
 
 ## ⚠️ ERRORES COMUNES PARA EVITAR
 
 ### **Error #1: Practicar sin licencia**
+
 **Tentación:** "Tengo mi título, puedo empezar tratar gente profesionalmente ahora"  
 **Realidad:** LICENCIA ≠ TÍTULO. Debe esperar matriculación MSPBS.  
 **Riesgo:** Cargos criminales, multas, daño carrera
 
 ### **Error #2: Shockear clientes con aumento precio 3x**
+
 **Malo:** "Hola, estoy licenciado ahora. Gs. 180K de ahora en más. ¿Te veo viernes?"  
 **Bueno:** Pre-anunciar en Mes 10, ofrecer pricing fundador, transición gradual
 
 ### **Error #3: Gastar todos ahorros en equipo**
+
 **Malo:** Comprar Gs. 20M en equipo, lanzar con Gs. 0 runway  
 **Bueno:** Mantener Gs. 5-8M como fondo emergencia (3-4 meses gastos)
 
 ### **Error #4: Dejar masaje estudiante demasiado temprano**
+
 **Malo:** "¡Me gradué! ¡No más sesiones masaje barato!"  
 **Realidad:** Licencia toma 4-8 semanas. Mantener ingresos fluyendo durante espera.
 
 ### **Error #5: No documentar sesiones**
+
 **Riesgo:** Si lesión cliente o queja, no tenés registros (responsabilidad legal)  
 **Arreglar:** Usar plantillas de `04-plantillas/` (notas clínicas, formularios consentimiento)
 
@@ -776,6 +843,7 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 ## 📋 CHECKLIST MAESTRO (¡Imprimir Esto!)
 
 ### **Mes 10 (3 meses antes graduación):**
+
 - [ ] Investigar requisitos licencia MSPBS
 - [ ] Empezar reunir documentos (título, cédula, antecedentes policiales)
 - [ ] Crear lista compras equipo (presupuesto Gs. 8-12M)
@@ -783,6 +851,7 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 - [ ] Continuar masaje (objetivo ingresos Gs. 1.5-2M)
 
 ### **Mes 11 (2 meses antes):**
+
 - [ ] Configurar Perfil Negocio Google (profesional)
 - [ ] Crear Instagram + WhatsApp Business
 - [ ] Imprimir 500 tarjetas presentación
@@ -791,6 +860,7 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 - [ ] Continuar masaje (objetivo Gs. 1.5-2M)
 
 ### **Mes 12 (1 mes antes):**
+
 - [ ] APROBAR EXÁMENES (¡prioridad #1!)
 - [ ] Graduarse 🎓
 - [ ] Enviar aplicación licencia MSPBS (misma semana graduación)
@@ -799,6 +869,7 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 - [ ] Pre-vender sesiones enero (tasa fundador Gs. 120K)
 
 ### **Mes 13 (¡LANZAMIENTO!):**
+
 - [ ] Recibir licencia de MSPBS
 - [ ] Actualizar todo marketing con número licencia
 - [ ] Anunciar a clientes existentes (broadcast WhatsApp)
@@ -810,12 +881,12 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 
 ## 💰 RESUMEN FINANCIERO (Meses 10-13)
 
-| Mes | Ingresos Masaje | Gastos | Ahorros Agregados | Ahorros Acumulativos |
-|-----|-----------------|--------|-------------------|----------------------|
-| **10** | Gs. 1.8M | Gs. 200K | Gs. 1.6M | Gs. 11-13M |
-| **11** | Gs. 1.8M | Gs. 500K | Gs. 1.3M | Gs. 12-14M |
-| **12** | Gs. 1M | Gs. 10M (equipo) | -Gs. 9M | Gs. 3-5M |
-| **13** | Gs. 7-10M | Gs. 2-3M | Gs. 5-7M | Gs. 8-12M |
+| Mes    | Ingresos Masaje | Gastos           | Ahorros Agregados | Ahorros Acumulativos |
+| ------ | --------------- | ---------------- | ----------------- | -------------------- |
+| **10** | Gs. 1.8M        | Gs. 200K         | Gs. 1.6M          | Gs. 11-13M           |
+| **11** | Gs. 1.8M        | Gs. 500K         | Gs. 1.3M          | Gs. 12-14M           |
+| **12** | Gs. 1M          | Gs. 10M (equipo) | -Gs. 9M           | Gs. 3-5M             |
+| **13** | Gs. 7-10M       | Gs. 2-3M         | Gs. 5-7M          | Gs. 8-12M            |
 
 **Perspectiva clave:** Mes 12 es flujo caja NEGATIVO (compra equipo), pero ingresos profesionales Mes 13+ lo compensan.
 
@@ -826,15 +897,18 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 ## 🔗 ARCHIVOS RELACIONADOS
 
 **Del plan negocios archivado** (usar después Mes 13):
+
 - `archive/original-plan-mike-gonzalez/02-plan-negocio/01-estrategia-marketing.md`
 - `archive/original-plan-mike-gonzalez/05-modelos-financieros/escenarios-financieros.md`
 
 **Archivos implementación actuales:**
+
 - `06-meses-1-12-plan-puente.md` (Meses 1-12 práctica estudiante)
 - `08-proyecciones-financieras-realistas.md` (Escenarios para ahorros 12 meses)
 - `00-EMPIEZA-AQUI.md` (Hoja ruta maestra)
 
 **Plantillas** (cuando estés licenciado):
+
 - `04-plantillas/` carpeta (formularios admisión, notas sesión, consentimiento)
 
 ---
@@ -865,11 +939,13 @@ Mikie - Fisioterapeuta Lic. Mat. [TU NÚMERO]
 **Lo tenés, Mikie. La transición de estudiante a profesional es desafiante, pero estás más preparado que el 95% de graduados nuevos.** 💪
 
 **La mayoría fisios nuevos lanzan con:**
+
 - ❌ Cero clientes
 - ❌ Cero ahorros
 - ❌ Sin sistemas negocios
 
 **Vos vas a lanzar con:**
+
 - ✅ 30-50 clientes existentes (¡tus amigos!)
 - ✅ Gs. 15-20M ahorrados
 - ✅ 12 meses experiencia práctica

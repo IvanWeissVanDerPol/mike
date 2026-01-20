@@ -235,6 +235,6 @@ Práctica de fisioterapia profesional que ofrece:
 
 **Contacto:**  
 Mikie Moyano Nakamura  
-Email: [Insertar]  
-Teléfono: [Insertar]  
+Email: [Tu email profesional]  
+Teléfono: +595 [Tu número]  
 Asunción, Paraguay

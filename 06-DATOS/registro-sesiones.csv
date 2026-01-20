@@ -1,0 +1,6 @@
+ID_Sesion,Fecha,ID_Cliente,Nombre_Cliente,Servicio,Duracion_Min,Precio_Gs,Pagado,Forma_Pago,Ubicacion,Notas_Sesion
+S001,2026-01-25,C001,Ana García,Masaje + Pistola,60,100000,Si,Efectivo,Domicilio cliente,Tensión espalda baja - muy satisfecha
+S002,2026-01-27,C002,Carlos Méndez,Masaje relajante,60,80000,Si,Transferencia,Mi domicilio,Primera sesión - cuello y hombros
+S003,2026-01-28,C001,Ana García,Masaje deportivo,60,100000,Si,Efectivo,Domicilio cliente,Post-entrenamiento - piernas
+S004,2026-02-01,C002,Carlos Méndez,Masaje + estiramientos,60,80000,No,Pendiente,Mi domicilio,Programado para pagar próxima sesión
+S005,2026-02-05,C003,María López,Masaje relajante,60,80000,Si,Efectivo,Mi domicilio,Solo quiso probar - no agendó más

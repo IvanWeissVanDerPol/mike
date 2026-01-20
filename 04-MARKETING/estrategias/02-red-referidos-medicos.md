@@ -209,7 +209,7 @@ ESTADO: Pendiente contacto
 │ - Duración estimada: X semanas             │
 │ - Técnicas: [Listar]                       │
 │                                             │
-│ Lic. Mike González - Mat. [XXXX]          │
+│ Lic. Mikie Moyano Nakamura - Mat. [XXXX]  │
 │ Consultorio: [Dirección]                   │
 │ Tel: +595 991 763400                       │
 └─────────────────────────────────────────────┘
@@ -262,7 +262,7 @@ TOTAL: Gs. 4,500,000
 Diseño especial "Para médicos":
 
 ┌─────────────────────────────────────┐
-│  Lic. Mike González                │
+│  Lic. Mikie Moyano Nakamura        │
 │  Kinesiólogo - Mat. Prof. [XXXX]   │
 │                                     │
 │  Consultorio Fisioterapia          │

@@ -2,7 +2,7 @@
 
 **Propósito:** Datos crudos y análisis de investigación de mercado  
 **Estado:** 70% completo - Base sólida para lanzamiento  
-**Última actualización:** 21 Enero 2026
+**Última actualización:** Enero 2026
 
 ---
 
@@ -36,11 +36,18 @@
 
 **Total:** 10 archivos organizados en 5 categorías
 
+**Navegación rápida:**
+- Financiero: [Tarifas AKYFPY](./financiero/tarifas-profesionales-akyfpy-2025.md) | [Equipamiento Seakit](./financiero/equipamiento-precios-seakit.md)
+- Mercado: [Competidores](./mercado/competidores-identificados.md) | [Demografía INE](./mercado/datos-demograficos-ine-2025.md) | [Nichos](./mercado/investigacion-nichos-resumen.md) | [Mystery Shopping](./mercado/mystery-shopping-script.md)
+- Legal: [DNIT 2025](./legal/datos-legales-dnit-2025.md)
+- Ubicaciones: [Propiedades](./ubicaciones/propiedades-alquiler-infocasas.md)
+- Recursos: [Links Útiles](./recursos/links-utiles.md)
+
 ---
 
 ## 💰 FINANCIERO
 
-### **tarifas-profesionales-akyfpy-2025.md**
+### **[tarifas-profesionales-akyfpy-2025.md](./financiero/tarifas-profesionales-akyfpy-2025.md)**
 - **Fuente:** Asociación de Kinesiólogos y Fisioterapeutas Paraguay
 - **Contenido:** Tarifas oficiales profesionales 2025
 - **Datos clave:**
@@ -49,7 +56,7 @@
   - Diferencias seguros vs particular
 - **Estado:** ✅ 100% completo
 
-### **equipamiento-precios-seakit.md**
+### **[equipamiento-precios-seakit.md](./financiero/equipamiento-precios-seakit.md)**
 - **Fuente:** Seakit Paraguay (web oficial)
 - **Contenido:** Cotizaciones 12 equipos fisioterapia
 - **Datos clave:**
@@ -62,13 +69,13 @@
 
 ## 📊 MERCADO
 
-### **competidores-identificados.md**
+### **[competidores-identificados.md](./mercado/competidores-identificados.md)**
 - **Contenido:** 9 competidores directos identificados
 - **Datos:** Ubicaciones, contactos, análisis preliminar
 - **Estado:** ⚠️ 40% completo
 - **Faltante:** Mystery shopping (CRÍTICO)
 
-### **datos-demograficos-ine-2025.md**
+### **[datos-demograficos-ine-2025.md](./mercado/datos-demograficos-ine-2025.md)**
 - **Fuente:** Instituto Nacional de Estadística (INE)
 - **Datos clave:**
   - Población Asunción: 464,185 habitantes

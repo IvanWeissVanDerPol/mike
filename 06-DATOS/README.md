@@ -9,7 +9,14 @@ Esta carpeta contiene enlaces a todas las hojas de cálculo de datos utilizadas 
 ### **1. Rastreador de Clientes y Sesiones**
 **Propósito:** Rastrear todos los clientes, sesiones, pagos y referencias
 
-**Enlace:** [Insertar enlace Google Sheets aquí]
+**Archivos CSV listos para usar:**
+- [`tracking-clientes-sesiones.csv`](./tracking-clientes-sesiones.csv) - Lista maestra de clientes
+- [`registro-sesiones.csv`](./registro-sesiones.csv) - Registro de cada sesión
+- [`finanzas-mensuales.csv`](./finanzas-mensuales.csv) - Resumen financiero semanal
+
+**📖 Guía completa:** [`GUIA-USO-SPREADSHEETS.md`](./GUIA-USO-SPREADSHEETS.md)
+
+**Enlace a tu Google Sheets:** [Crear tu copia aquí - importar CSV](https://sheets.google.com)
 
 **Hojas incluidas:**
 - Lista Maestra de Clientes

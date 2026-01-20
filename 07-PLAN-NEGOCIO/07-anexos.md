@@ -142,8 +142,8 @@ Estructura recomendada:
 **Para solicitar documentos adicionales o aclaraciones:**
 
 **Mikie Moyano Nakamura**  
-Email: [Insertar email]  
-Teléfono: [Insertar teléfono]  
+Email: [Tu email profesional]  
+Teléfono: +595 [Tu número]  
 Ubicación: Asunción, Paraguay
 
 ---

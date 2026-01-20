@@ -34,6 +34,15 @@ Este plan de negocio documenta la estrategia completa para lanzar y operar una p
 └── 07-anexos.md                     # Documentos de soporte
 ```
 
+**Navegación rápida:**
+- [01 - Resumen Ejecutivo](./01-resumen-ejecutivo.md)
+- [02 - Descripción Empresa](./02-descripcion-empresa.md)
+- [03 - Análisis Mercado](./03-analisis-mercado.md)
+- [04 - Plan Operaciones](./04-plan-operaciones.md)
+- [05 - Estrategia Marketing](./05-estrategia-marketing.md)
+- [06 - Plan Financiero](./06-plan-financiero.md)
+- [07 - Anexos](./07-anexos.md)
+
 ---
 
 ## 📖 Cómo Usar Este Plan
@@ -184,8 +193,8 @@ Este plan de negocio documenta la estrategia completa para lanzar y operar una p
 ## 📞 Contacto
 
 **Propietario:** Mikie Moyano Nakamura  
-**Email:** [Insertar email]  
-**Teléfono:** [Insertar teléfono]  
+**Email:** [Tu email profesional]  
+**Teléfono:** +595 [Tu número]  
 **Ubicación:** Asunción, Paraguay
 
 **Estado Actual:**

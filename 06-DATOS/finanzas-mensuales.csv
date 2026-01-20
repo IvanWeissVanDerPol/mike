@@ -1,0 +1,7 @@
+Mes,Semana,Fecha_Inicio,Fecha_Fin,Sesiones_Realizadas,Ingreso_Bruto_Gs,Gastos_Suministros_Gs,Gastos_Transporte_Gs,Otros_Gastos_Gs,Ingreso_Neto_Gs,Ahorros_Acumulados_Gs,Notas
+1,1,2026-01-20,2026-01-26,3,240000,450000,50000,0,-260000,-260000,Inversión inicial en suministros
+1,2,2026-01-27,2026-02-02,4,320000,20000,40000,0,260000,0,Primera semana positiva
+1,3,2026-02-03,2026-02-09,5,400000,30000,50000,0,320000,320000,Buen crecimiento
+1,4,2026-02-10,2026-02-16,4,320000,25000,40000,0,255000,575000,Estable
+2,1,2026-02-17,2026-02-23,6,520000,40000,60000,0,420000,995000,Mes 2 comienza fuerte
+2,2,2026-02-24,2026-03-02,5,430000,30000,50000,0,350000,1345000,Consolidando

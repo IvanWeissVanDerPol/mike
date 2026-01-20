@@ -74,15 +74,35 @@ mike/
 ├── 06-DATOS/                           # Datos y hojas cálculo
 │   └── README.md                       # Enlaces Google Sheets
 │
-└── 07-PLAN-NEGOCIO/                    # Plan de negocio formal
-    ├── README.md                       # Índice plan negocio
-    ├── 01-resumen-ejecutivo.md         # Resumen 2 páginas
-    ├── 02-descripcion-empresa.md       # Misión, visión, valores
-    ├── 03-analisis-mercado.md          # Análisis mercado
-    ├── 04-plan-operaciones.md          # Operaciones diarias
-    ├── 05-estrategia-marketing.md      # Marketing y ventas
-    ├── 06-plan-financiero.md           # Proyecciones financieras
-    └── 07-anexos.md                    # Documentos soporte
+├── 07-PLAN-NEGOCIO/                    # Plan de negocio formal
+│   ├── README.md                       # Índice plan negocio
+│   ├── 01-resumen-ejecutivo.md         # Resumen 2 páginas
+│   ├── 02-descripcion-empresa.md       # Misión, visión, valores
+│   ├── 03-analisis-mercado.md          # Análisis mercado
+│   ├── 04-plan-operaciones.md          # Operaciones diarias
+│   ├── 05-estrategia-marketing.md      # Marketing y ventas
+│   ├── 06-plan-financiero.md           # Proyecciones financieras
+│   └── 07-anexos.md                    # Documentos soporte
+│
+├── 08-LEGAL-BRANDING/ 🆕              # Legal y branding (v4.3)
+│   ├── README.md                       # Índice legal y branding
+│   ├── legal/                          # Documentos legales
+│   │   ├── contrato-servicio-masaje.md
+│   │   ├── declaracion-responsabilidad-estudiante.md
+│   │   ├── politica-privacidad-ley-1682.md
+│   │   └── requisitos-seguro-rc.md
+│   └── branding/                       # Identidad visual
+│       ├── guia-identidad-visual.md
+│       ├── firma-email-profesional.md
+│       └── templates-redes-sociales.md
+│
+└── 09-SCRIPTS-COMUNICACION/ 🆕        # Scripts comunicación (v4.4)
+    ├── README.md                       # Índice scripts
+    ├── whatsapp-templates.md           # Templates WhatsApp copy-paste
+    ├── phone-scripts.md                # Guiones telefónicos
+    ├── friend-outreach.md              # Mensajes círculo cercano
+    ├── post-session-followup.md        # Comunicación post-sesión
+    └── emergency-protocols.md          # Protocolos cancelaciones/emergencias
 ```
 
 ---
@@ -191,6 +211,6 @@ No redistribuir sin permiso.
 
 ---
 
-**Última Actualización:** Enero 21, 2026  
-**Versión:** 4.1 (Plan de Negocio Completo)  
+**Última Actualización:** Enero 2026  
+**Versión:** 4.4 (Scripts Comunicación Agregados)  
 **Estado:** Listo para ejecución + Presentación a bancos ✅

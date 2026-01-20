@@ -10,6 +10,7 @@
 ## GIMNASIOS GRANDES (CADENAS)
 
 ### 1. SMART FIT PARAGUAY ⭐⭐⭐⭐⭐
+
 ```
 Tipo: Cadena internacional
 Sedes en Asunción: 10+ sedes
@@ -57,6 +58,7 @@ PRIORIDAD: 🔴 ALTA
 ---
 
 ### 2. EXEN GYM ⭐⭐⭐⭐
+
 ```
 Tipo: Cadena local (CrossFit/Funcional)
 Sedes en Asunción: 5 sedes
@@ -102,6 +104,7 @@ PRIORIDAD: 🔴 ALTA
 ---
 
 ### 3. GOLDEN GYM PARAGUAY ⭐⭐⭐
+
 ```
 Tipo: Franquicia internacional (musculación)
 Sedes: 2-3 en Asunción
@@ -128,6 +131,7 @@ PRIORIDAD: 🟡 MEDIA
 ---
 
 ### 4. CATAPUMBA FIT ⭐⭐⭐
+
 ```
 Tipo: Gym local nuevo
 Ubicación: Villa Aurelia/zona (verificar exacta)
@@ -154,6 +158,7 @@ PRIORIDAD: 🔴 ALTA (por ubicación + apertura)
 ## GIMNASIOS MEDIANOS/BOUTIQUE
 
 ### 5. STUDIOS PILATES (VARIOS) ⭐⭐⭐⭐
+
 ```
 Tipo: Estudios Pilates boutique
 Ejemplos:
@@ -184,6 +189,7 @@ PRIORIDAD: 🔴 ALTA (muy buen fit)
 ---
 
 ### 6. BOX CROSSFIT INDEPENDIENTES ⭐⭐⭐
+
 ```
 Tipo: Boxes CrossFit pequeños
 Estimados: 10-15 en Asunción
@@ -206,6 +212,7 @@ PRIORIDAD: 🟡 MEDIA-ALTA
 ## CLUBES DEPORTIVOS
 
 ### 7. CLUB LIBERTAD ⭐⭐⭐
+
 ```
 Tipo: Club deportivo tradicional
 Ubicación: Barrio Obrero, Asunción
@@ -227,6 +234,7 @@ PRIORIDAD: 🟢 BAJA-MEDIA
 ---
 
 ### 8. CLUB OLIMPIA ⭐⭐⭐
+
 ```
 Similar a Libertad
 Verificar si tienen fisio institucional
@@ -237,6 +245,7 @@ Verificar si tienen fisio institucional
 ## GIMNASIOS FUNCIONALES PEQUEÑOS
 
 ### 9-15. GIMNASIOS BARRIALES
+
 ```
 Ejemplos:
 - Functional Fit Villa Aurelia
@@ -257,6 +266,7 @@ PRIORIDAD: 🟡 MEDIA (volumen bajo individual, pero suma)
 ## MODELO DE CONVENIO SUGERIDO
 
 ### OPCIÓN A: Descuento directo
+
 ```
 Beneficio para miembros gym:
 - 15% descuento en evaluación inicial
@@ -269,6 +279,7 @@ Beneficio para gym:
 ```
 
 ### OPCIÓN B: Comisión por referido
+
 ```
 Gym recibe:
 - Gs. 20,000-30,000 por cada paciente referido
@@ -280,6 +291,7 @@ Fisio:
 ```
 
 ### OPCIÓN C: Charlas/Talleres gratuitos
+
 ```
 Mike ofrece:
 - Charla mensual "Prevención lesiones" (30-45 min)
@@ -297,12 +309,14 @@ Gym ofrece:
 ## MATERIALES NECESARIOS
 
 ### Para dejar en gimnasios:
+
 - [ ] Flyers A5 (500 unidades) - Gs. 200,000
 - [ ] Tarjetas personales (1,000 unidades) - Gs. 150,000
 - [ ] Posters A3 (20 unidades) - Gs. 100,000
 - [ ] Formulario "Evaluación postural gratis" - Digital
 
 ### Contenido flyer:
+
 ```
 ┌─────────────────────────────────────┐
 │  ¿DOLOR POST-ENTRENAMIENTO?        │
@@ -316,7 +330,7 @@ Gym ofrece:
 │  📞 +595 991 763400                 │
 │  📧 [email]                         │
 │                                     │
-│  Lic. Mike González - Kinesiólogo  │
+│  Lic. MikieMoyano- Kinesiólogo   │
 └─────────────────────────────────────┘
 ```
 
@@ -325,23 +339,27 @@ Gym ofrece:
 ## CRONOGRAMA DE ACERCAMIENTO
 
 ### SEMANA 1-2 (Preparación):
+
 - [ ] Diseñar materiales promocionales
 - [ ] Imprimir flyers y tarjetas
 - [ ] Preparar script de presentación
 - [ ] Investigar contactos directos
 
 ### SEMANA 3-4 (Acercamiento inicial):
+
 - [ ] Visitar Smart Fit (2-3 sedes)
 - [ ] Visitar Exen Gym
 - [ ] Contactar Catapumba Fit
 - [ ] Visitar 5 estudios Pilates
 
 ### MES 2 (Expansión):
+
 - [ ] Visitar boxes CrossFit (5-10)
 - [ ] Mapear gyms barriales zona
 - [ ] Seguimiento primeros contactos
 
 ### MES 3 (Consolidación):
+
 - [ ] Formalizar 3-5 convenios
 - [ ] Dar primera charla gratuita
 - [ ] Medir resultados primeros referidos
@@ -351,12 +369,14 @@ Gym ofrece:
 ## MÉTRICAS DE ÉXITO
 
 ### KPIs a trackear:
+
 - **Convenios firmados:** Meta 5-8 gyms primer trimestre
 - **Pacientes referidos:** Meta 10-15/mes desde mes 2
 - **Tasa conversión:** > 50% de referidos → pacientes
 - **CAC (Costo Adquisición Cliente):** < Gs. 50,000/paciente
 
 ### ROI esperado:
+
 ```
 Inversión materiales: Gs. 450,000
 Tiempo inversión: 20 horas
@@ -373,12 +393,14 @@ ROI: 3,000% (retorno 30x la inversión)
 ## PRÓXIMOS PASOS
 
 ### URGENTE (próximas 2 semanas):
+
 1. [ ] Mapear ubicación exacta 10-15 gyms cercanos a consultorio Mike
 2. [ ] Obtener contactos directos (gerentes/dueños)
 3. [ ] Diseñar material promocional
 4. [ ] Preparar propuesta de convenio formal
 
 ### MEDIO PLAZO (mes 1-2):
+
 5. [ ] Ejecutar visitas presenciales
 6. [ ] Enviar propuestas formales
 7. [ ] Negociar términos convenios
@@ -389,15 +411,18 @@ ROI: 3,000% (retorno 30x la inversión)
 ## FUENTES Y LINKS ÚTILES
 
 ### Búsqueda de gimnasios:
+
 - **Google Maps:** https://maps.google.com/?q=gimnasios+asuncion+paraguay
 - **Búsqueda CrossFit:** https://maps.google.com/?q=crossfit+asuncion
 - **Búsqueda Pilates:** https://maps.google.com/?q=pilates+asuncion
 
 ### Gimnasios cadena (links directos):
+
 - **Smart Fit Paraguay:** https://www.smartfit.com.py
 - **Golden Gym (buscar):** https://www.google.com/search?q=Golden+Gym+Paraguay
 
 ### Redes sociales para investigar:
+
 - **Instagram:** Buscar hashtags:
   - #gimnasiosasuncion
   - #fitnesspy
@@ -408,18 +433,22 @@ ROI: 3,000% (retorno 30x la inversión)
   - "CrossFit Asunción"
 
 ### Directorios útiles:
+
 - **GuíaSalud Paraguay:** https://www.guiasalud.com.py (categoría gimnasios)
 - **Páginas Amarillas:** https://www.paginasamarillas.com.py
 
 ### Herramientas de análisis:
+
 - **Google Reviews:** Verificar reputación cada gym
 - **Waze:** Analizar ubicación/acceso gym
 
 ### Para preparar materiales:
+
 - **Canva (diseño flyers):** https://www.canva.com
 - **Imprenta online:** Buscar locales Asunción
 
 ### Asociaciones deportivas:
+
 - **Federación Paraguaya Gimnasia:** (verificar existencia)
 - **Asociaciones CrossFit Paraguay:** Buscar en redes
 

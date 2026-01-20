@@ -1,0 +1,4 @@
+ID_Cliente,Nombre_Cliente,Telefono,Email,Fuente,Fecha_Primera_Sesion,Total_Sesiones,Estado,Nivel_Precio,Notas
+C001,Ana García,0981-123456,ana@email.com,Amigo directo,2026-01-25,5,Activo,1,Cliente VIP - paga 100K
+C002,Carlos Méndez,0985-789012,carlos@email.com,Referido por Ana,2026-02-01,2,Activo,2,Precio estándar 80K
+C003,María López,0991-456789,maria@email.com,Amigo gimnasio,2026-02-05,1,Inactivo,2,Solo probó una vez

@@ -28,7 +28,7 @@ Mike, durante las últimas semanas hemos construido un **plan de negocio complet
 2. **Análisis Competitivo** (18 pág) - 9 competidores analizados, tu posicionamiento definido
 3. **Playbook Marketing 90 Días** (28 pág) - Plan semana por semana, scripts listos, 4 canales validados
 4. **Manual de Operaciones** (18 pág) - Procedimientos día a día desde apertura hasta cierre
-5. **Estrategia de Pricing** (15 pág) - Precios recomendados Gs. 150-160K/sesión, benchmark competitivo
+5. **Estrategia de Pricing** (15 pág) - Precio recomendado Gs. 170K/sesión, benchmark competitivo
 6. **Modelo de Negocio** (17 pág) - Canvas completo, segmentos de clientes, propuesta de valor
 7. **Plan Financiero Template** (20 pág) - Listo para personalizar con este cuestionario
 
