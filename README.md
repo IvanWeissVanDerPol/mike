@@ -1,147 +1,226 @@
-# Mikie Moyano Nakamura - Student Massage Practice
+# Mikie Moyano Nakamura - Plan Negocio Fisioterapia
 
-**Client:** Mikie Moyano Nakamura  
-**Status:** Final-year physiotherapy student (graduates January 2027)  
-**Plan:** Informal massage practice → Save Gs. 15-20M → Launch as licensed PT
-
----
-
-## 🚀 Quick Start
-
-**If you're Mikie:**
-
-1. Open [`implementation/START-HERE.md`](implementation/START-HERE.md)
-2. Follow the 3-day launch plan
-3. Start earning Gs. 1-2M/month while studying
-
-**Total time to first session:** 3 days  
-**Total time to Gs. 1M/month:** 2-3 months  
-**Total time to professional launch:** 13 months
+**Cliente:** Mikie Moyano Nakamura  
+**Estado:** Estudiante último año fisioterapia (se gradúa Enero 2027)  
+**Plan:** Práctica masaje informal → Ahorrar Gs. 15-20M → Lanzar como fisio licenciado
 
 ---
 
-## 📂 Repository Structure
+## 🚀 Inicio Rápido
+
+**Si sos Mikie:**
+
+1. Abrí [`01-EMPIEZA-AQUI/README.md`](01-EMPIEZA-AQUI/README.md)
+2. Seguí el plan lanzamiento 7 días
+3. Empezar a ganar Gs. 1-2M/mes mientras estudiás
+
+**Tiempo total hasta primera sesión:** 3 días  
+**Tiempo total hasta Gs. 1M/mes:** 2-3 meses  
+**Tiempo total hasta lanzamiento profesional:** 13 meses
+
+---
+
+## 📂 Estructura del Repositorio
 
 ```
 mike/
-├── README.md                           # This file
+├── README.md                           # Este archivo
 │
-├── implementation/                     # 5 core files
-│   ├── START-HERE.md                  # Overview + quick start
-│   ├── MONTH-1-LAUNCH.md              # Days 1-28 complete guide
-│   ├── MONTHS-1-12-STUDENT-PLAN.md    # Full year bridge plan
-│   ├── MONTHS-10-13-LICENSE-TRANSITION.md  # Professional transition
-│   └── FINANCIAL-PROJECTIONS.md       # 3 scenarios + probabilities
+├── 01-EMPIEZA-AQUI/ ⭐                # EMPEZAR ACÁ
+│   ├── README.md                       # Navegación y vista general
+│   ├── INICIO-RAPIDO.md               # Plan lanzamiento 7 días
+│   └── GESTION-RIESGOS.md             # Gestión riesgos y mitigación
 │
-├── market-research/                    # Competitive analysis, pricing
-├── docs/
-│   └── CHANGELOG.md                   # Version history
+├── 02-IMPLEMENTACION/                  # 4 archivos principales
+│   ├── MES-1-LANZAMIENTO.md           # Guía completa Días 1-28
+│   ├── MESES-1-12-PLAN.md             # Plan año completo puente
+│   ├── MESES-10-13-LICENCIA.md        # Transición profesional
+│   └── PROYECCIONES-FINANCIERAS.md    # 3 escenarios + probabilidades
 │
-└── Other assets (templates, marketing, CSVs)
+├── 03-INVESTIGACION/                   # Análisis competitivo, precios
+│   ├── competidores-identificados.md
+│   ├── datos-demograficos-ine-2025.md
+│   ├── datos-legales-dnit-2025.md
+│   ├── precios-mercado.md
+│   └── oportunidades-nicho.md
+│
+├── 04-MARKETING/                       # Estrategias y diseño
+│   ├── estrategias/
+│   │   ├── asociaciones-gimnasios.md
+│   │   ├── referencias-doctores.md
+│   │   └── marketing-boca-en-boca.md
+│   └── diseno/
+│       ├── prompts-logo.md
+│       ├── prompts-flyers.md
+│       └── prompts-redes-sociales.md
+│
+├── 05-PLANTILLAS/                      # Plantillas clínicas
+│   ├── historia-clinica-outline.md
+│   └── plantillas-prioritarias.md
+│
+├── 06-DATOS/                           # Google Sheets (enlaces)
+│   └── README.md
+│
+└── 07-DOCUMENTACION/                   # Historial cambios
+    ├── CHANGELOG.md
+    └── IMPROVEMENTS-V3.1.md
 ```
 
 ---
 
-## 🎯 What This Plan Covers
+## 🎯 Qué Cubre Este Plan
 
-### **NOW (Months 1-12 - While Studying)**
+### **AHORA (Meses 1-12 - Mientras Estudiás)**
 
-**Track:** Informal wellness massage practice
+**Vía:** Práctica masaje bienestar informal
 
-- **Legal:** Disclosed unlicensed student status
-- **Earn:** Gs. 1-2M/month
-- **Save:** Gs. 15-20M for post-license launch
-- **Build:** 250-320 sessions of hands-on experience
-- **Pricing:** Gs. 60-100K (friend rates)
-- **Marketing:** Word-of-mouth only (no public advertising)
+- **Legal:** Estado estudiante sin licencia divulgado
+- **Ganar:** Gs. 1-2M/mes
+- **Ahorrar:** Gs. 15-20M para lanzamiento post-licencia
+- **Construir:** 250-320 sesiones experiencia práctica
+- **Pricing:** Gs. 60-100K (tasas amigos)
+- **Marketing:** Solo boca a boca (sin publicidad pública)
 
-### **LATER (Month 13+ - After License)**
+### **DESPUÉS (Mes 13+ - Después Licencia)**
 
-**Track:** Professional physiotherapy practice
+**Vía:** Práctica fisioterapia profesional
 
-- **Requires:** University degree + MSPBS professional license
-- **Launch:** With Gs. 25-30M saved capital
-- **Earn:** Gs. 10-14M/month (professional rates)
-- **Pricing:** Gs. 170-200K (market rates)
-- **Marketing:** Full marketing (Instagram, ads, website)
+- **Requiere:** Título universitario + licencia profesional MSPBS
+- **Lanzar:** Con Gs. 25-30M capital ahorrado
+- **Ganar:** Gs. 10-14M/mes (tasas profesionales)
+- **Pricing:** Gs. 170-200K (tasas mercado)
+- **Marketing:** Marketing completo (Instagram, anuncios, sitio web)
 
 ---
 
-## 📊 Expected Outcomes
+## 📊 Resultados Esperados
 
-**After 12 months (pre-license):**
-- ✅ 250-320 sessions completed
-- ✅ Gs. 18-28M total earned
-- ✅ Gs. 15-23M SAVED (enough for professional launch)
-- ✅ 40-60 client relationships built
-- ✅ Ready to launch as TOP 1% of new PTs in Paraguay
+**Después 12 meses (pre-licencia):**
+- ✅ 250-320 sesiones completadas
+- ✅ Gs. 18-28M totales ganados
+- ✅ Gs. 15-23M AHORRADOS (suficiente para lanzamiento profesional)
+- ✅ 40-60 relaciones clientes construidas
+- ✅ Listo para lanzar como TOP 1% nuevos fisios en Paraguay
 
-**Why top 1%?** Most new PTs launch with:
+**Por qué top 1%?** La mayoría fisios nuevos lanzan con:
 - ❌ Gs. 0 capital
-- ❌ Zero professional experience
-- ❌ No existing clients
+- ❌ Cero experiencia profesional
+- ❌ Sin clientes existentes
 
-**You'll launch with:**
-- ✅ Gs. 25M+ capital (saved)
-- ✅ 12 months hands-on experience
-- ✅ 40-60 existing clients
-- ✅ Proven track record
-
----
-
-## ⚠️ Legal Disclaimer
-
-**CRITICAL:** This plan involves wellness massage for friends/family only.
-
-**You CAN:**
-- ✅ Wellness massage for friends (disclosed student status)
-- ✅ Practice techniques learned in school
-- ✅ Charge for time and materials
-
-**You CANNOT:**
-- ❌ Independent physiotherapy practice without license
-- ❌ Advertise publicly (Instagram ads, flyers)
-- ❌ Claim to treat medical conditions
-
-**Always disclose:**  
-> "I'm a final-year student (graduate Jan 2027). This is wellness massage, not medical treatment."
+**Vos vas a lanzar con:**
+- ✅ Gs. 25M+ capital (ahorrado)
+- ✅ 12 meses experiencia práctica
+- ✅ 40-60 clientes existentes
+- ✅ Track record probado
 
 ---
 
-## 📈 Repository Quality
+## ⚠️ Aviso Legal
 
-| Metric | Value |
-|--------|-------|
-| **Version** | 3.0 (Cleanup & Simplification) |
-| **Files** | 5 implementation files (was 9) |
-| **Quality** | 8/10 (clean, functional) |
-| **Status** | Ready to execute ✅ |
+**CRÍTICO:** Este plan involucra masaje bienestar solo para amigos/familia.
+
+**Podés HACER:**
+- ✅ Masaje bienestar para amigos (estado estudiante divulgado)
+- ✅ Practicar técnicas aprendidas en escuela
+- ✅ Cobrar por tiempo y materiales
+
+**NO Podés HACER:**
+- ❌ Práctica fisioterapia independiente sin licencia
+- ❌ Publicitar públicamente (anuncios Instagram, volantes)
+- ❌ Reclamar tratar condiciones médicas
+
+**Siempre divulgar:**  
+> "Estoy en último año estudiante (me gradúo Ene 2027). Esto es masaje bienestar, no tratamiento médico."
 
 ---
 
-## 🔄 Version History
+## 📈 Calidad del Repositorio
 
-- **v1.0** (Jan 2026) - Original plan for "Mike González" (wrong person)
-- **v2.0** (Jan 20, 2026) - Corrected for Mikie Moyano Nakamura
-- **v2.1** (Jan 20, 2026) - Post-QA fixes (identity, file count, quality claims)
-- **v3.0** (Jan 21, 2026) - Cleanup (deleted archive, consolidated files, removed bloat)
+| Métrica | Valor |
+|---------|-------|
+| **Versión** | 4.0 (Reorganización Española) |
+| **Archivos** | Estructura numerada 7 carpetas |
+| **Calidad** | 8/10 (limpio, funcional) |
+| **Estado** | Listo para ejecutar ✅ |
 
 ---
 
-## 🚀 Ready to Start?
+## 🔄 Historial de Versiones
 
-👉 **Click here:** [`implementation/START-HERE.md`](implementation/START-HERE.md)
+- **v1.0** (Ene 2026) - Plan original para "Mike González" (persona equivocada)
+- **v2.0** (Ene 20, 2026) - Corregido para Mikie Moyano Nakamura
+- **v2.1** (Ene 20, 2026) - Correcciones post-QA (identidad, conteo archivos, reclamos calidad)
+- **v3.0** (Ene 21, 2026) - Limpieza (eliminado archive, consolidados archivos, removido bloat)
+- **v3.1** (Ene 21, 2026) - Seguridad crítica (agregado INICIO-RAPIDO, GESTION-RIESGOS)
+- **v4.0** (Ene 21, 2026) - **Reorganización Española completa** (100% español, estructura numerada)
+
+---
+
+## 🌟 Qué Hay de Nuevo en v4.0
+
+### **Cambios Mayores:**
+
+**1. 100% Español (Paraguayo)**
+- Todos archivos traducidos al español
+- Uso de voseo (vos, no tú)
+- Guaraníes (Gs.) para moneda
+- Sin mezcla inglés/español
+
+**2. Estructura Numerada**
+```
+01-EMPIEZA-AQUI/     ⭐ Punto inicio
+02-IMPLEMENTACION/    📋 4 archivos principales
+03-INVESTIGACION/     🔍 Análisis mercado
+04-MARKETING/         📢 Estrategias
+05-PLANTILLAS/        📄 Formularios clínicos
+06-DATOS/             📊 Google Sheets
+07-DOCUMENTACION/     📚 Historial cambios
+```
+
+**3. Navegación Clara**
+- Cada carpeta tiene README.md propio
+- Archivos priorizados (lo que importa primero)
+- Enlaces internos actualizados
+
+**4. Limpieza Repositorio**
+- Eliminadas carpetas obsoletas (implementation/, docs/, market-research/)
+- Sin archivos duplicados
+- Sin mezcla español/inglés
+- Raíz limpia (solo README, LICENSE, 7 carpetas numeradas)
+
+---
+
+## 🚀 ¿Listo para Empezar?
+
+👉 **Hacé clic acá:** [`01-EMPIEZA-AQUI/README.md`](01-EMPIEZA-AQUI/README.md)
 
 **Timeline:**
-- Days 1-3: Shopping, setup, first session
-- Week 1: 3-4 sessions, Gs. 180-240K
-- Month 1: 12-16 sessions, Gs. 800K-1.2M
-- Month 12: Gs. 15-20M saved, launch as licensed PT
+- Días 1-3: Compras, configuración, primera sesión
+- Semana 1: 3-4 sesiones, Gs. 180-240K
+- Mes 1: 12-16 sesiones, Gs. 800K-1.2M
+- Mes 12: Gs. 15-20M ahorrados, lanzar como fisio licenciado
 
-**Let's build your practice. 💪**
+**Vamos a construir tu práctica. 💪**
 
 ---
 
-**Last Updated:** January 21, 2026  
-**Version:** 3.0 (Cleanup Complete)  
-**Status:** Ready for execution ✅
+## 📞 Información Contacto
+
+**Repositorio:** https://github.com/IvanWeissVanDerPol/mike  
+**Cliente:** Mikie Moyano Nakamura  
+**Pronombres:** Él/he (hombre transgénero AFAB)  
+**Ubicación:** Paraguay  
+**Estado:** Estudiante último año fisioterapia
+
+---
+
+## 📄 Licencia
+
+Este plan negocio es propiedad privada de Mikie Moyano Nakamura.  
+No redistribuir sin permiso.
+
+---
+
+**Última Actualización:** Enero 21, 2026  
+**Versión:** 4.0 (Reorganización Española Completa)  
+**Estado:** Listo para ejecución ✅

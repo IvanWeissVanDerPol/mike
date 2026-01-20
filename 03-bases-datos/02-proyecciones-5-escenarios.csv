@@ -1,6 +1,0 @@
-Escenario,Inversión_Inicial_Gs,Modelo,Ubicación,Alquiler_Mensual_Gs,Costos_Fijos_Mes_Gs,Costos_Variables_Sesion_Gs,Precio_Promedio_Sesion_Gs,Breakeven_Sesiones_Mes,Sesiones_Mes_1,Sesiones_Mes_6,Sesiones_Mes_12,Ingresos_Año_1_Gs,Costos_Año_1_Gs,Ganancia_Año_1_Gs,ROI_Año_1_Pct,Payback_Meses,Margen_Neto_Pct,Capacidad_Maxima_Mes,Riesgo,Tiempo_Arranque_Dias
-1. Domicilio Puro,4750000,Solo domicilio,San Lorenzo + Asunción,0,160000,27000,160000,15,15,35,40,59840000,12798000,47042000,857,1.4,78.6,60,MUY BAJO,7-14
-2. Mixto Básico SL,38500000,Consultorio + domicilio,San Lorenzo,1500000,2105000,Mixto,138000,32,20,42,50,66654000,41010000,25644000,69.1,18,38.5,70,BAJO,60-90
-3. Consultorio Mínimo,35000000,Solo consultorio,Asunción zona media,2200000,3440000,7000,145000,42,25,40,50,73000000,43800000,29200000,83.4,14.4,40,80,MEDIO,60-90
-4. Mixto Completo ASU,55399850,Consultorio + domicilio,Villa Aurelia Asunción,2800000,3650000,Mixto,160000,35,25,47,55,86540000,66356000,20184000,36.5,27,23.3,80,MEDIO,60-90
-5. Consultorio Premium,75000000,Solo consultorio,Villa Morra/Premium,5500000,9200000,8000,185000,51,30,45,60,111000000,93000000,18000000,24,42,23,100,ALTO,90-120
