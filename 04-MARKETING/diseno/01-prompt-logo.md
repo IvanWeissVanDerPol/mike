@@ -1,54 +1,45 @@
-# PROMPT 01: LOGO Y BRAND IDENTITY (Identidad Visual)
+# PROMPT 01: LOGO & IDENTIDAD VISUAL (NIVEL PRO)
 
-**Objetivo:** Crear un logotipo profesional y un sistema de identidad visual minimalista para "Mike [Apellido]", un Kinesiólogo/Fisioterapeuta independiente que está lanzando su práctica personal en Paraguay.
-
-**Contexto del Negocio:**
-
-- **Nombre:** "Lic. Mike [Apellido]" (Usar "Mike Kinesio" como placeholder si es necesario).
-- **Servicios:** Rehabilitación de lesiones (traumatología), fisioterapia deportiva, atención a adultos mayores.
-- **Modalidad:** Atención a domicilio (Premium/Personalizada) y futuro consultorio.
-- **Público:** Pacientes con dolor, deportistas amateurs, personas mayores. Buscan alivio, confianza y profesionalismo.
-- **Valores a transmitir:** Confianza, Movimiento, Alivio, Ciencia, Cercanía.
+**Objetivo:** Crear la cara de una marca confiable, científica y moderna.
+**Problema a evitar:** Que parezca un clip-art genérico de "hospital" (la típica cruz roja o columpna vertebral fea).
+**Solución:** Geometría abstracta, Proporción Áurea, Minimalismo Suizo.
 
 ---
 
-## 🎨 COPY-PASTE PROMPT (Para Midjourney / DALL-E 3 / Adobe Firefly)
+## 🎨 EL PROMPT (Para DALL-E 3 / Midjourney)
+
+Copia este bloque exacto. Está en inglés técnico porque genera mejores resultados visuales.
 
 ```text
-Professional logo design for a Kinesiologist and Physiotherapist named "Mike". The design should be minimalist, modern, and trustworthy.
+Design a world-class, minimalist logo for a Kinesiologist brand named "Lic. Mike".
 
-**Elements:**
-1.  **Symbol:** Incorporate subtle abstract forms representing "movement", "spine alignment", "joints", or a "human figure in motion". Avoid generic literal wheelchairs or crutches. Think abstract medical cross combined with flow.
-2.  **Typography:** Clean, sans-serif font (like Helvetica, Montserrat, or Roboto). Strong and legible. The title "Lic. Mike" should be prominent, with "Kinesiología & Rehabilitación" in a smaller, lighter weight below.
-3.  **Color Palette:**
-    *   **Primary:** Deep Medical Blue (Trust, Calm) - Hex #0056b3
-    *   **Secondary:** Clean White (Hygiene, Health) - Hex #FFFFFF
-    *   **Accent:** Soft Teal/Cyan (Energy, Healing) OR a bright energetic Orange (Vitality).
+**Visual Architecture:**
+*   **Symbol:** An abstract, geometric construction representing "Alignment" and "Flow". Use Golden Ratio circles to construct the curves. Think "Swiss Design Style". ambiguous enough to imply movement/spine but NOT a literal bone illustration.
+*   **Typography:** A robust, geometric Sans-Serif font (similar to 'Montserrat' or 'Gilroy'). The name "Lic. Mike" should be Bold/Heavy. The subtitle "Kinesiología" should be Light/Thin and tracked out (letter-spacing).
+*   **Color Palette (Strict):**
+    *   Primary: Deep Ocean Blue (#2C5F8D) - Communicates clinical trust.
+    *   Secondary: Therapeutic Green (#4A9B7F) - Communicates growth/health.
+    *   Accent: Vitality Coral (#E17055) - A small dot or line for energy.
+*   **Background:** Pure White (#FFFFFF).
 
-**Style:**
-*   Vector style, flat design.
-*   Suitable for business cards, website headers, and embroidered on a medical scrub/uniform.
-*   White background.
-
-**Mood:**
-*   Professional, Clinical yet Approachable, Scientific.
-
-**Do NOT include:**
-*   Complex illustrations, shadows, 3D effects, messy text.
+**Vibe:** High-end Medical Startup, not a local clinic. Reliable, Expensive, Scientific.
 ```
 
 ---
 
-## 🖌️ INSTRUCCIONES PARA EL DISEÑADOR (Si contratas a un humano)
+## 📝 GUÍA DE TEXTO (Para el Diseñador Final)
 
-**Brief Creativo:**
-"Hola, necesito un logo para mi marca personal como Fisioterapeuta. Quiero alejarme de los logos anticuados (como la víbora en la copa) y buscar algo más moderno.
+Si editas esto en Canva/Illustrator, esta es la jerarquía:
 
-- **Concepto:** Mi enfoque es 'Movimiento sin dolor'. Quiero que el logo inspire dinamismo pero también estabilidad.
-- **Uso:** Lo usaré principalmente en:
-  1.  Perfil de WhatsApp Business (círculo).
-  2.  Tarjetas personales.
-  3.  Facturas digitales.
-  4.  Bordado en mi uniforme (ambo).
-- **Referencia:** Me gustan los logos de clínicas deportivas modernas o apps de salud (ej: Nike Training, apps de fisio).
-- **Entregables:** Necesito el logo en formato vectorial (AI/EPS) y PNG con fondo transparente."
+1.  **Logotipo (Texto Grande):** `Lic. Mike`
+    - _Fuente:_ Montserrat ExtraBold o Open Sans Bold.
+    - _Color:_ Azul (#2C5F8D).
+2.  **Tagline (Texto Pequeño):** `KINESIOLOGÍA DEPORTIVA & INTEGRAL`
+    - _Fuente:_ Montserrat Light (Espaciado 200).
+    - _Color:_ Verde (#4A9B7F) o Gris Oscuro.
+
+---
+
+## 🖼️ ASSET GENERADO
+
+![Logo Pro](../../generated_imgs/pro_logo_v2.png)

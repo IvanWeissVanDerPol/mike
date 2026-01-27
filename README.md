@@ -59,7 +59,8 @@ mike/
 │   ├── estrategias/                    # Estrategias marketing
 │   │   ├── 01-gimnasios-alianzas.md
 │   │   ├── 02-red-referidos-medicos.md
-│   │   └── estrategia-espacios-publicos.md
+│   │   ├── 03-estrategia-espacios-publicos.md
+│   │   └── 04-servicios-corporativos.md  # B2B para empresas 🆕
 │   └── diseno/                         # Prompts diseño visual
 │       ├── 01-prompt-logo.md
 │       ├── 02-prompt-flyer-domicilio.md
@@ -82,7 +83,8 @@ mike/
 │   ├── 04-plan-operaciones.md          # Operaciones diarias
 │   ├── 05-estrategia-marketing.md      # Marketing y ventas
 │   ├── 06-plan-financiero.md           # Proyecciones financieras
-│   └── 07-anexos.md                    # Documentos soporte
+│   ├── 07-anexos.md                    # Documentos soporte
+│   └── 08-paquetes-planes-mensuales.md # Paquetes, membresías, promos 🆕
 │
 ├── 08-LEGAL-BRANDING/ 🆕              # Legal y branding (v4.3)
 │   ├── README.md                       # Índice legal y branding
@@ -212,5 +214,5 @@ No redistribuir sin permiso.
 ---
 
 **Última Actualización:** Enero 2026  
-**Versión:** 4.4 (Scripts Comunicación Agregados)  
+**Versión:** 4.5 (Corporativos B2B + Paquetes/Membresías)  
 **Estado:** Listo para ejecución + Presentación a bancos ✅

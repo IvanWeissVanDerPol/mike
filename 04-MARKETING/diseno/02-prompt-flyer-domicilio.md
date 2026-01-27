@@ -1,68 +1,62 @@
-# PROMPT 02: FLYER DIGITAL (Para WhatsApp/Instagram)
+# PROMPT 02: FLYER DOMICILIO (NIVEL CINE)
 
-**Objetivo:** Crear un flyer digital atractivo para promocionar el servicio de **"Fisioterapia a Domicilio"**. Este es el activo de ventas #1 para arrancar el modo bootstrapping.
-
-**Estrategia:** Destacar la comodidad ("No te muevas con dolor") y la profesionalidad ("El consultorio va a tu casa").
+**Objetivo:** Vender la "Experiencia" de no salir de casa.
+**El "Hook" Visual:** Luz cálida, comodidad extrema, alivio visible.
+**Estilo Fotográfico:** Editorial de Revista de Interiores + Medicina.
 
 ---
 
-## 🎨 COPY-PASTE PROMPT (Para Canva Magic Media / Midjourney - solo imagen de fondo)
+## 🎨 EL PROMPT (Para Generar la Imagen de Fondo)
 
 ```text
-High-quality photographic background image for a physiotherapy flyer.
+Cinematic commercial photography of a premium home physiotherapy session.
 
-**Visual:**
-A professional physiotherapist (male, approx 30 years old, wearing a neat medical scrub) treating a patient in a comfortable, modern living room setting. The patient looks relieved/relaxed.
-Or: A close-up of hands performing a manual therapy massage on a shoulder or knee.
+**Technical Specs:**
+*   **Camera:** Sony A7R IV with an 85mm f/1.4 lens (Portrait focus).
+*   **Lighting:** Soft, diffused morning sunlight coming from a large window (side rim light). Golden hour warmth.
+*   **Depth of Field:** Shallow depth of field (bokeh). Background is blurry but recognizably a high-end, clean living room.
 
-**Lighting:**
-Bright, natural light, clean and hygienic atmosphere. High resolution.
+**The Scene:**
+*   **Subject:** A professional male physiotherapist (fit, neat navy blue scrubs, friendly focus) performing a manual release technique on a patient's shoulder.
+*   **Patient:** A person sitting comfortably on a beige sofa, looking visibly relieved/relaxed (eyes closed or soft smile).
+*   **Color Grading:** Clean whites, warm skin tones, deep navy blue contrast. "Wellness Magazine" aesthetic.
 
-**Negative Space:**
-Leave significant empty space (blurred background or solid color block) on the left or top side to overlay text.
-
-**Style:**
-Stock photography, commercial, medical, trust-inspiring.
+**Composition Rule:**
+*   Rule of Thirds: Action happens on the Right vertical third.
+*   Negative Space: The entire Left side is a clean, out-of-focus wall/window area suitable for white text overlay.
 ```
 
 ---
 
-## 📝 CONTENIDO DEL FLYER (Texto para poner en Canva)
+## 📝 BLUEPRINT DEL TEXTO (Copia esto en Canva)
 
-**TITULAR (Grande y visible):**
+**Ubicación:** Sobre el espacio vacío a la izquierda.
 
-> **¿Dolor de Espalda o Lesiones?**
-> _La recuperación va a tu casa._ 🏠
+**1. EL GANCHO (Título Grande):**
 
-**SUBTITULAR:**
+> **¿DOLOR DE ESPALDA?**
+> _(Fuente: Montserrat ExtraBold, Color: Azul Marcado)_
 
-> Lic. Mike [Apellido] - Kinesiólogo / Fisioterapeuta
+**2. LA PROMESA (Subtítulo):**
 
-**PUNTOS CLAVE (Beneficios):**
+> **Tu recuperación, en la comodidad de tu sala.** 🏠
+> _(Fuente: Open Sans Regular, Color: Negro suave)_
 
-- ✅ **Atención 100% Personalizada** (1 hora dedicada solo a ti).
-- ✅ **Sin tráfico ni esperas** en salas llenas.
-- ✅ **Equipamiento profesional** llevado a tu domicilio.
-- ✅ **Especialidades:** Traumatología, Dolores Posturales, Post-Operatorios.
+**3. LOS BENEFICIOS (Bullet Points):**
 
-**ZONAS DE COBERTURA:**
+> - ✅ Sin tráfico ni esperas.
+> - ✅ Camilla y equipos profesionales.
+> - ✅ Atención 100% personalizada (1 hora).
 
-> 📍 San Lorenzo • Fdo. de la Mora • Capiatá • Asunción (consultar)
+**4. EL CIERRE (Botón/CTA):**
 
-**LLAMADO A LA ACCIÓN (CTA - Botón o Texto destacado):**
-
-> 📲 **Agenda tu evaluación hoy:**
-> **0991 763 400** (WhatsApp)
-
-**PIE DE PÁGINA:**
-
-> _Registro Profesional N° [Pendiente] | Factura Legal Disponible_
+> **[ AGENDA TU VISITA ]**
+> _WhatsApp: 0991 763 400_
+> _(Fondo del botón: Coral #E17055, Texto: Blanco)_
 
 ---
 
-## 💡 TIPS DE DISEÑO (Para armarlo en Canva)
+## 🖼️ ASSET GENERADO
 
-1.  **Jerarquía:** Lo más grande debe ser el problema ("¿Dolor?") y la solución ("A tu casa"). Tu nombre puede ir más chico.
-2.  **Color:** Usa Azul Oscuro para el texto principal y un color de contraste (Naranja o Verde botón) para el número de teléfono.
-3.  **Legibilidad:** No uses letras cursivas difíciles de leer. Usa fuentes Sans Serif negritas (Open Sans, Montserrat).
-4.  **Foto Real:** Si es posible, usa una foto TUYA real con tu uniforme, aunque sea tomada con celular con buena luz. Genera 1000% más confianza que una foto de stock de internet.
+![Flyer Domicilio](../../generated_imgs/pro_home_flyer_background.png)
+\_

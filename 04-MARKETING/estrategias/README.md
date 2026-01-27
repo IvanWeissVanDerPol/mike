@@ -35,6 +35,31 @@
   - Consideraciones legales (permisos municipales)
 - **Timing:** Opcional, Mes 4+ (después base clientes estable)
 
+### **04-servicios-corporativos.md** 🆕
+- **Estrategia:** Servicios B2B para empresas en ASU y San Lorenzo
+- **Contenido:**
+  - Paquetes corporativos (Básico, Estándar, Premium, Evento)
+  - Lista de empresas target (Tier 1, 2, 3)
+  - Plan de adquisición 4 semanas
+  - Modelo de escalabilidad con colegas
+  - Templates de contacto (email, LinkedIn)
+  - Protocolo "0 sexual harassment" para ambientes corporativos
+- **Estado:** ✅ 100% completo - Listo para ejecutar
+- **Timing:** Ejecutable inmediatamente (incluso como estudiante)
+- **Potencial:** Gs. 3-7M/mes en ingresos recurrentes
+
+### **05-promociones-estacionales.md** 🆕
+- **Estrategia:** Calendario promocional anual para Paraguay
+- **Contenido:**
+  - 12 meses con promociones específicas
+  - Feriados y eventos paraguayos (Día Madre, Independencia, Caacupé, etc.)
+  - San Valentín, Black Friday, Navidad
+  - Precios, descuentos, gift cards por temporada
+  - Templates de marketing (WhatsApp, Instagram)
+  - Proyección de ingresos extra: Gs. 15.5M/año
+- **Estado:** ✅ 100% completo
+- **Meses TOP:** Mayo (Día Madre), Noviembre (Black Friday), Diciembre (Navidad)
+
 ---
 
 ## 🎯 Orden de Ejecución Recomendado
@@ -58,6 +83,11 @@
 - Sistema formal de referidos
 - Informes profesionales post-sesión
 
+**Fase PARALELA: Corporativo B2B** 🆕
+- Puede ejecutarse desde Mes 1
+- No requiere licencia (es masaje bienestar)
+- 1-2 contratos = Gs. 1.5-3M/mes recurrentes
+
 ---
 
 ## ⚠️ Importante
@@ -75,4 +105,5 @@
 ---
 
 **Última actualización:** Enero 2026  
-**Estado:** Estrategias definidas, pendiente ejecución
+**Versión:** 1.2 (Corporativos B2B + Promociones Estacionales)  
+**Estado:** Estrategias definidas, listas para ejecutar

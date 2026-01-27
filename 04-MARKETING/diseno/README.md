@@ -36,6 +36,29 @@
 - **Uso:** Distribución táctica en eventos, gimnasios
 - **Estilo:** Llamativo, memorable, económico de imprimir
 
+### **06-prompts-promociones-estacionales.md**
+- **Qué genera:** Flyers + textos para TODAS las promociones del año
+- **Incluye por cada promoción:**
+  - Prompt IA para imagen Instagram Post (1080x1080)
+  - Prompt IA para imagen Instagram Story (1080x1920)
+  - Caption Instagram completo con hashtags
+  - Mensaje WhatsApp listo para copiar
+  - Texto para WhatsApp Estado
+- **Promociones cubiertas:** San Valentín, Día Mujer, Día Madre, Black Friday, Navidad
+- **Templates reutilizables:** Prompts genéricos para cualquier promo
+- **Estado:** ✅ 100% completo - Copy-paste ready
+
+### **07-prompts-chatgpt-dalle-listos.md** 🆕
+- **Qué genera:** 10 prompts optimizados para ChatGPT/DALL-E
+- **Formato:** Listos para copiar y pegar directamente
+- **Incluye:**
+  - 5 promociones x 2 formatos (Post + Story) = 10 prompts
+  - San Valentín, Día Mujer, Día Madre, Black Friday, Navidad
+  - Instrucciones de uso paso a paso
+  - Nomenclatura de archivos sugerida
+- **Uso:** Abrir ChatGPT Plus, copiar prompt, generar imagen
+- **Estado:** ✅ Listo para usar
+
 ---
 
 ## 🎯 Cómo Usar Estos Prompts
