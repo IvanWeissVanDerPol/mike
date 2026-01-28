@@ -198,21 +198,21 @@ Si hay invitados, se extiende el horario:
 
 **Precio sugerido (horario extendido nocturno):**
 
-| Concepto | Precio Normal | Precio Nocturno |
-|----------|---------------|-----------------|
-| Masaje full body 60 min | Gs. 100,000 | Gs. 120,000 |
-| Propina incluida | Gs. 10,000 | Gs. 15,000 |
-| **TOTAL por sesión** | Gs. 110,000 | **Gs. 135,000** |
+| Concepto | Precio Normal (Tarde) | Precio Nocturno |
+|----------|----------------------|-----------------|
+| Masaje full body 60 min | Gs. 100,000 | Gs. 140,000 |
+| Propina incluida | Gs. 10,000 | Gs. 10,000 |
+| **TOTAL por sesión** | Gs. 110,000 | **Gs. 150,000** |
 
-**Recargo nocturno:** +25% (por horario fuera de disponibilidad regular)
+**Recargo nocturno:** +36% (por horario fuera de disponibilidad regular)
 
 **Si se activa horario nocturno:**
 
 | Concepto | Monto |
 |----------|-------|
-| Base fijo nocturno (6 × Gs. 135,000) | Gs. 810,000 |
-| Transporte Uber (2 visitas) | Gs. 100,000 |
-| **TOTAL MES NOCTURNO** | **Gs. 910,000** |
+| Base fijo nocturno (6 × Gs. 150,000) | Gs. 900,000 |
+| Transporte Uber (2 visitas × Gs. 50,000) | Gs. 100,000 |
+| **TOTAL MES NOCTURNO** | **Gs. 1,000,000** |
 
 **Para activar:** Consultar con Mikie si puede hacer excepción para AI-Whisperer en horario nocturno con el recargo correspondiente
 
