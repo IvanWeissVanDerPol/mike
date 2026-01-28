@@ -239,8 +239,12 @@
 1. Iván confirma interés en sesión nocturna
 2. Consulta con Mikie disponibilidad
 3. Mikie dice si puede y qué fecha
-4. Se confirma y se paga por esa sesión
-5. Se factura al cierre del trimestre (separada del base)
+4. **AI-Whisperer paga ANTES de que venga Mikie** (o al momento)
+5. Mikie viene confirmado con pago hecho
+
+> 💰 **Pago nocturno:** Antes de la sesión o al momento.  
+> No se espera al cierre del trimestre.  
+> Transferencia/giro al confirmar la fecha.
 
 ---
 
@@ -302,19 +306,19 @@ TRANSPORTE:
 TOTAL A PAGAR: ............................................ Gs. 1,090,500
 ```
 
-### **Si hay invitados y/o sesiones nocturnas durante el trimestre**
+### **Si hay invitados durante el trimestre**
 
-Los invitados y turnos nocturnos se facturan al cierre del trimestre (sin descuento):
+Los invitados se facturan al cierre del trimestre (sin descuento):
 
 ```
-+ Extras realizados durante el trimestre:
-- 2 invitados tarde Febrero × Gs. 110,000 ..................... Gs. 220,000
-- 1 invitado tarde Marzo × Gs. 110,000 ........................ Gs. 110,000
-- 1 sesión nocturna Marzo (Iván + Kiki) ....................... Gs. 350,000
++ Invitados realizados durante el trimestre:
+- 2 invitados Febrero × Gs. 110,000 ........................... Gs. 220,000
+- 1 invitado Marzo × Gs. 110,000 .............................. Gs. 110,000
                                                                    -----------
-TOTAL EXTRAS: ........................................... Gs. 680,000
-TOTAL CON EXTRAS: ...................................... Gs. 1,770,500
+TOTAL CON INVITADOS: ...................................... Gs. 1,420,500
 ```
+
+> ⚠️ **Sesiones nocturnas NO aparecen acá.** Ya fueron pagadas antes de cada sesión.
 
 ---
 
