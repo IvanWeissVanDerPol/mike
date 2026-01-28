@@ -14,11 +14,11 @@
 
 | Nombre | Rol | Frecuencia |
 |--------|-----|------------|
-| **Iván** | Fundador/Dev | 2 masajes/mes |
-| **Kiki** | Equipo | 2 masajes/mes |
-| **Jonathan** | Equipo | 2 masajes/mes |
+| **Iván** | Fundador/Dev | 1 masaje/mes |
+| **Kiki** | Equipo | 1 masaje/mes |
+| **Jonathan** | Equipo | 1 masaje/mes |
 
-**Total equipo fijo:** 6 sesiones/mes
+**Total equipo fijo:** 3 sesiones/mes (1 visita)
 
 ### **Invitados Ocasionales**
 
@@ -46,10 +46,10 @@
 | Concepto | Detalle |
 |----------|---------|
 | **Personas cubiertas** | Iván, Kiki, Jonathan |
-| **Sesiones incluidas** | 2 masajes full body/mes cada uno (6 total) |
-| **Precio base mensual** | **Gs. 600,000** |
-| **Propina incluida** | **Gs. 60,000** (Gs. 10,000 × 6 sesiones) |
-| **TOTAL FIJO MENSUAL** | **Gs. 660,000** |
+| **Sesiones incluidas** | 1 masaje full body/mes cada uno (3 total) |
+| **Precio base mensual** | **Gs. 300,000** |
+| **Propina incluida** | **Gs. 30,000** (Gs. 10,000 × 3 sesiones) |
+| **TOTAL FIJO MENSUAL** | **Gs. 330,000** |
 
 > **El precio base se paga aunque no usen todas las sesiones.**  
 > Sesiones no usadas NO se acumulan.
@@ -79,18 +79,18 @@
 
 | Concepto | Monto |
 |----------|-------|
-| Base fijo (6 sesiones + propinas) | Gs. 660,000 |
-| Transporte Uber (2 visitas × Gs. 50,000) | Gs. 100,000 |
-| **TOTAL MES** | **Gs. 760,000** |
+| Base fijo (3 sesiones + propinas) | Gs. 330,000 |
+| Transporte Uber (1 visita × Gs. 50,000) | Gs. 50,000 |
+| **TOTAL MES** | **Gs. 380,000** |
 
 **Mes con invitados:**
 
 | Concepto | Monto |
 |----------|-------|
-| Base fijo (6 sesiones + propinas) | Gs. 660,000 |
-| + 3 invitados × Gs. 110,000 | Gs. 330,000 |
-| Transporte Uber (3 visitas × Gs. 50,000) | Gs. 150,000 |
-| **TOTAL MES** | **Gs. 1,140,000** |
+| Base fijo (3 sesiones + propinas) | Gs. 330,000 |
+| + 2 invitados × Gs. 110,000 | Gs. 220,000 |
+| Transporte Uber (1 visita × Gs. 50,000) | Gs. 50,000 |
+| **TOTAL MES** | **Gs. 600,000** |
 
 ---
 
@@ -121,8 +121,8 @@
 |----------|--------|
 | Uber (1 trayecto) | Gs. 25,000 |
 | Ida + Vuelta | Gs. 50,000 |
-| **2 visitas/mes** | **Gs. 100,000** |
-| 3 visitas/mes (con invitados) | Gs. 150,000 |
+| **1 visita/mes (base)** | **Gs. 50,000** |
+| 2 visitas/mes (con invitados) | Gs. 100,000 |
 
 ---
 
@@ -143,10 +143,9 @@
 
 | Semana | Día Sugerido | Horario | Sesiones |
 |--------|--------------|---------|----------|
-| Semana 1 | Martes/Miércoles | 14:00-18:30 | 3 sesiones |
-| Semana 3 | Martes/Miércoles | 14:00-18:30 | 3 sesiones |
+| Semana 2 o 3 | Martes/Miércoles | 14:00-18:00 | 3 sesiones |
 
-**Total:** 2 visitas/mes, 3 personas/visita
+**Total:** 1 visita/mes, 3 personas/visita
 
 ### **Formato de Sesión (Tarde)**
 
@@ -210,9 +209,9 @@ Si hay invitados, se extiende el horario:
 
 | Concepto | Monto |
 |----------|-------|
-| Base fijo nocturno (6 × Gs. 150,000) | Gs. 900,000 |
-| Transporte Uber (2 visitas × Gs. 50,000) | Gs. 100,000 |
-| **TOTAL MES NOCTURNO** | **Gs. 1,000,000** |
+| Base fijo nocturno (3 × Gs. 150,000) | Gs. 450,000 |
+| Transporte Uber (1 visita × Gs. 50,000) | Gs. 50,000 |
+| **TOTAL MES NOCTURNO** | **Gs. 500,000** |
 
 **Para activar:** Consultar con Mikie si puede hacer excepción para AI-Whisperer en horario nocturno con el recargo correspondiente
 
@@ -248,16 +247,16 @@ Cliente: AI-Whisperer
 Período: [Fecha] - [Fecha]
 
 SERVICIOS:
-- Base fijo: 6 masajes full body (Iván, Kiki, Jonathan x2) ... Gs. 600,000
-- Propinas incluidas (6 × Gs. 10,000) ...................... Gs.  60,000
+- Base fijo: 3 masajes full body (Iván, Kiki, Jonathan x1) ... Gs. 300,000
+- Propinas incluidas (3 × Gs. 10,000) ...................... Gs.  30,000
 - 2 sesiones invitados (full body + propina) ............... Gs. 220,000
-                                                              -----------
-SUBTOTAL SERVICIOS: ....................................... Gs. 880,000
+                                                               -----------
+SUBTOTAL SERVICIOS: ....................................... Gs. 550,000
 
 TRANSPORTE:
-- Uber ida+vuelta (3 visitas × ~Gs. 50,000) ................ Gs. 150,000
-                                                              -----------
-TOTAL A PAGAR: ............................................ Gs. 1,030,000
+- Uber ida+vuelta (1 visita × Gs. 50,000) .................. Gs.  50,000
+                                                               -----------
+TOTAL A PAGAR: ............................................ Gs. 600,000
 ```
 
 ---
@@ -266,23 +265,23 @@ TOTAL A PAGAR: ............................................ Gs. 1,030,000
 
 ### **Costo Mensual AI-Whisperer**
 
-| Concepto | Mínimo | Con 3 invitados |
+| Concepto | Mínimo | Con 2 invitados |
 |----------|--------|-----------------|
-| Base fijo (6 sesiones) | Gs. 600,000 | Gs. 600,000 |
-| Propinas base (6 × 10K) | Gs. 60,000 | Gs. 60,000 |
-| Invitados (× Gs. 110K) | Gs. 0 | Gs. 330,000 |
-| Transporte Uber | Gs. 100,000 | Gs. 150,000 |
-| **TOTAL MES** | **Gs. 760,000** | **Gs. 1,140,000** |
+| Base fijo (3 sesiones) | Gs. 300,000 | Gs. 300,000 |
+| Propinas base (3 × 10K) | Gs. 30,000 | Gs. 30,000 |
+| Invitados (× Gs. 110K) | Gs. 0 | Gs. 220,000 |
+| Transporte Uber | Gs. 50,000 | Gs. 50,000 |
+| **TOTAL MES** | **Gs. 380,000** | **Gs. 600,000** |
 
 ### **Ingreso Mikie**
 
 | Concepto | Monto |
 |----------|-------|
-| Servicios base (6 sesiones) | Gs. 600,000 |
-| Propinas garantizadas | Gs. 60,000 |
+| Servicios base (3 sesiones) | Gs. 300,000 |
+| Propinas garantizadas | Gs. 30,000 |
 | Transporte | Gs. 0 (cubierto) |
-| **Ingreso mínimo/mes** | **Gs. 660,000** |
-| Tiempo efectivo | ~6 horas/mes |
+| **Ingreso mínimo/mes** | **Gs. 330,000** |
+| Tiempo efectivo | ~3 horas/mes |
 | **Ingreso/hora** | **Gs. 110,000** |
 
 **Ventaja:** Tarifa full (Gs. 100K) + propina garantizada + transporte gratis = mejor deal que clientes individuales.
@@ -291,7 +290,7 @@ TOTAL A PAGAR: ............................................ Gs. 1,030,000
 
 ## ✅ Beneficios para AI-Whisperer
 
-1. **Precio fijo predecible** - Gs. 660K base/mes para el equipo core
+1. **Precio fijo predecible** - Gs. 330K base/mes para el equipo core
 2. **Transporte cubierto** - Mikie llega sin fricción
 3. **Invitados bienvenidos** - Cultura de bienestar para el team
 4. **Horario flexible** - Se adapta a la oficina
@@ -302,7 +301,7 @@ TOTAL A PAGAR: ............................................ Gs. 1,030,000
 
 ## ✅ Beneficios para Mikie
 
-1. **Ingreso recurrente** Gs. 660K+ garantizado/mes
+1. **Ingreso recurrente** Gs. 330K+ garantizado/mes
 2. **Propina garantizada** (Gs. 10K por sesión, ya incluida)
 3. **Transporte cubierto** (cero gasto de bolsillo)
 4. **Ingreso/hora alto** Gs. 110K (mejor que individual)
