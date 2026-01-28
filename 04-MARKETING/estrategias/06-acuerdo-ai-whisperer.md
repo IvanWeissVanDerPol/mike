@@ -248,12 +248,31 @@ Si hay invitados, se extiende el horario:
 
 ## 💳 Facturación y Pago
 
-### **Ciclo de Facturación**
+### **Ciclo de Facturación: TRIMESTRAL (3 meses adelantado)**
 
 | Fecha | Acción |
 |-------|--------|
-| 1ro del mes | Mikie envía factura del mes anterior |
-| 5 del mes | AI-Whisperer paga |
+| 1ro del trimestre | Mikie envía factura de 3 meses |
+| 5 del trimestre | AI-Whisperer paga el trimestre completo |
+
+**Trimestres del año:**
+
+| Trimestre | Meses | Fecha de Pago |
+|-----------|-------|---------------|
+| T1 | Febrero - Abril | 1-5 Febrero |
+| T2 | Mayo - Julio | 1-5 Mayo |
+| T3 | Agosto - Octubre | 1-5 Agosto |
+| T4 | Noviembre - Enero | 1-5 Noviembre |
+
+### **Descuento por Pago Adelantado (3 meses)**
+
+| Concepto | Precio/Mes | × 3 meses | Con descuento 5% |
+|----------|------------|-----------|-------------------|
+| Base fijo (3 ses + propinas) | Gs. 330,000 | Gs. 990,000 | **Gs. 940,500** |
+| Uber (1 visita) | Gs. 50,000 | Gs. 150,000 | Gs. 150,000 |
+| **TOTAL TRIMESTRE** | Gs. 380,000 | Gs. 1,140,000 | **Gs. 1,090,500** |
+
+> **5% de descuento** por pagar 3 meses adelantado = ahorrás ~Gs. 50,000 por trimestre
 
 ### **Métodos de Pago**
 
@@ -261,25 +280,39 @@ Si hay invitados, se extiende el horario:
 - ✅ Giros Tigo/Personal
 - ✅ Efectivo (si es conveniente)
 
-### **Factura Incluye**
+### **Factura Trimestral Ejemplo**
 
 ```
-FACTURA - [MES] 2026
+FACTURA TRIMESTRAL - FEB-ABR 2026
 
 Cliente: AI-Whisperer
-Período: [Fecha] - [Fecha]
+Período: Febrero 1 - Abril 30, 2026
 
-SERVICIOS:
-- Base fijo: 3 masajes full body (Iván, Kiki, Jonathan x1) ... Gs. 300,000
-- Propinas incluidas (3 × Gs. 10,000) ...................... Gs.  30,000
-- 2 sesiones invitados (full body + propina) ............... Gs. 220,000
-                                                               -----------
-SUBTOTAL SERVICIOS: ....................................... Gs. 550,000
+SERVICIOS (3 meses):
+- Base fijo: 9 masajes full body (3 personas × 1/mes × 3 meses) ... Gs. 900,000
+- Propinas incluidas (9 × Gs. 10,000) .......................... Gs.  90,000
+                                                                   -----------
+SUBTOTAL SERVICIOS: .................................... Gs. 990,000
+DESCUENTO 5% PAGO ADELANTADO: ...................... Gs. -49,500
+                                                                   -----------
+SUBTOTAL DESCONTADO: ................................... Gs. 940,500
 
 TRANSPORTE:
-- Uber ida+vuelta (1 visita × Gs. 50,000) .................. Gs.  50,000
-                                                               -----------
-TOTAL A PAGAR: ............................................ Gs. 600,000
+- Uber ida+vuelta (3 visitas × Gs. 50,000) .................... Gs. 150,000
+                                                                   -----------
+TOTAL A PAGAR: ............................................ Gs. 1,090,500
+```
+
+### **Si hay invitados durante el trimestre**
+
+Los invitados se facturan al cierre del trimestre:
+
+```
++ Invitados realizados durante el trimestre:
+- 2 invitados Febrero × Gs. 110,000 ........................... Gs. 220,000
+- 1 invitado Marzo × Gs. 110,000 .............................. Gs. 110,000
+                                                                   -----------
+TOTAL CON INVITADOS: ...................................... Gs. 1,420,500
 ```
 
 ---
