@@ -183,6 +183,39 @@ Si hay invitados, se extiende el horario:
 
 *Requiere confirmar disponibilidad extendida con Mikie
 
+---
+
+### **🌙 OPCIÓN FUTURA: Sesiones Nocturnas (Premium)**
+
+> **Nota de Iván:** "Me encantaría dormir con masaje" - sesiones nocturnas post-gym para ir directo a cama.
+
+**Horario deseado:** 21:00-00:30 (después de oficina y gym)
+
+**Beneficios horario nocturno:**
+- Post-gym: músculos calientes, mejor para masaje profundo
+- Pre-sueño: relajación total, mejor calidad de sueño
+- Kiki puede dormir directo después de su sesión
+
+**Precio sugerido (horario extendido nocturno):**
+
+| Concepto | Precio Normal | Precio Nocturno |
+|----------|---------------|-----------------|
+| Masaje full body 60 min | Gs. 100,000 | Gs. 120,000 |
+| Propina incluida | Gs. 10,000 | Gs. 15,000 |
+| **TOTAL por sesión** | Gs. 110,000 | **Gs. 135,000** |
+
+**Recargo nocturno:** +25% (por horario fuera de disponibilidad regular)
+
+**Si se activa horario nocturno:**
+
+| Concepto | Monto |
+|----------|-------|
+| Base fijo nocturno (6 × Gs. 135,000) | Gs. 810,000 |
+| Transporte Uber (2 visitas) | Gs. 100,000 |
+| **TOTAL MES NOCTURNO** | **Gs. 910,000** |
+
+**Para activar:** Consultar con Mikie si puede hacer excepción para AI-Whisperer en horario nocturno con el recargo correspondiente
+
 ### **Flexibilidad Invitados**
 
 - Invitados se agregan a las visitas existentes (extendiendo horario)
