@@ -113,17 +113,14 @@
 | **Ida + Vuelta (1 visita)** | **Gs. 50,000** |
 | **1 visita/mes (base)** | **Gs. 50,000/mes** |
 
-### **Opciones de Pago Transporte**
+### **Método de Pago Transporte: CONFIRMADO ✅**
 
-**Opción A: Uber Business (Recomendada)**
-- AI-Whisperer agrega a Mikie como usuario en cuenta empresarial
-- Mikie pide Uber, empresa paga directo
-- Cero fricción
-
-**Opción B: Reembolso**
-- Mikie paga Uber y manda capturas
-- AI-Whisperer reembolsa junto con pago trimestral
-- Costo fijo: Gs. 50,000 por visita (ida+vuelta)
+**AI-Whisperer pide el Uber para Mikie directamente**
+- AI-Whisperer solicita el Uber cuando confirma la visita
+- Manda el Uber a la dirección de Mikie
+- Mikie se sube, llega a la oficina
+- AI-Whisperer hace lo mismo para la vuelta
+- Cero fricción para Mikie
 
 ---
 
@@ -397,24 +394,29 @@ TOTAL CON INVITADOS: ...................................... Gs. 1,420,500
 
 ## 🚀 Próximos Pasos
 
-1. **Confirmar detalles:**
+1. **Confirmado ✅:**
+   - [x] Método de transporte: AI-Whisperer pide Uber para Mikie
+   - [x] Inicio: **Semana 2 de Febrero 2026**
+
+2. **Pendiente confirmar:**
    - [ ] Dirección exacta oficina AI-Whisperer
    - [ ] Día preferido (Martes? Miércoles? Otro?)
    - [ ] Horario preferido (tarde 14:00-18:00)
-   - [ ] Método de pago transporte (Uber Business o reembolso)
    - [ ] ¿Ale participa del turno nocturno?
+   - [ ] Dirección de Mikie para el Uber
 
-2. **Primera visita:**
-   - Programar para Semana 2 o 3 de Febrero
+3. **Primera visita - Semana 2 Febrero:**
+   - Fecha objetivo: Martes 11 o Miércoles 12 de Febrero
+   - AI-Whisperer confirma fecha → pide Uber para Mikie
    - Probar logística (transporte, espacio, timing)
 
-3. **Pago primer trimestre:**
+4. **Pago primer trimestre:**
    - Factura T1 (Feb-Abr): Gs. 1,090,500
    - Pagar por transferencia antes de la primera visita
 
-4. **Negociar turno nocturno (futuro):**
+5. **Negociar turno nocturno (futuro):**
    - Consultar con Mikie disponibilidad nocturna
-   - Si es posible, activar para T2 (May-Jul)
+   - Si es posible, activar cuando Mikie confirme
 
 ---
 
