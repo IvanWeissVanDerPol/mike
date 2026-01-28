@@ -48,7 +48,7 @@
 - **Timing:** Ejecutable inmediatamente (incluso como estudiante)
 - **Potencial:** Gs. 3-7M/mes en ingresos recurrentes
 
-### **05-promociones-estacionales.md** 🆕
+### **05-promociones-estacionales.md**
 - **Estrategia:** Calendario promocional anual para Paraguay
 - **Contenido:**
   - 12 meses con promociones específicas
@@ -59,6 +59,19 @@
   - Proyección de ingresos extra: Gs. 15.5M/año
 - **Estado:** ✅ 100% completo
 - **Meses TOP:** Mayo (Día Madre), Noviembre (Black Friday), Diciembre (Navidad)
+
+### **06-acuerdo-ai-whisperer.md** 🆕
+- **Tipo:** Acuerdo corporativo específico (primer cliente B2B)
+- **Cliente:** AI-Whisperer (empresa IT - Iván, Kiki, Jonathan)
+- **Contenido:**
+  - 3 personas fijas: 2 masajes/mes cada uno (6 sesiones totales)
+  - Invitados ocasionales IT (hasta 4 extras/mes)
+  - Transporte Uber cubierto por AI-Whisperer (ida y vuelta)
+  - Precio: Gs. 80,000/sesión (20% descuento corporativo)
+  - Costo mensual empresa: Gs. 580,000-950,000
+  - Calendario de visitas 2x/mes y facturación
+- **Estado:** ✅ Propuesta lista para firmar
+- **Ingreso Mikie:** Gs. 480,000+/mes garantizado + transporte gratis
 
 ---
 
@@ -105,5 +118,5 @@
 ---
 
 **Última actualización:** Enero 2026  
-**Versión:** 1.2 (Corporativos B2B + Promociones Estacionales)  
+**Versión:** 1.3 (+ Acuerdo AI-Whisperer)  
 **Estado:** Estrategias definidas, listas para ejecutar
