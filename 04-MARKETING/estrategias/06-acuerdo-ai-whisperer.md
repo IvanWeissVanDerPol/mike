@@ -190,12 +190,25 @@ Si hay invitados, se extiende el horario:
 
 **Horario deseado:** 21:00-00:30 (después de oficina y gym)
 
+**Personas incluidas (solo los que viven en oficina):**
+
+| Nombre | Participa | Razón |
+|--------|-----------|-------|
+| **Iván** | ✅ Sí | Vive en oficina |
+| **Kiki** | ✅ Sí | Vive en oficina |
+| **Jonathan** | ❌ No | Se va a su casa |
+| **Ale** | ✅ Posible | Roomie, vive en oficina, paga su parte |
+
+> **Jonathan no participa** del turno nocturno porque se va a su casa.  
+> **Ale** puede sumarse si quiere, paga Gs. 150,000 por su sesión (precio invitado nocturno).
+
 **Beneficios horario nocturno:**
 - Post-gym: músculos calientes, mejor para masaje profundo
 - Pre-sueño: relajación total, mejor calidad de sueño
 - Kiki puede dormir directo después de su sesión
+- Todos los que viven en oficina queda listos para cama
 
-**Precio sugerido (horario extendido nocturno):**
+**Precio nocturno:**
 
 | Concepto | Precio Normal (Tarde) | Precio Nocturno |
 |----------|----------------------|-----------------|
@@ -205,13 +218,23 @@ Si hay invitados, se extiende el horario:
 
 **Recargo nocturno:** +36% (por horario fuera de disponibilidad regular)
 
+**Horario nocturno (2 personas base + Ale posible):**
+
+| Tiempo | Actividad |
+|--------|-----------|
+| 21:00-21:10 | Setup |
+| 21:10-22:10 | Sesión 1 - **Kiki** → directo a dormir |
+| 22:15-23:15 | Sesión 2 - **Iván** → directo a cama |
+| 23:20-00:20 | Sesión 3 - **Ale** (si participa) |
+
 **Si se activa horario nocturno:**
 
-| Concepto | Monto |
-|----------|-------|
-| Base fijo nocturno (3 × Gs. 150,000) | Gs. 450,000 |
-| Transporte Uber (1 visita × Gs. 50,000) | Gs. 50,000 |
-| **TOTAL MES NOCTURNO** | **Gs. 500,000** |
+| Escenario | Sesiones | Precio Sesiones | Uber | Total |
+|-----------|----------|-----------------|------|-------|
+| Solo Iván + Kiki | 2 | Gs. 300,000 | Gs. 50,000 | **Gs. 350,000** |
+| + Ale | 3 | Gs. 450,000 | Gs. 50,000 | **Gs. 500,000** |
+
+> **Ale paga su parte** (Gs. 150,000) directamente o AI-Whisperer lo incluye en la factura.
 
 **Para activar:** Consultar con Mikie si puede hacer excepción para AI-Whisperer en horario nocturno con el recargo correspondiente
 
