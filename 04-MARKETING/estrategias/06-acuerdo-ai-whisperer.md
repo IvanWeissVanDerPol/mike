@@ -179,9 +179,13 @@
 
 ---
 
-### **🌙 OPCIÓN FUTURA: Sesiones Nocturnas (Premium)**
+### **🌙 OPCIÓN FUTURA: Sesiones Nocturnas (Premium - Por Sesión)**
 
 > **Nota de Iván:** "Me encantaría dormir con masaje" - sesiones nocturnas post-gym para ir directo a cama.
+
+> ⚠️ **IMPORTANTE:** Los turnos nocturnos son **por sesión, NO anticipados.**  
+> Solo se activan cuando Mikie acepta y confirma disponibilidad.  
+> No se incluyen en el pago trimestral base.
 
 **Horario deseado:** 21:00-00:30 (después de oficina y gym)
 
@@ -203,7 +207,7 @@
 - Kiki puede dormir directo después de su sesión
 - Todos los que viven en oficina quedan listos para cama
 
-**Precio nocturno:**
+**Precio nocturno (por sesión):**
 
 | Concepto | Precio Normal (Tarde) | Precio Nocturno |
 |----------|----------------------|-----------------|
@@ -213,7 +217,7 @@
 
 **Recargo nocturno:** +36% (por horario fuera de disponibilidad regular)
 
-**Horario nocturno (2 personas base + Ale posible):**
+**Horario nocturno (cuando se activa):**
 
 | Tiempo | Actividad |
 |--------|-----------|
@@ -222,16 +226,21 @@
 | 22:15-23:15 | Sesión 2 - **Iván** → directo a cama |
 | 23:20-00:20 | Sesión 3 - **Ale** (si participa) |
 
-**Costo mensual nocturno:**
+**Costo por sesión nocturna:**
 
-| Escenario | Sesiones | Precio Sesiones | Uber | Total/Mes |
-|-----------|----------|-----------------|------|-----------|
+| Escenario | Sesiones | Precio | Uber | Total esa noche |
+|-----------|----------|--------|------|-----------------|
 | Solo Iván + Kiki | 2 | Gs. 300,000 | Gs. 50,000 | **Gs. 350,000** |
 | + Ale | 3 | Gs. 450,000 | Gs. 50,000 | **Gs. 500,000** |
 
-> **Ale paga su parte** (Gs. 150,000) directamente o AI-Whisperer lo incluye en la factura.
+> **Ale paga su parte** (Gs. 150,000) directamente o se suma a la factura.
 
-**Para activar:** Consultar con Mikie si puede hacer excepción para AI-Whisperer en horario nocturno con el recargo correspondiente
+**Proceso para activar una sesión nocturna:**
+1. Iván confirma interés en sesión nocturna
+2. Consulta con Mikie disponibilidad
+3. Mikie dice si puede y qué fecha
+4. Se confirma y se paga por esa sesión
+5. Se factura al cierre del trimestre (separada del base)
 
 ---
 
@@ -253,9 +262,7 @@
 | T3 | Agosto - Octubre | 1-5 Agosto |
 | T4 | Noviembre - Enero | 1-5 Noviembre |
 
-### **Precio Trimestral con Descuento**
-
-**Turno Tarde (base):**
+### **Precio Trimestral con Descuento (solo Turno Tarde)**
 
 | Concepto | Precio/Mes | × 3 meses | Con descuento 5% |
 |----------|------------|-----------|-------------------|
@@ -263,23 +270,8 @@
 | Uber (1 visita/mes) | Gs. 50,000 | Gs. 150,000 | Gs. 150,000 |
 | **TOTAL TRIMESTRE** | Gs. 380,000 | Gs. 1,140,000 | **Gs. 1,090,500** |
 
-**Turno Nocturno (si se activa) - solo Iván + Kiki:**
-
-| Concepto | Precio/Mes | × 3 meses | Con descuento 5% |
-|----------|------------|-----------|-------------------|
-| 2 sesiones nocturnas + propinas | Gs. 300,000 | Gs. 900,000 | **Gs. 855,000** |
-| Uber (1 visita/mes) | Gs. 50,000 | Gs. 150,000 | Gs. 150,000 |
-| **TOTAL TRIMESTRE NOCTURNO** | Gs. 350,000 | Gs. 1,050,000 | **Gs. 1,005,000** |
-
-**Turno Nocturno con Ale:**
-
-| Concepto | Precio/Mes | × 3 meses | Con descuento 5% |
-|----------|------------|-----------|-------------------|
-| 3 sesiones nocturnas + propinas | Gs. 450,000 | Gs. 1,350,000 | **Gs. 1,282,500** |
-| Uber (1 visita/mes) | Gs. 50,000 | Gs. 150,000 | Gs. 150,000 |
-| **TOTAL TRIMESTRE + ALE** | Gs. 500,000 | Gs. 1,500,000 | **Gs. 1,432,500** |
-
-> **5% de descuento** por pagar 3 meses adelantado
+> **5% de descuento** por pagar 3 meses adelantado  
+> ⚠️ **Turnos nocturnos NO se incluyen en el trimestral.** Se pagan por sesión al cierre.
 
 ### **Métodos de Pago**
 
@@ -310,30 +302,32 @@ TRANSPORTE:
 TOTAL A PAGAR: ............................................ Gs. 1,090,500
 ```
 
-### **Si hay invitados durante el trimestre**
+### **Si hay invitados y/o sesiones nocturnas durante el trimestre**
 
-Los invitados se facturan al cierre del trimestre (sin descuento):
+Los invitados y turnos nocturnos se facturan al cierre del trimestre (sin descuento):
 
 ```
-+ Invitados realizados durante el trimestre:
-- 2 invitados Febrero × Gs. 110,000 ........................... Gs. 220,000
-- 1 invitado Marzo × Gs. 110,000 .............................. Gs. 110,000
++ Extras realizados durante el trimestre:
+- 2 invitados tarde Febrero × Gs. 110,000 ..................... Gs. 220,000
+- 1 invitado tarde Marzo × Gs. 110,000 ........................ Gs. 110,000
+- 1 sesión nocturna Marzo (Iván + Kiki) ....................... Gs. 350,000
                                                                    -----------
-TOTAL CON INVITADOS: ...................................... Gs. 1,420,500
+TOTAL EXTRAS: ........................................... Gs. 680,000
+TOTAL CON EXTRAS: ...................................... Gs. 1,770,500
 ```
 
 ---
 
 ## 📋 Resumen Financiero
 
-### **Costo por Trimestre (3 meses)**
+### **Costo por Trimestre (3 meses) - Turno Tarde**
 
 | Escenario | Por Mes | × 3 Meses | Con 5% desc. |
 |-----------|---------|-----------|--------------|
 | Base core (tarde) | Gs. 380,000 | Gs. 1,140,000 | **Gs. 1,090,500** |
 | Base + 2 invitados/mes | Gs. 600,000 | Gs. 1,800,000 | **Gs. 1,750,500** |
-| Nocturno Iván+Kiki | Gs. 350,000 | Gs. 1,050,000 | **Gs. 1,005,000** |
-| Nocturno + Ale | Gs. 500,000 | Gs. 1,500,000 | **Gs. 1,432,500** |
+
+> ⚠️ Turnos nocturnos se pagan **por sesión** (no trimestral). Se facturan al cierre junto con invitados.
 
 ### **Ingreso Mikie por Trimestre**
 
