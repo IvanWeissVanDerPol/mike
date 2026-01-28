@@ -20,7 +20,7 @@
 | **Total trimestre** | **Gs. 1,090,500** |
 | **Transporte** | Uber cubierto por AI-Whisperer (Gs. 50K/visita) |
 | **Invitados** | Gs. 110,000 cada uno (máx 2 por visita) |
-| **Nocturno (futuro)** | Gs. 150,000/sesión, por sesión, cuando Mikie confirma |
+| **Nocturno (futuro)** | Gs. 150,000/sesión, disponible según agenda de Mikie |
 
 ---
 
