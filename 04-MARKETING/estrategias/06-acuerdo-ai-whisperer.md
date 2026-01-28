@@ -90,7 +90,7 @@
 |----------|---------|
 | Frecuencia | 1 visita/mes |
 | Semana | Semana 2 o 3 |
-| Día | Martes o Miércoles |
+| Día | Miércoles ✅ |
 | Horario | 14:00 - 18:00 |
 | Descanso Mikie | 20-30 min entre sesiones |
 
@@ -212,10 +212,10 @@ TOTAL CON INVITADOS:                                    Gs. 1,310,500
 **Pendiente:**
 - [ ] Dirección exacta oficina AI-Whisperer
 - [ ] Dirección de Mikie para el Uber
-- [ ] Día preferido (Martes? Miércoles?)
+- [x] Día preferido → Miércoles
 - [x] Ale nocturno → solo si Mikie acepta, sino no hay problema
 
-**Primera visita:** Objetivo Martes 11 o Miércoles 12 de Febrero  
+**Primera visita:** Miércoles 11 de Febrero  
 **Pago T1:** Gs. 1,090,500 por transferencia antes de la primera visita
 
 ---
