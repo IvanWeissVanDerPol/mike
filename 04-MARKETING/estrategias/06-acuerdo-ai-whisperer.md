@@ -80,7 +80,7 @@
 | Concepto | Monto |
 |----------|-------|
 | Base fijo (6 sesiones + propinas) | Gs. 660,000 |
-| Transporte Uber (cubierto por empresa) | Gs. ~100,000 |
+| Transporte Uber (2 visitas × Gs. 50,000) | Gs. 100,000 |
 | **TOTAL MES** | **Gs. 760,000** |
 
 **Mes con invitados:**
@@ -89,8 +89,8 @@
 |----------|-------|
 | Base fijo (6 sesiones + propinas) | Gs. 660,000 |
 | + 3 invitados × Gs. 110,000 | Gs. 330,000 |
-| Transporte Uber | Gs. ~120,000 |
-| **TOTAL MES** | **Gs. 1,110,000** |
+| Transporte Uber (3 visitas × Gs. 50,000) | Gs. 150,000 |
+| **TOTAL MES** | **Gs. 1,140,000** |
 
 ---
 
@@ -115,60 +115,73 @@
 - AI-Whisperer reembolsa junto con pago mensual
 - Agregar al monto: ~Gs. 40-60K/visita (estimado ida+vuelta)
 
-### **Costo Estimado Transporte**
+### **Costo Transporte**
 
-| Frecuencia | Viajes/Mes | Costo Est./Viaje | Total Transporte |
-|------------|------------|------------------|------------------|
-| 2x/mes (mínimo) | 4 trayectos | Gs. 25,000 | Gs. 100,000 |
-| 3x/mes | 6 trayectos | Gs. 25,000 | Gs. 150,000 |
-
-**Nota:** Costo real depende de distancia Casa Mikie ↔ Oficina AI-Whisperer
+| Concepto | Precio |
+|----------|--------|
+| Uber (1 trayecto) | Gs. 25,000 |
+| Ida + Vuelta | Gs. 50,000 |
+| **2 visitas/mes** | **Gs. 100,000** |
+| 3 visitas/mes (con invitados) | Gs. 150,000 |
 
 ---
 
 ## 📅 Calendario de Visitas
 
-### **Horario: Noche (Post-Oficina, Post-Gym)**
+### **Disponibilidad Mikie**
 
-> **Concepto:** Masaje nocturno para relajar después del día de trabajo y gym.  
-> Kiki puede dormir después, todos quedan listos para descansar.
+| Concepto | Detalle |
+|----------|---------|
+| **Horario disponible** | 14:00 - 19:00 |
+| **Descanso entre sesiones** | 20-30 min |
+| **Duración sesión** | 60 min masaje full body |
+| **Tiempo por persona** | ~90 min (60 min sesión + 30 min descanso) |
+
+---
 
 ### **Frecuencia Base**
 
 | Semana | Día Sugerido | Horario | Sesiones |
 |--------|--------------|---------|----------|
-| Semana 1 | Martes/Miércoles | 21:00-00:30 | 3 sesiones (Iván, Kiki, Jonathan) |
-| Semana 3 | Martes/Miércoles | 21:00-00:30 | 3 sesiones (Iván, Kiki, Jonathan) |
+| Semana 1 | Martes/Miércoles | 14:00-18:30 | 3 sesiones |
+| Semana 3 | Martes/Miércoles | 14:00-18:30 | 3 sesiones |
 
 **Total:** 2 visitas/mes, 3 personas/visita
 
-### **Formato de Sesión (Nocturno)**
+### **Formato de Sesión (Tarde)**
 
 | Tiempo | Actividad |
 |--------|-----------|
-| 21:00-21:10 | Setup (camilla, luces bajas, ambiente relajante) |
-| 21:10-22:10 | Sesión 1 - **Kiki** (60 min) → directo a dormir |
-| 22:15-23:15 | Sesión 2 - **Jonathan** (60 min) → se va a su casa |
-| 23:20-00:20 | Sesión 3 - **Iván** (60 min) → directo a cama |
-| 00:20-00:30 | Pack up |
+| 14:00-14:10 | Setup (camilla, ambiente relajante) |
+| 14:10-15:10 | Sesión 1 - **Kiki** (60 min) |
+| 15:10-15:30 | Descanso Mikie (20 min) |
+| 15:30-16:30 | Sesión 2 - **Jonathan** (60 min) |
+| 16:30-17:00 | Descanso Mikie (30 min) |
+| 17:00-18:00 | Sesión 3 - **Iván** (60 min) |
+| 18:00-18:10 | Pack up |
 
-**Duración visita:** ~3.5 horas  
-**Fin estimado:** ~00:30 (medianoche/1am)
+**Duración visita:** ~4 horas  
+**Fin:** ~18:00-18:10 (dentro del horario de Mikie)
 
-### **Orden Sugerido**
+### **Orden de Sesiones**
 
-1. **Kiki primero** → termina ~22:10, va directo a dormir (vive en oficina)
-2. **Jonathan segundo** → termina ~23:15, se va a su casa relajado
-3. **Iván último** → termina ~00:20, directo a cama (vive en oficina)
+1. **Kiki primero** (14:10-15:10) → puede descansar/siesta después
+2. **Jonathan segundo** (15:30-16:30) → se va a su casa relajado
+3. **Iván último** (17:00-18:00) → cierra la jornada
 
 > **Nota:** Iván y Kiki viven en la oficina, Jonathan se va a su casa después de su sesión.
 
-### **Beneficios Horario Nocturno**
+### **Con Invitados (máximo 2 por visita)**
 
-- Post-gym: músculos calientes, mejor para masaje profundo
-- Post-trabajo: libera tensión acumulada del día
-- Pre-sueño: relajación total, mejor calidad de sueño
-- Sin interrupciones: oficina vacía, ambiente tranquilo
+Si hay invitados, se extiende el horario:
+
+| Personas | Horario | Fin |
+|----------|---------|-----|
+| 3 (solo core) | 14:00-18:00 | 18:00 |
+| 4 (core + 1) | 14:00-19:30 | 19:30 |
+| 5 (core + 2) | 14:00-21:00 | 21:00* |
+
+*Requiere confirmar disponibilidad extendida con Mikie
 
 ### **Flexibilidad Invitados**
 
