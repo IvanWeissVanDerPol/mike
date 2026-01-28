@@ -128,26 +128,43 @@
 
 ## 📅 Calendario de Visitas
 
+### **Horario: Noche (Post-Oficina, Post-Gym)**
+
+> **Concepto:** Masaje nocturno para relajar después del día de trabajo y gym.  
+> Kiki puede dormir después, todos quedan listos para descansar.
+
 ### **Frecuencia Base**
 
 | Semana | Día Sugerido | Horario | Sesiones |
 |--------|--------------|---------|----------|
-| Semana 1 | Martes/Miércoles | 14:00-17:00 | 3 sesiones (Iván, Kiki, Jonathan) |
-| Semana 3 | Martes/Miércoles | 14:00-17:00 | 3 sesiones (Iván, Kiki, Jonathan) |
+| Semana 1 | Martes/Miércoles | 20:00-23:30 | 3 sesiones (Iván, Kiki, Jonathan) |
+| Semana 3 | Martes/Miércoles | 20:00-23:30 | 3 sesiones (Iván, Kiki, Jonathan) |
 
 **Total:** 2 visitas/mes, 3 personas/visita
 
-### **Formato de Sesión**
+### **Formato de Sesión (Nocturno)**
 
 | Tiempo | Actividad |
 |--------|-----------|
-| 14:00-14:10 | Setup (camilla, ambiente) |
-| 14:10-15:10 | Sesión 1 (60 min) |
-| 15:15-16:15 | Sesión 2 (60 min) |
-| 16:20-17:20 | Sesión 3 (60 min) |
-| 17:20-17:30 | Pack up |
+| 20:00-20:10 | Setup (camilla, luces bajas, ambiente relajante) |
+| 20:10-21:10 | Sesión 1 - Kiki (60 min) → puede irse a dormir directo |
+| 21:15-22:15 | Sesión 2 (60 min) |
+| 22:20-23:20 | Sesión 3 (60 min) |
+| 23:20-23:30 | Pack up |
 
 **Duración visita:** ~3.5 horas
+
+### **Orden Sugerido**
+
+1. **Kiki primero** → termina ~21:10, puede irse a dormir
+2. **Jonathan/Iván** → terminan ~23:20, listos para descansar
+
+### **Beneficios Horario Nocturno**
+
+- Post-gym: músculos calientes, mejor para masaje profundo
+- Post-trabajo: libera tensión acumulada del día
+- Pre-sueño: relajación total, mejor calidad de sueño
+- Sin interrupciones: oficina vacía, ambiente tranquilo
 
 ### **Flexibilidad Invitados**
 
