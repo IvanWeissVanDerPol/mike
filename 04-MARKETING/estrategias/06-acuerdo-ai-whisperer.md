@@ -213,7 +213,7 @@ TOTAL CON INVITADOS:                                    Gs. 1,310,500
 - [ ] Dirección exacta oficina AI-Whisperer
 - [ ] Dirección de Mikie para el Uber
 - [ ] Día preferido (Martes? Miércoles?)
-- [ ] ¿Ale participa del nocturno?
+- [x] Ale nocturno → solo si Mikie acepta, sino no hay problema
 
 **Primera visita:** Objetivo Martes 11 o Miércoles 12 de Febrero  
 **Pago T1:** Gs. 1,090,500 por transferencia antes de la primera visita
