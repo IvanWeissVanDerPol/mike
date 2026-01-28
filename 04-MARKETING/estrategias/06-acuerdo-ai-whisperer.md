@@ -137,8 +137,8 @@
 
 | Semana | Día Sugerido | Horario | Sesiones |
 |--------|--------------|---------|----------|
-| Semana 1 | Martes/Miércoles | 20:00-23:30 | 3 sesiones (Iván, Kiki, Jonathan) |
-| Semana 3 | Martes/Miércoles | 20:00-23:30 | 3 sesiones (Iván, Kiki, Jonathan) |
+| Semana 1 | Martes/Miércoles | 21:00-00:30 | 3 sesiones (Iván, Kiki, Jonathan) |
+| Semana 3 | Martes/Miércoles | 21:00-00:30 | 3 sesiones (Iván, Kiki, Jonathan) |
 
 **Total:** 2 visitas/mes, 3 personas/visita
 
@@ -146,18 +146,19 @@
 
 | Tiempo | Actividad |
 |--------|-----------|
-| 20:00-20:10 | Setup (camilla, luces bajas, ambiente relajante) |
-| 20:10-21:10 | Sesión 1 - Kiki (60 min) → puede irse a dormir directo |
-| 21:15-22:15 | Sesión 2 (60 min) |
-| 22:20-23:20 | Sesión 3 (60 min) |
-| 23:20-23:30 | Pack up |
+| 21:00-21:10 | Setup (camilla, luces bajas, ambiente relajante) |
+| 21:10-22:10 | Sesión 1 - Kiki (60 min) → puede irse a dormir directo |
+| 22:15-23:15 | Sesión 2 (60 min) |
+| 23:20-00:20 | Sesión 3 (60 min) |
+| 00:20-00:30 | Pack up |
 
-**Duración visita:** ~3.5 horas
+**Duración visita:** ~3.5 horas  
+**Fin estimado:** ~00:30 (medianoche/1am)
 
 ### **Orden Sugerido**
 
-1. **Kiki primero** → termina ~21:10, puede irse a dormir
-2. **Jonathan/Iván** → terminan ~23:20, listos para descansar
+1. **Kiki primero** → termina ~22:10, puede irse a dormir
+2. **Jonathan/Iván** → terminan ~00:20, directo a cama
 
 ### **Beneficios Horario Nocturno**
 
