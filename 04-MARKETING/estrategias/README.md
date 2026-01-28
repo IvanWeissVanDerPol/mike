@@ -64,14 +64,15 @@
 - **Tipo:** Acuerdo corporativo específico (primer cliente B2B)
 - **Cliente:** AI-Whisperer (empresa IT - Iván, Kiki, Jonathan)
 - **Contenido:**
-  - 3 personas fijas: 2 masajes/mes cada uno (6 sesiones totales)
-  - Invitados ocasionales IT (hasta 4 extras/mes)
-  - Transporte Uber cubierto por AI-Whisperer (ida y vuelta)
-  - Precio: Gs. 80,000/sesión (20% descuento corporativo)
-  - Costo mensual empresa: Gs. 580,000-950,000
-  - Calendario de visitas 2x/mes y facturación
+  - 3 personas fijas: 1 masaje full body/mes cada uno (3 sesiones)
+  - Invitados ocasionales IT (máximo 2 por visita)
+  - Transporte Uber cubierto por AI-Whisperer (Gs. 50K ida+vuelta)
+  - Precio: Gs. 110,000/sesión (masaje + propina)
+  - Facturación trimestral (3 meses adelantado) con 5% descuento
+  - Opción futura turno nocturno (Iván + Kiki + Ale) a Gs. 150K/ses
+  - Versión 2.0 completa con todos los escenarios
 - **Estado:** ✅ Propuesta lista para firmar
-- **Ingreso Mikie:** Gs. 480,000+/mes garantizado + transporte gratis
+- **Ingreso Mikie:** Gs. 330,000+/mes garantizado (Gs. 990K/trimestre)
 
 ---
 

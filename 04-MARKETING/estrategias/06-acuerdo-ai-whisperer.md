@@ -12,21 +12,24 @@
 
 ### **Equipo Fijo (3 personas)**
 
-| Nombre | Rol | Frecuencia |
-|--------|-----|------------|
-| **Iván** | Fundador/Dev | 1 masaje/mes |
-| **Kiki** | Equipo | 1 masaje/mes |
-| **Jonathan** | Equipo | 1 masaje/mes |
+| Nombre | Rol | Frecuencia | Turno |
+|--------|-----|------------|-------|
+| **Iván** | Fundador/Dev | 1 masaje/mes | Tarde + Noche (futuro) |
+| **Kiki** | Equipo | 1 masaje/mes | Tarde + Noche (futuro) |
+| **Jonathan** | Equipo | 1 masaje/mes | Solo Tarde |
 
 **Total equipo fijo:** 3 sesiones/mes (1 visita)
+
+> **Nota:** Iván y Kiki viven en la oficina. Jonathan se va a su casa después de su sesión.
 
 ### **Invitados Ocasionales**
 
 - Amigos IT que trabajan en la oficina
 - Freelancers o colaboradores temporales
-- Límite: **4 sesiones adicionales/mes** (pre-acordadas)
+- **Máximo 2 invitados por visita** (limitado por horario de Mikie)
+- Avisar con **48h de anticipación**
 
-**Total máximo:** 10 sesiones/mes
+**Total máximo por visita:** 5 sesiones (3 core + 2 invitados)
 
 ---
 
@@ -37,18 +40,19 @@
 | Concepto | Precio |
 |----------|--------|
 | Precio normal | Gs. 100,000 |
-| **Precio AI-Whisperer** | **Gs. 100,000 + propina** |
+| **Precio AI-Whisperer** | **Gs. 100,000 + propina Gs. 10,000** |
+| **TOTAL por sesión** | **Gs. 110,000** |
 
 ---
 
-### **PRECIO BASE FIJO (Equipo Core)**
+### **PRECIO BASE FIJO (Equipo Core - Turno Tarde)**
 
 | Concepto | Detalle |
 |----------|---------|
 | **Personas cubiertas** | Iván, Kiki, Jonathan |
 | **Sesiones incluidas** | 1 masaje full body/mes cada uno (3 total) |
-| **Precio base mensual** | **Gs. 300,000** |
-| **Propina incluida** | **Gs. 30,000** (Gs. 10,000 × 3 sesiones) |
+| **Precio base mensual** | **Gs. 300,000** (3 × Gs. 100,000) |
+| **Propina incluida** | **Gs. 30,000** (3 × Gs. 10,000) |
 | **TOTAL FIJO MENSUAL** | **Gs. 330,000** |
 
 > **El precio base se paga aunque no usen todas las sesiones.**  
@@ -56,7 +60,7 @@
 
 ---
 
-### **PRECIO POR SESIÓN EXTRA (Invitados)**
+### **PRECIO POR SESIÓN EXTRA (Invitados - Turno Tarde)**
 
 | Concepto | Precio |
 |----------|--------|
@@ -69,27 +73,25 @@
 - Freelancers o colaboradores
 - Cualquier persona que Iván/Kiki/Jonathan inviten
 
-**Sin límite de invitados** (sujeto a disponibilidad de agenda)
-
 ---
 
-### **Ejemplo Facturación Mensual**
+### **Ejemplo de Costo Mensual**
 
 **Mes normal (solo equipo core):**
 
 | Concepto | Monto |
 |----------|-------|
 | Base fijo (3 sesiones + propinas) | Gs. 330,000 |
-| Transporte Uber (1 visita × Gs. 50,000) | Gs. 50,000 |
+| Transporte Uber (1 visita ida+vuelta) | Gs. 50,000 |
 | **TOTAL MES** | **Gs. 380,000** |
 
-**Mes con invitados:**
+**Mes con 2 invitados:**
 
 | Concepto | Monto |
 |----------|-------|
 | Base fijo (3 sesiones + propinas) | Gs. 330,000 |
 | + 2 invitados × Gs. 110,000 | Gs. 220,000 |
-| Transporte Uber (1 visita × Gs. 50,000) | Gs. 50,000 |
+| Transporte Uber (1 visita ida+vuelta) | Gs. 50,000 |
 | **TOTAL MES** | **Gs. 600,000** |
 
 ---
@@ -98,10 +100,18 @@
 
 ### **AI-Whisperer cubre transporte completo**
 
-| Trayecto | Responsable | Método |
-|----------|-------------|--------|
-| Ida (Casa Mikie → Oficina) | AI-Whisperer | Uber Business o reembolso |
-| Vuelta (Oficina → Casa Mikie) | AI-Whisperer | Uber Business o reembolso |
+| Trayecto | Responsable |
+|----------|-------------|
+| Ida (Casa Mikie → Oficina) | AI-Whisperer |
+| Vuelta (Oficina → Casa Mikie) | AI-Whisperer |
+
+### **Costo Transporte**
+
+| Concepto | Precio |
+|----------|--------|
+| Uber (1 trayecto) | Gs. 25,000 |
+| **Ida + Vuelta (1 visita)** | **Gs. 50,000** |
+| **1 visita/mes (base)** | **Gs. 50,000/mes** |
 
 ### **Opciones de Pago Transporte**
 
@@ -112,17 +122,8 @@
 
 **Opción B: Reembolso**
 - Mikie paga Uber y manda capturas
-- AI-Whisperer reembolsa junto con pago mensual
-- Agregar al monto: ~Gs. 40-60K/visita (estimado ida+vuelta)
-
-### **Costo Transporte**
-
-| Concepto | Precio |
-|----------|--------|
-| Uber (1 trayecto) | Gs. 25,000 |
-| Ida + Vuelta | Gs. 50,000 |
-| **1 visita/mes (base)** | **Gs. 50,000** |
-| 2 visitas/mes (con invitados) | Gs. 100,000 |
+- AI-Whisperer reembolsa junto con pago trimestral
+- Costo fijo: Gs. 50,000 por visita (ida+vuelta)
 
 ---
 
@@ -139,13 +140,11 @@
 
 ---
 
-### **Frecuencia Base**
+### **Frecuencia Base: 1 visita/mes**
 
 | Semana | Día Sugerido | Horario | Sesiones |
 |--------|--------------|---------|----------|
-| Semana 2 o 3 | Martes/Miércoles | 14:00-18:00 | 3 sesiones |
-
-**Total:** 1 visita/mes, 3 personas/visita
+| Semana 2 o 3 | Martes/Miércoles | 14:00-18:00 | 3 sesiones (core) |
 
 ### **Formato de Sesión (Tarde)**
 
@@ -160,24 +159,20 @@
 | 18:00-18:10 | Pack up |
 
 **Duración visita:** ~4 horas  
-**Fin:** ~18:00-18:10 (dentro del horario de Mikie)
+**Fin:** ~18:00 (dentro del horario de Mikie)
 
 ### **Orden de Sesiones**
 
-1. **Kiki primero** (14:10-15:10) → puede descansar/siesta después
+1. **Kiki primero** (14:10-15:10) → puede descansar/siesta después (vive en oficina)
 2. **Jonathan segundo** (15:30-16:30) → se va a su casa relajado
-3. **Iván último** (17:00-18:00) → cierra la jornada
-
-> **Nota:** Iván y Kiki viven en la oficina, Jonathan se va a su casa después de su sesión.
+3. **Iván último** (17:00-18:00) → cierra la jornada (vive en oficina)
 
 ### **Con Invitados (máximo 2 por visita)**
-
-Si hay invitados, se extiende el horario:
 
 | Personas | Horario | Fin |
 |----------|---------|-----|
 | 3 (solo core) | 14:00-18:00 | 18:00 |
-| 4 (core + 1) | 14:00-19:30 | 19:30 |
+| 4 (core + 1) | 14:00-19:30 | 19:30* |
 | 5 (core + 2) | 14:00-21:00 | 21:00* |
 
 *Requiere confirmar disponibilidad extendida con Mikie
@@ -200,13 +195,13 @@ Si hay invitados, se extiende el horario:
 | **Ale** | ✅ Posible | Roomie, vive en oficina, paga su parte |
 
 > **Jonathan no participa** del turno nocturno porque se va a su casa.  
-> **Ale** puede sumarse si quiere, paga Gs. 150,000 por su sesión (precio invitado nocturno).
+> **Ale** puede sumarse si quiere, paga Gs. 150,000 por su sesión.
 
 **Beneficios horario nocturno:**
 - Post-gym: músculos calientes, mejor para masaje profundo
 - Pre-sueño: relajación total, mejor calidad de sueño
 - Kiki puede dormir directo después de su sesión
-- Todos los que viven en oficina queda listos para cama
+- Todos los que viven en oficina quedan listos para cama
 
 **Precio nocturno:**
 
@@ -227,22 +222,16 @@ Si hay invitados, se extiende el horario:
 | 22:15-23:15 | Sesión 2 - **Iván** → directo a cama |
 | 23:20-00:20 | Sesión 3 - **Ale** (si participa) |
 
-**Si se activa horario nocturno:**
+**Costo mensual nocturno:**
 
-| Escenario | Sesiones | Precio Sesiones | Uber | Total |
-|-----------|----------|-----------------|------|-------|
+| Escenario | Sesiones | Precio Sesiones | Uber | Total/Mes |
+|-----------|----------|-----------------|------|-----------|
 | Solo Iván + Kiki | 2 | Gs. 300,000 | Gs. 50,000 | **Gs. 350,000** |
 | + Ale | 3 | Gs. 450,000 | Gs. 50,000 | **Gs. 500,000** |
 
 > **Ale paga su parte** (Gs. 150,000) directamente o AI-Whisperer lo incluye en la factura.
 
 **Para activar:** Consultar con Mikie si puede hacer excepción para AI-Whisperer en horario nocturno con el recargo correspondiente
-
-### **Flexibilidad Invitados**
-
-- Invitados se agregan a las visitas existentes (extendiendo horario)
-- O se programa visita adicional si hay 3+ invitados
-- Avisar con **48h de anticipación** para invitados
 
 ---
 
@@ -264,15 +253,33 @@ Si hay invitados, se extiende el horario:
 | T3 | Agosto - Octubre | 1-5 Agosto |
 | T4 | Noviembre - Enero | 1-5 Noviembre |
 
-### **Descuento por Pago Adelantado (3 meses)**
+### **Precio Trimestral con Descuento**
+
+**Turno Tarde (base):**
 
 | Concepto | Precio/Mes | × 3 meses | Con descuento 5% |
 |----------|------------|-----------|-------------------|
 | Base fijo (3 ses + propinas) | Gs. 330,000 | Gs. 990,000 | **Gs. 940,500** |
-| Uber (1 visita) | Gs. 50,000 | Gs. 150,000 | Gs. 150,000 |
+| Uber (1 visita/mes) | Gs. 50,000 | Gs. 150,000 | Gs. 150,000 |
 | **TOTAL TRIMESTRE** | Gs. 380,000 | Gs. 1,140,000 | **Gs. 1,090,500** |
 
-> **5% de descuento** por pagar 3 meses adelantado = ahorrás ~Gs. 50,000 por trimestre
+**Turno Nocturno (si se activa) - solo Iván + Kiki:**
+
+| Concepto | Precio/Mes | × 3 meses | Con descuento 5% |
+|----------|------------|-----------|-------------------|
+| 2 sesiones nocturnas + propinas | Gs. 300,000 | Gs. 900,000 | **Gs. 855,000** |
+| Uber (1 visita/mes) | Gs. 50,000 | Gs. 150,000 | Gs. 150,000 |
+| **TOTAL TRIMESTRE NOCTURNO** | Gs. 350,000 | Gs. 1,050,000 | **Gs. 1,005,000** |
+
+**Turno Nocturno con Ale:**
+
+| Concepto | Precio/Mes | × 3 meses | Con descuento 5% |
+|----------|------------|-----------|-------------------|
+| 3 sesiones nocturnas + propinas | Gs. 450,000 | Gs. 1,350,000 | **Gs. 1,282,500** |
+| Uber (1 visita/mes) | Gs. 50,000 | Gs. 150,000 | Gs. 150,000 |
+| **TOTAL TRIMESTRE + ALE** | Gs. 500,000 | Gs. 1,500,000 | **Gs. 1,432,500** |
+
+> **5% de descuento** por pagar 3 meses adelantado
 
 ### **Métodos de Pago**
 
@@ -280,7 +287,7 @@ Si hay invitados, se extiende el horario:
 - ✅ Giros Tigo/Personal
 - ✅ Efectivo (si es conveniente)
 
-### **Factura Trimestral Ejemplo**
+### **Factura Trimestral Ejemplo (Tarde, sin invitados)**
 
 ```
 FACTURA TRIMESTRAL - FEB-ABR 2026
@@ -305,7 +312,7 @@ TOTAL A PAGAR: ............................................ Gs. 1,090,500
 
 ### **Si hay invitados durante el trimestre**
 
-Los invitados se facturan al cierre del trimestre:
+Los invitados se facturan al cierre del trimestre (sin descuento):
 
 ```
 + Invitados realizados durante el trimestre:
@@ -319,58 +326,60 @@ TOTAL CON INVITADOS: ...................................... Gs. 1,420,500
 
 ## 📋 Resumen Financiero
 
-### **Costo Mensual AI-Whisperer**
+### **Costo por Trimestre (3 meses)**
 
-| Concepto | Mínimo | Con 2 invitados |
-|----------|--------|-----------------|
-| Base fijo (3 sesiones) | Gs. 300,000 | Gs. 300,000 |
-| Propinas base (3 × 10K) | Gs. 30,000 | Gs. 30,000 |
-| Invitados (× Gs. 110K) | Gs. 0 | Gs. 220,000 |
-| Transporte Uber | Gs. 50,000 | Gs. 50,000 |
-| **TOTAL MES** | **Gs. 380,000** | **Gs. 600,000** |
+| Escenario | Por Mes | × 3 Meses | Con 5% desc. |
+|-----------|---------|-----------|--------------|
+| Base core (tarde) | Gs. 380,000 | Gs. 1,140,000 | **Gs. 1,090,500** |
+| Base + 2 invitados/mes | Gs. 600,000 | Gs. 1,800,000 | **Gs. 1,750,500** |
+| Nocturno Iván+Kiki | Gs. 350,000 | Gs. 1,050,000 | **Gs. 1,005,000** |
+| Nocturno + Ale | Gs. 500,000 | Gs. 1,500,000 | **Gs. 1,432,500** |
 
-### **Ingreso Mikie**
+### **Ingreso Mikie por Trimestre**
 
-| Concepto | Monto |
-|----------|-------|
-| Servicios base (3 sesiones) | Gs. 300,000 |
-| Propinas garantizadas | Gs. 30,000 |
-| Transporte | Gs. 0 (cubierto) |
-| **Ingreso mínimo/mes** | **Gs. 330,000** |
-| Tiempo efectivo | ~3 horas/mes |
-| **Ingreso/hora** | **Gs. 110,000** |
+| Concepto | Por Mes | Por Trimestre |
+|----------|---------|---------------|
+| Servicios base (3 sesiones) | Gs. 300,000 | Gs. 900,000 |
+| Propinas garantizadas | Gs. 30,000 | Gs. 90,000 |
+| Transporte | Gs. 0 (cubierto) | Gs. 0 |
+| **Ingreso mínimo** | **Gs. 330,000** | **Gs. 990,000** |
+| Tiempo efectivo | ~3 horas | ~9 horas |
+| **Ingreso/hora** | **Gs. 110,000** | **Gs. 110,000** |
 
-**Ventaja:** Tarifa full (Gs. 100K) + propina garantizada + transporte gratis = mejor deal que clientes individuales.
+**Ventaja:** Tarifa full (Gs. 100K) + propina garantizada + transporte gratis + pago adelantado = mejor deal que clientes individuales.
 
 ---
 
 ## ✅ Beneficios para AI-Whisperer
 
 1. **Precio fijo predecible** - Gs. 330K base/mes para el equipo core
-2. **Transporte cubierto** - Mikie llega sin fricción
-3. **Invitados bienvenidos** - Cultura de bienestar para el team
-4. **Horario flexible** - Se adapta a la oficina
-5. **Sin contrato largo** - Mes a mes, cancelable
+2. **Pago trimestral** - 5% descuento por adelantar 3 meses
+3. **Transporte cubierto** - Mikie llega sin fricción (Uber)
+4. **Invitados bienvenidos** - Cultura de bienestar para el team
+5. **Horario flexible** - Se adapta a la oficina
 6. **Servicio premium** - Full body 60 min + propina ya incluida
+7. **Opción nocturna futura** - Para los que viven en oficina
 
 ---
 
 ## ✅ Beneficios para Mikie
 
 1. **Ingreso recurrente** Gs. 330K+ garantizado/mes
-2. **Propina garantizada** (Gs. 10K por sesión, ya incluida)
-3. **Transporte cubierto** (cero gasto de bolsillo)
-4. **Ingreso/hora alto** Gs. 110K (mejor que individual)
-5. **Cliente de confianza** (amigos, ambiente relajado)
-6. **Referencia corporativa** (para conseguir más empresas)
+2. **Pago adelantado trimestral** - Certeza financiera 3 meses
+3. **Propina garantizada** (Gs. 10K por sesión, ya incluida)
+4. **Transporte cubierto** (cero gasto de bolsillo)
+5. **Ingreso/hora alto** Gs. 110K (mejor que individual)
+6. **Cliente de confianza** (amigos, ambiente relajado)
+7. **Referencia corporativa** (para conseguir más empresas)
 
 ---
 
 ## 📝 Términos del Acuerdo
 
-### **Duración**
-- Mes a mes, renovación automática
-- Cancelación con 15 días de aviso
+### **Duración y Renovación**
+- Compromiso trimestral (3 meses), renovación automática
+- Para cancelar: aviso con **15 días antes** del inicio del siguiente trimestre
+- Si cancela en medio del trimestre: se mantiene el compromiso hasta el fin del trimestre pagado
 
 ### **Cancelaciones de Sesión**
 - Cancelar con **24h de anticipación** = sin cargo
@@ -379,7 +388,7 @@ TOTAL CON INVITADOS: ...................................... Gs. 1,420,500
 
 ### **Reagendamiento**
 - Ilimitado con 24h de aviso
-- Sesiones no usadas NO se acumulan al mes siguiente
+- Sesiones no usadas NO se acumulan al mes siguiente ni al trimestre siguiente
 
 ### **Protocolo de Sesión**
 - Siempre con ropa (no se desvisten)
@@ -392,17 +401,22 @@ TOTAL CON INVITADOS: ...................................... Gs. 1,420,500
 
 1. **Confirmar detalles:**
    - [ ] Dirección exacta oficina AI-Whisperer
-   - [ ] Días preferidos (Martes? Miércoles? Otro?)
-   - [ ] Horario preferido (mañana/tarde)
+   - [ ] Día preferido (Martes? Miércoles? Otro?)
+   - [ ] Horario preferido (tarde 14:00-18:00)
    - [ ] Método de pago transporte (Uber Business o reembolso)
+   - [ ] ¿Ale participa del turno nocturno?
 
 2. **Primera visita:**
-   - Programar para Semana 1 o 2 de Febrero
+   - Programar para Semana 2 o 3 de Febrero
    - Probar logística (transporte, espacio, timing)
 
-3. **Ajustar si es necesario:**
-   - Después de 2-3 visitas, revisar si funciona bien
-   - Ajustar horarios/frecuencia según feedback
+3. **Pago primer trimestre:**
+   - Factura T1 (Feb-Abr): Gs. 1,090,500
+   - Pagar por transferencia antes de la primera visita
+
+4. **Negociar turno nocturno (futuro):**
+   - Consultar con Mikie disponibilidad nocturna
+   - Si es posible, activar para T2 (May-Jul)
 
 ---
 
@@ -410,7 +424,7 @@ TOTAL CON INVITADOS: ...................................... Gs. 1,420,500
 
 **Mikie:**  
 WhatsApp: +595 XXX XXX XXX  
-Disponibilidad: Lunes a Sábado, 9:00-19:00
+Disponibilidad: Lunes a Sábado, 14:00-19:00
 
 **Iván (AI-Whisperer):**  
 WhatsApp: +595 XXX XXX XXX  
@@ -420,4 +434,4 @@ Coordinador de agenda del equipo
 
 **Última actualización:** Enero 2026  
 **Estado:** Propuesta lista - Pendiente confirmación  
-**Versión:** 1.0
+**Versión:** 2.0 (Trimestral + Nocturno + Ale)
