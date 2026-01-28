@@ -147,9 +147,9 @@
 | Tiempo | Actividad |
 |--------|-----------|
 | 21:00-21:10 | Setup (camilla, luces bajas, ambiente relajante) |
-| 21:10-22:10 | Sesión 1 - Kiki (60 min) → puede irse a dormir directo |
-| 22:15-23:15 | Sesión 2 (60 min) |
-| 23:20-00:20 | Sesión 3 (60 min) |
+| 21:10-22:10 | Sesión 1 - **Kiki** (60 min) → directo a dormir |
+| 22:15-23:15 | Sesión 2 - **Jonathan** (60 min) → se va a su casa |
+| 23:20-00:20 | Sesión 3 - **Iván** (60 min) → directo a cama |
 | 00:20-00:30 | Pack up |
 
 **Duración visita:** ~3.5 horas  
@@ -157,8 +157,11 @@
 
 ### **Orden Sugerido**
 
-1. **Kiki primero** → termina ~22:10, puede irse a dormir
-2. **Jonathan/Iván** → terminan ~00:20, directo a cama
+1. **Kiki primero** → termina ~22:10, va directo a dormir (vive en oficina)
+2. **Jonathan segundo** → termina ~23:15, se va a su casa relajado
+3. **Iván último** → termina ~00:20, directo a cama (vive en oficina)
+
+> **Nota:** Iván y Kiki viven en la oficina, Jonathan se va a su casa después de su sesión.
 
 ### **Beneficios Horario Nocturno**
 
